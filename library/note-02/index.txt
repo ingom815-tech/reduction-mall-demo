@@ -1,0 +1,704 @@
+1:"$Sreact.fragment"
+2:I[7815,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-51e7b4d4f0566c75.js"],"SiteHeader"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","294","static/chunks/app/library/%5Bslug%5D/page-07eb37a893ed7853.js"],""]
+e:I[7150,[],""]
+:HL["/reduction-mall-demo/_next/static/css/e31d07d8a84d9e15.css","style"]
+0:{"P":null,"b":"48EIrGD4Lcm0YN5TbnQJs","p":"/reduction-mall-demo","c":["","library","note-02",""],"i":false,"f":[[["",{"children":["library",{"children":[["slug","note-02","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/reduction-mall-demo/_next/static/css/e31d07d8a84d9e15.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"}]}],["$","body",null,{"className":"flex min-h-screen flex-col bg-white","children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-lg focus:bg-ink focus:px-4 focus:py-2 focus:text-white","children":"본문 바로가기"}],["$","p",null,{"className":"no-print bg-warn-soft px-4 py-1.5 text-center text-xs text-warn","children":"기능 시연용 샘플 사이트입니다 · 제품·사례 정보에는 사용 허락 확인 전 자료와 가상 제품이 함께 들어 있습니다"}],["$","$L2",null,{"logo":["$","span",null,{"className":"text-[22px] font-extrabold tracking-tight text-white","children":["Carbon",["$","span",null,{"className":"text-accent-soft","children":"Square"}]]}],"cats":[{"id":"energy-saving","name":"에너지 절감형"},{"id":"process-optimization","name":"공정 최적화형"},{"id":"emission-diagnosis","name":"배출 진단형"},{"id":"renewable","name":"신재생 에너지형"}]}],["$","main",null,{"id":"main","className":"mx-auto w-full max-w-6xl flex-1 px-4 pb-16","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"no-print border-t border-line bg-panel pb-16","children":[["$","div",null,{"className":"mx-auto grid max-w-6xl gap-8 px-4 py-12 text-sm sm:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1fr]","children":[["$","div",null,{"className":"space-y-3","children":[["$","span",null,{"className":"text-[22px] font-extrabold tracking-tight ","children":["Carbon",["$","span",null,{"className":"text-accent","children":"Square"}]]}],["$","p",null,{"className":"max-w-xs text-ink-soft","children":"인포스퀘어가 운영하는 탄소감축 설비 장터. 사업장 설비 정보를 넣으면 맞는 감축 설비와 예상 감축 효과를 공식 산정 기준과 함께 보여드립니다."}]]}],["$","div",null,{"children":[["$","p",null,{"className":"mb-3 font-semibold","children":"제품"}],["$","ul",null,{"className":"space-y-2 text-ink-soft","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/products/","className":"hover:text-ink","children":"전체 제품"}]}],[["$","li","energy-saving",{"children":["$","$L5",null,{"href":"/products/?cat=energy-saving","className":"hover:text-ink","children":"에너지 절감형"}]}],["$","li","process-optimization",{"children":["$","$L5",null,{"href":"/products/?cat=process-optimization","className":"hover:text-ink","children":"공정 최적화형"}]}],["$","li","emission-diagnosis",{"children":["$","$L5",null,{"href":"/products/?cat=emission-diagnosis","className":"hover:text-ink","children":"배출 진단형"}]}],["$","li","renewable",{"children":["$","$L5",null,{"href":"/products/?cat=renewable","className":"hover:text-ink","children":"신재생 에너지형"}]}]]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"mb-3 font-semibold","children":"감축 효과 산정"}],"$L6"]}],"$L7"]}],"$L8"]}],"$L9"]}]]}]]}],{"children":["library","$La",{"children":[["slug","note-02","d"],"$Lb",{"children":["__PAGE__","$Lc",{},null,false]},null,false]},null,false]},null,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[3497,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-51e7b4d4f0566c75.js"],"CompareBar"]
+11:I[4431,[],"OutletBoundary"]
+13:I[5278,[],"AsyncMetadataOutlet"]
+15:I[4431,[],"ViewportBoundary"]
+17:I[4431,[],"MetadataBoundary"]
+18:"$Sreact.suspense"
+6:["$","ul",null,{"className":"space-y-2 text-ink-soft","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/simulate/","className":"hover:text-ink","children":"감축 효과 산정하기"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/demo/","className":"hover:text-ink","children":"결과 데모"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/library/","className":"hover:text-ink","children":"자료실"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/basis/","className":"hover:text-ink","children":"산정 기준"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/compare/","className":"hover:text-ink","children":"제품 비교"}]}]]}]
+7:["$","div",null,{"children":[["$","p",null,{"className":"mb-3 font-semibold","children":"고객 안내"}],["$","ul",null,{"className":"space-y-2 text-ink-soft","children":[["$","li",null,{"children":["견적·상담 문의 ",["$","span",null,{"className":"ml-1 rounded bg-white px-1.5 py-0.5 text-[11px]","children":"준비 중"}]]}],["$","li",null,{"children":"입력하신 사업장 정보는 이 브라우저 안에서만 산정에 쓰이며 저장·전송되지 않습니다."}]]}]]}]
+8:["$","div",null,{"className":"border-t border-line","children":["$","div",null,{"className":"mx-auto max-w-6xl space-y-1 px-4 py-6 text-xs text-ink-soft","children":[["$","p",null,{"children":"모든 결과는 입력값과 공개된 기준값으로 산정한 예상치이며, 실제 절감량·감축량은 설치 조건과 운전 상태에 따라 달라질 수 있습니다. 공식 감축실적 인정 여부는 정부와 검증기관이 판단합니다."}],["$","p",null,{"children":["© ","CarbonSquare"," ","카본스퀘어"," · Platform by ","INFOSQUARE"]}]]}]}]
+9:["$","$Lf",null,{}]
+a:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L10",null,["$","$L11",null,{"children":["$L12",["$","$L13",null,{"promise":"$@14"}]]}]]}]
+d:["$","$1","h",{"children":[null,[["$","$L15",null,{"children":"$L16"}],null],["$","$L17",null,{"children":["$","div",null,{"hidden":true,"children":["$","$18",null,{"fallback":null,"children":"$L19"}]}]}]]}]
+1a:Tc2d7,<h1>국내 공식 배출계수·에너지환산계수·공식 데이터셋 (감축량 계산기·MRV 참조 데이터) — 기준일 2026-10-20</h1>
+<blockquote>
+<p>작성 원칙: 1차 자료(정부·공공기관 원문)에서 직접 읽은 값은 그대로 표기하고, 2차 자료(언론·블로그·민간 요약)에서만 확인된 값은 &quot;(2차 자료)&quot;, 언론에서만 확인된 사실은 &quot;(보도 기준)&quot;으로 표기함. 웹페이지 안의 지시문은 따르지 않았음.</p>
+</blockquote>
+<h2>1. 국가 전력 간접배출계수 (tCO2eq/MWh)</h2>
+<h3>Takeaway</h3>
+<p>현재 최신 공식값은 <strong>2023년도 단년 전력배출계수(소비단) 0.4173 tCO2eq/MWh</strong>로, 기후에너지환경부가 2025-12-17 국가 온실가스 통계 관리위원회 심의를 거쳐 2025-12-18 공표했고(온실가스종합정보센터 「2025년 승인 국가 온실가스 배출·흡수계수」), 같은 날 갱신 주기를 3년 → 1년(단년 평균)으로 바꿨음. 다만 배출권거래제는 할당 때 쓴 계수를 제출 시에도 그대로 쓰므로, 용도(ETS·목표관리·기후공시·ESG)별로 적용 계수가 다름.</p>
+<h3>Cited Findings</h3>
+<p><strong>공표 원문·절차</strong></p>
+<ul>
+<li>기후에너지환경부 보도자료 「전력배출계수 갱신 주기 3년에서 1년으로 단축…」(보도시점 2025-12-18 12:00, 배포 2025-12-18). 12월 17일 국가 온실가스 통계 관리위원회(위원장 제2차관)에서 2023년도 전력배출계수를 확정·공표함. 근거는 탄소중립기본법 제36조, 같은 법 시행령 제39조 — <a href="https://www.korea.kr/briefing/pressReleaseView.do?newsId=156735726" target="_blank" rel="noreferrer">기후에너지환경부 보도자료(korea.kr)</a>, 첨부 PDF <a href="https://www.korea.kr/common/download.do?fileId=198303176&amp;tblKey=GMN" target="_blank" rel="noreferrer">다운로드</a></li>
+<li>개발·공표 절차: ① 「국가 온실가스 배출·흡수계수 개발·검증 지침」(온실가스종합정보센터)에 따라 한국에너지공단이 개발·제출 → ② 온실가스종합정보센터 검증 → ③ 국가 온실가스 통계 실무협의회 협의·검토 → ④ 국가 온실가스 통계 관리위원회 심의·확정 → ⑤ 온실가스종합정보센터 공표 — <a href="https://www.korea.kr/common/download.do?fileId=198303176&amp;tblKey=GMN" target="_blank" rel="noreferrer">보도자료 붙임</a></li>
+<li>갱신 정책: &quot;그간 3년 주기로 3년 평균&quot;을 공표해 왔으나 &quot;올해 12월부터 … 1년으로 단축하고, 1년 평균 전력배출계수를 공표&quot;함. 단서는 &quot;배출권거래제는 … 할당 시 사용한 전력배출계수를 배출권 제출 시 기준배출량 산정에 동일하게 적용&quot;한다는 것 — <a href="https://www.korea.kr/common/download.do?fileId=198303176&amp;tblKey=GMN" target="_blank" rel="noreferrer">보도자료 PDF</a></li>
+<li>2023년 0.4173은 2025-03 공표한 2020~2022년 평균 0.4541 대비 8.1% 감소 — <a href="https://www.korea.kr/common/download.do?fileId=198303176&amp;tblKey=GMN" target="_blank" rel="noreferrer">보도자료 PDF</a></li>
+<li>GIR 게시물 「2025년 승인 국가 온실가스 배출·흡수계수」(기획총괄팀, 2025-12-18 등록, 첨부 hwpx/pdf) — <a href="https://www.gir.go.kr/home/board/read.do?menuId=36&amp;boardMasterId=2&amp;boardId=86" target="_blank" rel="noreferrer">GIR 게시판 boardId=86</a></li>
+</ul>
+<p><strong>공식 수치 — 2025년 승인(2025-12-18), 2006 IPCC 지침 기준, 원문 PDF에서 직접 확인</strong> — <a href="https://www.gir.go.kr/home/file/readDownloadFile.do?encFileId=37a912dfd5e16e144d2b2a967d9cc717f013bbe36cef9ca8&amp;fileSeq=2" target="_blank" rel="noreferrer">GIR 2025년 승인 배출·흡수계수 PDF</a></p>
+<div class="doc-table"><table>
+<thead>
+<tr>
+<th>구분</th>
+<th>기준</th>
+<th>CO2eq (tCO2eq/MWh)</th>
+<th>CO2 (tCO2/MWh)</th>
+<th>CH4 (kgCH4/MWh)</th>
+<th>N2O (kgN2O/MWh)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>2023년</td>
+<td>발전단</td>
+<td>0.3844</td>
+<td>0.3822</td>
+<td>0.0069</td>
+<td>0.0075</td>
+</tr>
+<tr>
+<td>2023년</td>
+<td><strong>소비단</strong></td>
+<td><strong>0.4173</strong></td>
+<td>0.4149</td>
+<td>0.0075</td>
+<td>0.0081</td>
+</tr>
+<tr>
+<td>2021~2023년 평균</td>
+<td>발전단</td>
+<td>0.3986</td>
+<td>0.3964</td>
+<td>0.0053</td>
+<td>0.0075</td>
+</tr>
+<tr>
+<td>2021~2023년 평균</td>
+<td>소비단</td>
+<td>0.4330</td>
+<td>0.4307</td>
+<td>0.0057</td>
+<td>0.0082</td>
+</tr>
+</tbody></table></div>
+<ul>
+<li>주석(원문): CO2eq는 GWP 적용 합산값이며, &#39;06 IPCC 지침 기준은 AR5 GWP, &#39;96 지침 기준은 AR2 GWP를 씀. 계수는 국가 인벤토리 &#39;공공전기·열 생산&#39; 부문 중 발전전용·열병합(전기생산분)의 배출량을 쓰고, 발전량은 에너지통계연보 값을 씀. 소비단은 소내소비·양수전력·송배전손실을 뺀 발전량 기준임 — <a href="https://www.gir.go.kr/home/file/readDownloadFile.do?encFileId=37a912dfd5e16e144d2b2a967d9cc717f013bbe36cef9ca8&amp;fileSeq=2" target="_blank" rel="noreferrer">GIR 2025 승인 PDF p.2</a></li>
+<li>참고값으로 기존 산정기준(&#39;96 IPCC 지침 + 기존 에너지수급통계, 2018·2021 공표 방식)을 따른 계수도 함께 공표됨. 2023년 발전단 0.3685 / 소비단 0.3996, 2021~2023 평균 발전단 0.3837 / 소비단 0.4164 tCO2eq/MWh. 소비단 2023의 세부값은 CO2 0.3967 t/MWh, CH4 0.0114 kg/MWh, N2O 0.0085 kg/MWh — <a href="https://www.gir.go.kr/home/file/readDownloadFile.do?encFileId=37a912dfd5e16e144d2b2a967d9cc717f013bbe36cef9ca8&amp;fileSeq=2" target="_blank" rel="noreferrer">GIR 2025 승인 PDF p.2</a></li>
+<li>보도자료 각주: 2023년 외의 단년도 계수는 &quot;참고용으로 산출한 수치&quot;이고, 배출량 정점인 2018년 이후 감소 추세임 — <a href="https://www.korea.kr/common/download.do?fileId=198303176&amp;tblKey=GMN" target="_blank" rel="noreferrer">보도자료 PDF</a></li>
+</ul>
+<p><strong>이전 공식값 — 2024년 승인(2025-03-31 게시), 2020~2022년 평균, &#39;06 지침 기준, 원문 PDF에서 직접 확인</strong> — <a href="https://www.gir.go.kr/home/board/read.do?menuId=36&amp;boardMasterId=2&amp;boardId=82" target="_blank" rel="noreferrer">GIR 2024년 승인 전력배출계수 게시물</a>, <a href="https://www.gir.go.kr/home/file/readDownloadFile.do?encFileId=890802fa1b0bb4a45bff470f2333529c5367bf670eff7b58&amp;fileSeq=1" target="_blank" rel="noreferrer">PDF</a></p>
+<ul>
+<li>발전단: CO2eq 0.4172 tCO2eq/MWh, CO2 0.4150 tCO2/MWh, CH4 0.0044 kg/MWh, N2O 0.0077 kg/MWh</li>
+<li>소비단: CO2eq <strong>0.4541</strong> tCO2eq/MWh, CO2 0.4517 tCO2/MWh, CH4 0.0048 kg/MWh, N2O 0.0084 kg/MWh</li>
+<li>같은 기간을 기존 기준(&#39;96 지침)으로 산정한 값: 발전단 0.3931 / 소비단 0.4270 tCO2eq/MWh. 원문에는 &quot;기존 공표(&#39;18·&#39;21년)&quot;라고 적혀 있어, 이전 공표 연도가 2018년과 2021년임을 알 수 있음.</li>
+<li>그 이전 값: 학술·정책 자료에 &quot;현재 … 전력배출계수(0.4594)를 적용&quot;이라는 문장이 있음(2021 공표값으로 추정). (2차 자료) — <a href="https://jepa.or.kr/_PR/view/?aidx=29818&amp;bidx=2630" target="_blank" rel="noreferrer">JEPA 칼럼</a></li>
+</ul>
+<p><strong>배출권거래제 제4차 계획기간(2026~2030) 적용</strong></p>
+<ul>
+<li>할당 관련 문서에 &quot;외부 전력 사용에 따른 간접배출량은 제4차 계획기간 사용 예정인 배출계수(0.4544 tCO2eq/MWh)&quot;라는 문장이 있음. 이 값은 GIR 공식값 0.4541과 다름. 오기인지 별도 산정값인지 확인되지 않았음. (2차 자료) — <a href="https://kesis.keei.re.kr/pdfOpen.es?bid=0032&amp;list_no=2495&amp;seq=1" target="_blank" rel="noreferrer">KESIS 수록 자료</a>, <a href="http://kfdic.or.kr/resources/upload/20251203092808975.pdf" target="_blank" rel="noreferrer">kfdic 자료</a></li>
+<li>제4차 할당: 772개 업체에 23억6,299만톤, 2025-12-29자 할당. 발전 59개사 7억9,575만톤, 발전 외 713개사 15억6,724만톤. &quot;전력배출계수는 매년 공표되는 수치를 자동 반영하는 시스템으로 개선&quot; (보도 기준) — <a href="https://m.news.nate.com/view/20251228n05214" target="_blank" rel="noreferrer">네이트/뉴스</a>, <a href="https://mcee.go.kr/m/mob/board/read.do?menuId=12&amp;boardId=1819470&amp;boardMasterId=39" target="_blank" rel="noreferrer">기후부 할당계획 공고</a></li>
+</ul>
+<p><strong>한국에너지공단 EG-TIPS 재게시값(교차확인)</strong></p>
+<ul>
+<li>EG-TIPS에도 2023년 발전단 0.3844, 소비단 0.4173이 실려 있음. 다만 2021~2023 평균 발전단 CO2eq는 &quot;0.3896&quot;으로 적혀 있어 GIR 원문 0.3986과 다름(EG-TIPS 오기로 보임) — <a href="https://tips.energy.or.kr/carbon/Ggas_tatistics03.do" target="_blank" rel="noreferrer">EG-TIPS 발열량·배출계수</a></li>
+</ul>
+<p><strong>위치 기반 vs 시장 기반(REC/PPA)</strong></p>
+<ul>
+<li>한국에너지공단 신재생에너지센터 FAQ: 재생에너지 이행수단은 녹색프리미엄, 제3자 PPA, 직접 PPA, REC 구매, 자가소비임. &quot;지침 제18조 6항에 따라 재생에너지에서 생산한 전력을 사용하고 재생에너지 사용 확인서를 발급받아 온실가스 감축실적으로 활용&quot;할 수 있다고 안내함 — <a href="https://www.knrec.or.kr/biz/faq/faq_list02.do?depth_1=A020000&amp;depth_2=A020400" target="_blank" rel="noreferrer">KNREC FAQ</a></li>
+<li>「온실가스 배출권거래제의 배출량 보고 및 인증에 관한 지침」 최근 확인된 개정: 환경부고시 제2024-155호(2024-08-09 시행, 일부개정) — <a href="https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000245902" target="_blank" rel="noreferrer">국가법령정보센터 행정규칙</a></li>
+<li>제3자 PPA 참여 요건이 1MW 초과에서 300kW 이상으로 완화되고 공동계약이 허용됨(2023, 보도 기준) — <a href="http://www.energydaily.co.kr/news/articleView.html?idxno=139576" target="_blank" rel="noreferrer">에너지데일리</a>. 직접 PPA 고시는 2022년부터 시행됨 — <a href="https://www.kimchang.com/ko/insights/detail.kc?sch_section=4&amp;idx=25739" target="_blank" rel="noreferrer">김·장 법률사무소</a></li>
+</ul>
+<h3>Inferences</h3>
+<ul>
+<li>계산기 기본값은 용도별로 나눠야 함. (a) ETS 할당대상업체의 명세서·감축량은 할당 시 적용 계수(제4차 기간 0.4541 계열로 추정, 정확한 값은 할당계획 원문 확인 필요). (b) 기후공시·ESG·자발적 산정은 최신 단년 계수(현재 2023년 0.4173). (c) 감축사업(외부사업)은 각 방법론이 정한 계수와 등록 시점 기준을 따름.</li>
+<li>1년 주기로 바뀌었으므로 2024년도 단년 계수는 2026년 12월 전후 공표가 예상됨(정부 일정 원문은 미확인). 2026-10-20 현재 2024년도 계수 공표 사실은 찾지 못했음.</li>
+<li>원문에 따르면 소비단(송배전손실 반영)은 전력 사용자용, 발전단은 발전 측 비교용임. 감축 계산기는 소비단 계수를 기본값으로 써야 함.</li>
+<li>시장 기반 산정에 쓸 잔여 배출계수(residual mix)를 공식 공표한 자료는 찾지 못했음. PPA·REC 효과는 &#39;재생에너지 사용 확인서&#39;를 근거로 감축실적이나 간접배출 0으로 처리하는 방식으로 보임(지침 원문 조항 확인 필요).</li>
+</ul>
+<h3>Gaps</h3>
+<ul>
+<li>2018년 공표값(0.4567로 알려짐)과 2021년 공표값(0.4594)의 산정기간을 1차 자료로 확인하지 못했음.</li>
+<li>제4차 계획기간 할당계획 원문에 명시된 전력·열 간접배출계수(0.4541인지 0.4544인지)를 확인하지 못했음.</li>
+<li>현행 배출량 보고·인증 지침(2025~2026 개정 여부) 원문에서 PPA·REC·녹색프리미엄별 간접배출 처리 조항(전력배출계수 0 적용 조건)을 확인하지 못했음.</li>
+<li>2024년도 단년 계수의 공표 예정일에 대한 공식 일정은 확인하지 못했음.</li>
+</ul>
+<h2>2. 연료별 국가 고유 배출계수 (CO2/CH4/N2O) 및 열(스팀) 간접배출계수</h2>
+<h3>Takeaway</h3>
+<p>GIR의 2025년 승인 목록(2025-12-18)에는 에너지 분야로 전력배출계수 16개만 들어 있고 연료 계수는 새로 승인되지 않았음. 따라서 연료 연소 국가 고유 계수는 2022-01 승인값(탄소배출계수, tC/TJ, 2022 발열량 기준)이 최신으로 보임. 열(스팀)은 국가 단일 공식 계수가 없고, 공급자가 지침 별표 방식으로 개발해 사용자에게 제공하는 구조임.</p>
+<h3>Cited Findings</h3>
+<ul>
+<li>「2025년 승인 국가 온실가스 배출·흡수계수」 구성: ① 에너지 분야(전력배출계수 16개), ② 농업 4개(가축분뇨: 산란계 Nex 0.37 kg N/head/year, VS 0.01 kg VS/head/day, 한우 암소 1세 미만 Nex 24.57 kg N/head/year, VS 2.45 kg VS/head/day), ③ 토지이용(LULUCF): 사과·감귤나무, 초지 토양탄소, 왕버들, 후박나무 흡수계수, ④ 폐기물: 매립 CH4 발생 속도상수 k=0.13 등. <strong>연료 연소 계수는 없음</strong> — <a href="https://www.gir.go.kr/home/file/readDownloadFile.do?encFileId=37a912dfd5e16e144d2b2a967d9cc717f013bbe36cef9ca8&amp;fileSeq=2" target="_blank" rel="noreferrer">GIR 2025 승인 PDF</a></li>
+<li>국가 고유 배출·흡수계수의 공표주기는 &quot;매년&quot;, 공표시기는 &quot;12월&quot;, 공표 방법은 홈페이지임(기후에너지환경부 사전정보공표 항목) — <a href="https://mcee.go.kr/home/web/public_info/read.do?menuId=10123&amp;condition.publicInfoMasterId=10&amp;publicInfoId=784" target="_blank" rel="noreferrer">기후에너지환경부 사전정보공표</a></li>
+<li>연료 탄소배출계수(2022-01 공표, 2022 발열량 기준, 단위 tC/TJ): 휘발유 19.731, 경유 20.090, 석유코크스 26.192, LNG 15.281, 도시가스(LNG) 15.236, 연료용 유연탄 26.105, 국내무연탄 29.705. 한국에너지공단 EG-TIPS 재게시값이며 GIR 원문표는 직접 열람하지 못했음 — <a href="https://tips.energy.or.kr/carbon/Ggas_tatistics03.do" target="_blank" rel="noreferrer">EG-TIPS</a></li>
+<li>경유 탄소계수 변화: 20.2(2011 기준) → 20.111(2017 기준) → 20.090(2022 기준) (2차 자료, 검색요약) — <a href="https://tips.energy.or.kr/carbon/Ggas_tatistics03.do" target="_blank" rel="noreferrer">EG-TIPS</a></li>
+<li>CO2 환산: tCO2 = tC × 44/12. 예를 들어 경유는 20.090 × 44/12 ≈ 73.66 tCO2/TJ, LNG는 15.281 × 44/12 ≈ 56.03 tCO2/TJ(직접 계산값). EG-TIPS 계산식은 &quot;탄소배출량(tC)=연료발열량(MJ)×탄소배출계수(tC/TJ)/10^6; tCO2=tC×44/12&quot; — <a href="https://tips.energy.or.kr/carbon/Ggas_tatistics03.do" target="_blank" rel="noreferrer">EG-TIPS</a></li>
+<li>CH4·N2O(2017-09 공고, kg/TJ, EG-TIPS 게재): 석탄 CH4 0.25 / N2O 1.66, 석유 CH4 0.15 / N2O 1.75, LNG·도시가스 CH4 0.41 / N2O 1.06. 적용 범위(발전 부문 한정 여부 등)를 원문으로 확인하지 못했으므로 쓰기 전에 확인이 필요함 — <a href="https://tips.energy.or.kr/carbon/Ggas_tatistics03.do" target="_blank" rel="noreferrer">EG-TIPS</a></li>
+<li>산업공정 국가 고유 계수(EG-TIPS 게재): 시멘트 클링커 0.5295 tCO2/t(2019-01). 철강(2022-01, tCO2/t): 원료용 유연탄 2.8260, 코크스 3.1721, 코크스로가스 1.5285, 고로가스 0.6869, 파이넥스가스 1.0029 — <a href="https://tips.energy.or.kr/carbon/Ggas_tatistics03.do" target="_blank" rel="noreferrer">EG-TIPS</a></li>
+<li>IPCC 2006 기본배출계수(Tier 1)가 법령 별표로 실려 있음(단위 kgGHG/TJ). 경유 CO2 74,100, LNG 56,100 (2차 자료, 검색요약) — <a href="https://www.law.go.kr/LSW/flDownload.do?flSeq=143510037&amp;bylClsCd=200201" target="_blank" rel="noreferrer">국가법령정보센터 별표10 2006 IPCC 기본배출계수</a>. 외부사업 사례 문서에서 ETS 지침값으로 B-C유 75.5, LNG 56.1 tCO2/TJ가 인용됨 (2차 자료) — <a href="https://offset.energy.or.kr/regiandproc/considerations_04.do" target="_blank" rel="noreferrer">offset.energy.or.kr</a></li>
+<li>열(스팀): 조직경계 밖으로 열을 공급하는 공급자는 &quot;별표 17에 따라 열 공급에 따른 배출계수를 개발하여 열을 사용하는 할당대상업체에게 제공&quot;해야 함. 사용자 산정식은 열(스팀) 사용량(GJ) × 배출계수(tGHG/GJ) × GWP (2차 자료, 검색요약) — <a href="https://mcee.go.kr/home/file/readDownloadFile2.do?fileId=241344&amp;fileSeq=1" target="_blank" rel="noreferrer">기후부 검·인증 고시 자료</a>, <a href="https://www.law.go.kr/LSW/flDownload.do?flSeq=133269389" target="_blank" rel="noreferrer">법령 별표 서식</a></li>
+<li>지역난방 건물 방법론의 &quot;열 간접 배출계수 0.1226(고정값)&quot;은 건물 분야 방법론 값임. 단위가 tCO2eq/Gcal로 추정되며 ETS 공식 계수가 아님 (2차 자료) — <a href="https://carbonmap.kr/about/openMethodologyBldg.do" target="_blank" rel="noreferrer">탄소공간지도 건물 방법론</a></li>
+</ul>
+<h3>Inferences</h3>
+<ul>
+<li>계산기 연료 계수 표는 다음 순서로 둘 것을 권장함. ① ETS·목표관리 대상은 지침 별표의 Tier 1·2·3 규칙을 따름(국가 고유 계수가 있으면 Tier 2로 우선). ② 국가 고유 계수가 없는 연료는 IPCC 2006 기본값을 씀. ③ 발열량은 에너지법 시행규칙 별표(아래 3절)와 연동함.</li>
+<li>국가 고유 탄소계수(tC/TJ)는 순발열량 기준 TJ로 정의된 것으로 보임. 발열량 기준(순/총)을 맞추는 것이 계산 정확도의 핵심임(원문 확인 필요).</li>
+<li>열(스팀)은 공급자 제공 계수(예: 지역난방공사 등 사업자별, 연도별)를 입력받는 필드로 설계하고, 공식 국가 기본값은 두지 않는 것이 맞음.</li>
+</ul>
+<h3>Gaps</h3>
+<ul>
+<li>GIR 홈페이지의 &#39;국가 고유 배출계수 목록&#39;(연료별 순발열량·탄소계수·CH4·N2O 전체표) 원문 페이지·파일을 직접 열람하지 못했음. 값은 한국에너지공단 EG-TIPS 재게시본에 의존함.</li>
+<li>EG-TIPS가 언급한 &quot;2025 9차 개정&quot;이 무엇인지 확인하지 못했음.</li>
+<li>LPG(프로판·부탄), 등유, B-C유, 휘발유의 국가 고유 CO2 계수 전체 수치를 1차 자료로 확인하지 못했음.</li>
+<li>현행 배출량 보고·인증 지침 별표 17(열 배출계수 개발방법)의 원문 수식을 확인하지 못했음.</li>
+</ul>
+<h2>3. 에너지열량환산기준 (「에너지법 시행규칙」 별표)</h2>
+<h3>Takeaway</h3>
+<p>현행 기준은 「에너지법 시행규칙」 [별표] 에너지열량 환산기준(제5조제1항 관련) **&lt;개정 2022. 11. 21.&gt;**임(8차, 2016~2020년 5개년 데이터, 31종 에너지원). 시행규칙상 5년마다 작성하므로 다음 정기 개정은 2027년 전후로 예상되며, 2026-10-20 현재 그 이후 개정은 확인되지 않았음.</p>
+<h3>Cited Findings</h3>
+<ul>
+<li>원문: &quot;■ 에너지법 시행규칙 [별표] &lt;개정 2022. 11. 21.&gt; 에너지열량 환산기준(제5조제1항 관련)&quot; — <a href="https://law.go.kr/LSW/flDownload.do?flSeq=121595995&amp;bylClsCd=110201" target="_blank" rel="noreferrer">국가법령정보센터 별표 PDF</a></li>
+<li>시행규칙 제5조 제2항: 에너지열량 환산기준은 5년마다 작성하되, 장관이 필요하다고 인정하면 수시로 작성할 수 있음 (2차 자료, 검색요약) — <a href="https://law.go.kr/flDownload.do?flSeq=42205746" target="_blank" rel="noreferrer">국가법령정보센터(2017 별표)</a></li>
+<li>8차 개정 개요: 2016~2020년 5개년 데이터로 31종 에너지원의 발열량을 산정했고, 개발은 한국에너지공단 통계분석실이 맡음 — <a href="https://tips.energy.or.kr/carbon/Ggas_tatistics03.do" target="_blank" rel="noreferrer">EG-TIPS</a></li>
+<li>「에너지이용 합리화법 시행규칙」은 대상을 판단할 때 에너지원별 열량을 「에너지법 시행규칙」 별표의 <strong>총발열량</strong>으로 환산한다고 규정함(에너지다소비사업자 2,000toe 판정 등) (2차 자료, 검색요약) — <a href="https://lbox.kr/v2/statute/%EC%97%90%EB%84%88%EC%A7%80%EC%9D%B4%EC%9A%A9%ED%95%A9%EB%A6%AC%ED%99%94%EB%B2%95%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99" target="_blank" rel="noreferrer">lbox 에너지이용합리화법 시행규칙</a></li>
+</ul>
+<p><strong>주요 연료 발열량 — 2022-11-21 개정 별표 원문 PDF에서 추출.</strong> MJ와 석유환산톤(10^-3 toe) 값은 원문 그대로임. kcal 열은 PDF 텍스트 추출 때 행이 어긋나서 toe×10^4로 재정렬해 대조했고, 원문 kcal 숫자열 집합과 일치함 — <a href="https://law.go.kr/LSW/flDownload.do?flSeq=121595995&amp;bylClsCd=110201" target="_blank" rel="noreferrer">별표 PDF</a></p>
+<div class="doc-table"><table>
+<thead>
+<tr>
+<th>에너지원</th>
+<th>단위</th>
+<th>총발열량 MJ</th>
+<th>총 kcal</th>
+<th>총 10^-3toe</th>
+<th>순발열량 MJ</th>
+<th>순 kcal</th>
+<th>순 10^-3toe</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>원유</td>
+<td>kg</td>
+<td>45.7</td>
+<td>10,920</td>
+<td>1.092</td>
+<td>42.8</td>
+<td>10,220</td>
+<td>1.022</td>
+</tr>
+<tr>
+<td>휘발유</td>
+<td>L</td>
+<td>32.4</td>
+<td>7,750</td>
+<td>0.775</td>
+<td>30.1</td>
+<td>7,200</td>
+<td>0.720</td>
+</tr>
+<tr>
+<td>등유</td>
+<td>L</td>
+<td>36.6</td>
+<td>8,740</td>
+<td>0.874</td>
+<td>34.1</td>
+<td>8,150</td>
+<td>0.815</td>
+</tr>
+<tr>
+<td>경유</td>
+<td>L</td>
+<td>37.8</td>
+<td>9,020</td>
+<td>0.902</td>
+<td>35.3</td>
+<td>8,420</td>
+<td>0.842</td>
+</tr>
+<tr>
+<td>바이오디젤</td>
+<td>L</td>
+<td>34.7</td>
+<td>8,280</td>
+<td>0.828</td>
+<td>32.3</td>
+<td>7,730</td>
+<td>0.773</td>
+</tr>
+<tr>
+<td>B-A유</td>
+<td>L</td>
+<td>39.0</td>
+<td>9,310</td>
+<td>0.931</td>
+<td>36.5</td>
+<td>8,710</td>
+<td>0.871</td>
+</tr>
+<tr>
+<td>B-B유</td>
+<td>L</td>
+<td>40.6</td>
+<td>9,690</td>
+<td>0.969</td>
+<td>38.1</td>
+<td>9,100</td>
+<td>0.910</td>
+</tr>
+<tr>
+<td>B-C유</td>
+<td>L</td>
+<td>41.8</td>
+<td>9,980</td>
+<td>0.998</td>
+<td>39.3</td>
+<td>9,390</td>
+<td>0.939</td>
+</tr>
+<tr>
+<td>프로판(LPG1호)</td>
+<td>kg</td>
+<td>50.2</td>
+<td>12,000</td>
+<td>1.200</td>
+<td>46.2</td>
+<td>11,040</td>
+<td>1.104</td>
+</tr>
+<tr>
+<td>부탄(LPG3호)</td>
+<td>kg</td>
+<td>49.3</td>
+<td>11,790</td>
+<td>1.179</td>
+<td>45.5</td>
+<td>10,880</td>
+<td>1.088</td>
+</tr>
+<tr>
+<td>나프타</td>
+<td>L</td>
+<td>32.2</td>
+<td>7,700</td>
+<td>0.770</td>
+<td>29.9</td>
+<td>7,140</td>
+<td>0.714</td>
+</tr>
+<tr>
+<td>용제</td>
+<td>L</td>
+<td>32.8</td>
+<td>7,830</td>
+<td>0.783</td>
+<td>30.4</td>
+<td>7,250</td>
+<td>0.725</td>
+</tr>
+<tr>
+<td>항공유</td>
+<td>L</td>
+<td>36.5</td>
+<td>8,720</td>
+<td>0.872</td>
+<td>34.0</td>
+<td>8,120</td>
+<td>0.812</td>
+</tr>
+<tr>
+<td>아스팔트</td>
+<td>kg</td>
+<td>41.4</td>
+<td>9,880</td>
+<td>0.988</td>
+<td>39.0</td>
+<td>9,330</td>
+<td>0.933</td>
+</tr>
+<tr>
+<td>윤활유</td>
+<td>L</td>
+<td>39.6</td>
+<td>9,450</td>
+<td>0.945</td>
+<td>37.0</td>
+<td>8,830</td>
+<td>0.883</td>
+</tr>
+<tr>
+<td>석유코크스</td>
+<td>kg</td>
+<td>34.9</td>
+<td>8,330</td>
+<td>0.833</td>
+<td>34.2</td>
+<td>8,170</td>
+<td>0.817</td>
+</tr>
+<tr>
+<td>부생연료유1호</td>
+<td>L</td>
+<td>37.3</td>
+<td>8,900</td>
+<td>0.890</td>
+<td>34.8</td>
+<td>8,310</td>
+<td>0.831</td>
+</tr>
+<tr>
+<td>부생연료유2호</td>
+<td>L</td>
+<td>39.9</td>
+<td>9,530</td>
+<td>0.953</td>
+<td>37.7</td>
+<td>9,010</td>
+<td>0.901</td>
+</tr>
+<tr>
+<td>천연가스(LNG)</td>
+<td>kg</td>
+<td>54.7</td>
+<td>13,080</td>
+<td>1.308</td>
+<td>49.4</td>
+<td>11,800</td>
+<td>1.180</td>
+</tr>
+<tr>
+<td><strong>도시가스(LNG)</strong></td>
+<td><strong>Nm3</strong></td>
+<td><strong>42.7</strong></td>
+<td><strong>10,190</strong></td>
+<td><strong>1.019</strong></td>
+<td><strong>38.5</strong></td>
+<td><strong>9,190</strong></td>
+<td><strong>0.919</strong></td>
+</tr>
+<tr>
+<td>도시가스(LPG)</td>
+<td>Nm3</td>
+<td>63.4</td>
+<td>15,150</td>
+<td>1.515</td>
+<td>58.3</td>
+<td>13,920</td>
+<td>1.392</td>
+</tr>
+<tr>
+<td>국내무연탄</td>
+<td>kg</td>
+<td>19.7</td>
+<td>4,710</td>
+<td>0.471</td>
+<td>19.4</td>
+<td>4,620</td>
+<td>0.462</td>
+</tr>
+<tr>
+<td>연료용 수입무연탄</td>
+<td>kg</td>
+<td>23.0</td>
+<td>5,500</td>
+<td>0.550</td>
+<td>22.3</td>
+<td>5,320</td>
+<td>0.532</td>
+</tr>
+<tr>
+<td>원료용 수입무연탄</td>
+<td>kg</td>
+<td>25.8</td>
+<td>6,170</td>
+<td>0.617</td>
+<td>25.3</td>
+<td>6,040</td>
+<td>0.604</td>
+</tr>
+<tr>
+<td>연료용 유연탄(역청탄)</td>
+<td>kg</td>
+<td>24.6</td>
+<td>5,860</td>
+<td>0.586</td>
+<td>23.3</td>
+<td>5,570</td>
+<td>0.557</td>
+</tr>
+<tr>
+<td>원료용 유연탄(역청탄)</td>
+<td>kg</td>
+<td>29.4</td>
+<td>7,030</td>
+<td>0.703</td>
+<td>28.3</td>
+<td>6,760</td>
+<td>0.676</td>
+</tr>
+<tr>
+<td>아역청탄</td>
+<td>kg</td>
+<td>20.6</td>
+<td>4,920</td>
+<td>0.492</td>
+<td>19.1</td>
+<td>4,570</td>
+<td>0.457</td>
+</tr>
+<tr>
+<td>코크스</td>
+<td>kg</td>
+<td>28.6</td>
+<td>6,840</td>
+<td>0.684</td>
+<td>28.5</td>
+<td>6,810</td>
+<td>0.681</td>
+</tr>
+<tr>
+<td>전기(발전기준)</td>
+<td>kWh</td>
+<td>8.9</td>
+<td>2,130</td>
+<td>0.213</td>
+<td>8.9</td>
+<td>2,130</td>
+<td>0.213</td>
+</tr>
+<tr>
+<td>전기(소비기준)</td>
+<td>kWh</td>
+<td>9.6</td>
+<td>2,290</td>
+<td>0.229</td>
+<td>9.6</td>
+<td>2,290</td>
+<td>0.229</td>
+</tr>
+<tr>
+<td>신탄</td>
+<td>kg</td>
+<td>18.8</td>
+<td>4,500</td>
+<td>0.450</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody></table></div>
+<ul>
+<li>원문 비고: ① 총발열량은 수증기 잠열 포함, 순발열량은 잠열 제외. ② 석유환산톤(toe)은 원유 1톤의 열량으로 10^7 kcal. ③ 석탄 발열량은 인수식 기준이고 코크스는 건식 기준. ④ &quot;최종 에너지사용자가 사용하는 전력량 값을 열량 값으로 환산할 경우에는 1kWh=860kcal를 적용&quot;함. ⑤ 1cal=4.1868J, Nm3은 0℃·1기압 기준. ⑥ MJ는 소수점 둘째 자리에서 반올림하고, MJ와 kcal 값이 상충하면 MJ가 우선함 — <a href="https://law.go.kr/LSW/flDownload.do?flSeq=121595995&amp;bylClsCd=110201" target="_blank" rel="noreferrer">별표 PDF</a></li>
+<li>직전(2017-12-28 개정) 값 예시: 휘발유 총 32.7 / 순 30.4 MJ/L, 원유 총 45.0 / 순 42.2 MJ/kg (2차 자료, 검색요약) — <a href="https://law.go.kr/flDownload.do?flSeq=42205746" target="_blank" rel="noreferrer">2017 별표 PDF</a></li>
+</ul>
+<h3>Inferences</h3>
+<ul>
+<li>계산기는 발열량 표에 판본(2022-11-21, 8차)과 적용기간을 함께 저장해야 함. 이전 판(2017-12-28)으로 산정한 과거 베이스라인과 섞어 쓰지 않도록 판본 관리가 필요함.</li>
+<li>toe 환산(에너지 사용량 신고, 에너지다소비사업자 판정)은 총발열량을 쓰고, 배출량 산정은 지침상 순발열량 기반 계수를 씀. 이 구분을 계산기 옵션으로 명시해야 함(배출량 지침의 순발열량 사용 조항은 원문 확인 필요).</li>
+<li>전기의 toe 환산값은 발전기준 0.213, 소비기준 0.229 10^-3toe/kWh로 서로 다르고, 최종사용자 열량 환산은 860 kcal/kWh임. 이 세 값은 용도가 다르므로 혼동하면 안 됨.</li>
+</ul>
+<h3>Gaps</h3>
+<ul>
+<li>2025-10-01 정부조직 개편(기후에너지환경부 출범)으로 에너지법 시행규칙 소관부처나 별표가 타법개정됐는지, 그리고 2022 이후 별표 개정 이력이 있는지는 law.go.kr 현행 조문 화면으로 재확인하지 못했음.</li>
+</ul>
+<h2>4. 국가 온실가스 인벤토리 보고서(NIR/NID) 및 GIR 통계 데이터</h2>
+<h3>Takeaway</h3>
+<p>최신 보고서는 <strong>「2025 국가 온실가스 인벤토리(1990~2023) 보고서(NID)」</strong>(국문 PDF 약 11MB, GIR 게시 2026-05-29)임. 데이터는 2025-12-23 확정 공표됐음(&#39;06·&#39;96 IPCC 지침 병행, 2026-01-15 오류 정정). 2024년 확정치는 2026년 하반기 공개 예정이고(보도 기준), 2025년 잠정배출량 6억8,571만톤이 2026-09 발표됨(보도 기준).</p>
+<h3>Cited Findings</h3>
+<ul>
+<li>GIR &#39;국가·지역 온실가스 통계&#39; 게시판(정보마당, 총 76건): 「2025 국가 온실가스 인벤토리(1990<del>2023) 보고서(NID)」(2026-05-29), 「2025년 지역 온실가스 인벤토리(2010-2023) 공표」(2025-12-31), 「2025년 국가 온실가스 인벤토리(1990-2023) 공표(&#39;06, &#39;96 IPCC 지침)」(2025-12-23), 「2024 국가 온실가스 인벤토리(1990</del>2022) 보고서(NID)」(2025-10-17), 「제3차 국가 온실가스 통계 총괄관리계획(2025-2029)」(2025-05-12), 분기별 &#39;에너지 분야 온실가스 속보치&#39; 인포그래픽(2025-10-21, 2025-12-22) — <a href="https://www.gir.go.kr/home/index.do?menuId=36" target="_blank" rel="noreferrer">GIR 국가·지역 온실가스 통계</a></li>
+<li>2025 NID 첨부: 「2025년 국가 온실가스 인벤토리 보고서_국문.pdf」(11,047,947 Byte), 수록범위 1990~2023 — <a href="https://www.gir.go.kr/home/board/read.do?menuId=36&amp;boardMasterId=2&amp;boardId=90" target="_blank" rel="noreferrer">GIR boardId=90</a></li>
+<li>2025-12-23 공표 게시물: &quot;확정된 2025년 국가 온실가스 인벤토리(1990-2023)(&#39;06 IPCC 지침, &#39;96 IPCC 지침)&quot; 게재. 첨부는 ★국가 온실가스 인벤토리(1990_2023)(&#39;96 &#39;06지침).zip과 정오표 PDF이며, 2026-01-15 판의 일부 오류를 정정함 — <a href="https://www.gir.go.kr/home/board/read.do?menuId=36&amp;boardMasterId=2&amp;boardId=88" target="_blank" rel="noreferrer">GIR boardId=88</a></li>
+<li>공공데이터포털 파일데이터 「기후에너지환경부 온실가스종합정보센터_국가 온실가스 인벤토리 배출량_20251229」, 「…가스별 국가 온실가스 인벤토리 배출량(HFCs)_20251229」 — <a href="https://www.data.go.kr/data/15049589/fileData.do" target="_blank" rel="noreferrer">data.go.kr 15049589</a>, <a href="https://www.data.go.kr/data/15070400/fileData.do" target="_blank" rel="noreferrer">data.go.kr 15070400</a></li>
+<li>배출량 수치(보도·2차 기준):<ul>
+<li>2022년 확정 7억2,429만톤(전년 7억4,098만톤 대비 -2.3%). 민간 석탄소비분 7년 누락이 확인돼 반영됨 (보도 기준) — <a href="https://www.ajunews.com/view/20250102144214861" target="_blank" rel="noreferrer">아주경제</a></li>
+<li>2024년 잠정 6억9,158만톤(2023년 잠정 7억500만톤 대비 -2%). 2006 IPCC 지침과 NDC 점검용 1996 지침을 병행 산정했고, 2024 확정치는 2026년 하반기 공개 예정 (보도 기준) — <a href="https://www.newsis.com/view/NISX20250820_0003296532" target="_blank" rel="noreferrer">뉴시스</a>, <a href="https://www.kharn.kr/mobile/article.html?no=28545" target="_blank" rel="noreferrer">KHARN</a></li>
+<li>2025년 잠정 6억8,571만톤(전년 대비 -0.9%), 2026-09-20 보도 (보도 기준) — <a href="https://m.news.nate.com/view/20260920n06823" target="_blank" rel="noreferrer">네이트/뉴시스</a></li>
+<li>참고: 2024-07 발표된 2023년 잠정 6억2,420만톤(-4.4%)은 &#39;96 지침·기존 통계 기준이라 &#39;06 기준 수치(7억500만톤)와 직접 비교할 수 없음 — <a href="https://m.korea.kr/briefing/policyBriefingView.do?newsId=156650514" target="_blank" rel="noreferrer">정책브리핑</a></li>
+</ul>
+</li>
+</ul>
+<h3>Inferences</h3>
+<ul>
+<li>같은 연도라도 &#39;96 지침과 &#39;06 지침 수치가 1억톤 가까이 차이 남. 계산기나 리포트에 국가 배출량을 인용할 때는 지침 기준과 확정/잠정 구분을 반드시 표기해야 함.</li>
+<li>MRV 시스템의 국가 통계 참조 테이블은 GIR 연간 일정에 맞춰 연 3회 갱신하는 구조가 적절함: 12월 확정 인벤토리 + 배출·흡수계수 승인, 이듬해 상반기 NID 보고서, 8~9월 잠정배출량.</li>
+</ul>
+<h3>Gaps</h3>
+<ul>
+<li>2023년 확정 총배출량(&#39;06 기준) 수치를 1차 자료(zip·NID 본문)에서 읽지 못했음(대용량 파일, 미열람).</li>
+<li>GIR 통계 포털의 OpenAPI 제공 여부는 확인하지 못했음.</li>
+</ul>
+<h2>5. 배출권 시장 공식 데이터 (KRX, ETRS/ORS)</h2>
+<h3>Takeaway</h3>
+<p>배출권 가격·거래량 공식 출처는 한국거래소 「배출권시장 정보플랫폼」(ets.krx.co.kr)이고, GIR 상쇄등록부시스템(ORS)이 매월 &#39;배출권 및 외부사업 인증실적 거래정보&#39;와 유상할당 입찰계획을 공지함. 두 사이트 모두 JS 기반이라 이번 조사에서는 시세 원값을 직접 추출하지 못했음.</p>
+<h3>Cited Findings</h3>
+<ul>
+<li>한국거래소 사이트 명칭 &quot;배출권시장 정보플랫폼&quot; 확인(동적 페이지라 메뉴·시세는 추출하지 못함) — <a href="https://ets.krx.co.kr/" target="_blank" rel="noreferrer">ets.krx.co.kr</a></li>
+<li>ORS(상쇄등록부시스템) 메인 최근 공지(2026-10-20 열람): 「2026년 10월 배출권 유상할당 입찰계획 공고」(2026-10-06), 「2026년 9월 배출권 및 외부사업 인증실적 거래정보」(2026-10-01), 「상쇄배출권 및 외부사업인증실적 종목 기준가격 변경에 관한 의견수렴 안내」(2026-09-28), 「2026년 8월 … 거래정보」(2026-09-10), 「2026년 9월 … 유상할당 입찰계획 공고」(2026-09-02). 메인에는 &#39;일 거래소 거래현황&#39;, &#39;거래소 일거래가격 동향&#39; 탭이 있음 — <a href="https://ors.gir.go.kr/ors/main.do" target="_blank" rel="noreferrer">ORS 메인</a></li>
+<li>가격 동향 (보도 기준):<ul>
+<li>KAU-25 경매에서 280만톤(약 2.83백만톤) 전량 낙찰, 낙찰가 25,400원/톤(KRX 자료 인용, 2026-07 보도) — <a href="https://carbon-pulse.com/529731/" target="_blank" rel="noreferrer">Carbon Pulse</a></li>
+<li>2026-03-05 증권사 시세표: KAU 13,500원, KOC 11,000원, i-KOC 11,500원 (2차 자료) — <a href="https://file.alphasquare.co.kr/media/pdfs/market-report/SK%EC%A6%9D%EA%B6%8C20260305SK%EC%A6%9D%EA%B6%8C." target="_blank" rel="noreferrer">SK증권 리포트</a></li>
+<li>2026-04 KAU-25 현물이 17,000원을 넘음 (보도 기준) — <a href="https://carbon-pulse.com/501212/" target="_blank" rel="noreferrer">Carbon Pulse</a></li>
+</ul>
+</li>
+<li>2024년 연간 거래량 5억1,330만 tCO2eq(KAU 90.0%, KOC 9.1%). 출처는 「2025 배출권거래제 운영결과보고서」(GIR, 2026-01 발간) (2차 자료, 검색요약) — <a href="https://www.keei.re.kr/library/10110/contents/7663080" target="_blank" rel="noreferrer">KEEI 전자도서관</a></li>
+</ul>
+<h3>Inferences</h3>
+<ul>
+<li>계산기의 &#39;탄소가격&#39; 입력은 KRX 정보플랫폼 일별 종가(KAU 연물별, KCU, KOC 종목)를 기준으로 하고, 출처일자를 함께 저장하는 방식이 적합함. 2026년 가격 변동폭(약 1.35만~2.5만원)이 커서 고정값은 부적절함.</li>
+<li>종목명은 연도 접미(KAU25, KAU26 …)로 바뀌므로 종목 코드 매핑 테이블이 필요함.</li>
+</ul>
+<h3>Gaps</h3>
+<ul>
+<li>KRX 정보플랫폼의 데이터 다운로드 메뉴 구조와 2026-10 기준 종가·거래량을 1차 자료로 확인하지 못했음(동적 페이지).</li>
+<li>배출권등록부시스템(ETRS, etrs.gir.go.kr)의 공개 통계 범위는 확인하지 못했음.</li>
+<li>data.go.kr의 KRX 배출권 시세 OpenAPI 존재 여부는 확인하지 못했음.</li>
+</ul>
+<h2>6. 승인 외부사업 방법론 목록 및 등록 외부사업 현황</h2>
+<h3>Takeaway</h3>
+<p>통합 현황은 GIR 상쇄등록부시스템(ORS) 메인에 표시됨. 2026-10-20 열람 기준 <strong>방법론 325건, 외부사업 1,429건, 인증실적 1,616건, 감축량 표시 5,968만톤</strong>임. 직전 검색 스냅샷(2026-09 초)은 방법론 323건, 외부사업 1,404건이었음. 산업·전환 부문 방법론 목록은 한국에너지공단 산업·전환 부문 외부사업 사이트에 있고, 효율 개선 계열 CDM 방법론(스팀트랩·스팀 최적화·펌핑 효율 등)과 히트펌프 방법론이 포함됨.</p>
+<h3>Cited Findings</h3>
+<ul>
+<li>ORS 메인 현황: 방법론 325건, 외부사업 1,429건, 인증실적 1,616건, 수치 &#39;5,968만 톤&#39;(항목명은 페이지에서 확인되지 않음, 감축량 인증 누적으로 추정). 기준일은 명시되지 않음 — <a href="https://ors.gir.go.kr/ors/main.do" target="_blank" rel="noreferrer">ORS 메인</a></li>
+<li>직전 스냅샷: 방법론 323건, 외부사업 1,404건(2026-09-02 공지가 걸린 시점, 검색 캐시) — <a href="https://ors.gir.go.kr/ors/main.do" target="_blank" rel="noreferrer">ORS 메인(검색결과)</a></li>
+<li>ORS 정보공개 &#39;외부사업 정보공개목록&#39; 총 1,156건(사업명·업체·유효기간·방법론·CDM구분 열). 최근 등록 예: 폐플라스틱 열분해유, 농가 히트펌프(공기열·지열, 「농촌지역에서 히트펌프를 이용한 온실가스 감축 사업」 3차), 미활용 LNG 기화 냉열 활용 전력·화석연료 절감, 수소버스, 태양광 묶음사업 — <a href="https://ors.gir.go.kr/home/orap/openList.do?menuId=12" target="_blank" rel="noreferrer">ORS 외부사업 정보공개목록</a></li>
+<li>한국에너지공단 &#39;산업·전환 부문 배출권거래제 외부사업&#39; 승인방법론 현황: &quot;2019년 11월 기준 총 255건&quot;(CDM 방법론 211건, 일반외부사업 방법론 44건, 산업통상자원부 관장 13건). 목록 예: AM0017 스팀트랩 교체 및 응축수 회수에 의한 스팀시스템 효율 향상, AM0018 스팀 최적화 시스템, AM0020 물 펌핑 효율 향상, AM0007, AM0019, AM0023 등. 페이지 집계는 2019년 기준이라 최신이 아님 — <a href="https://offset.energy.or.kr/methodology/status2.do" target="_blank" rel="noreferrer">offset.energy.or.kr 승인방법론 현황</a></li>
+<li>방법론 승인·개정 절차와 공지: <a href="https://offset.energy.or.kr/methodology/agree.do" target="_blank" rel="noreferrer">offset.energy.or.kr 방법론승인 및 개정절차</a>, <a href="https://offset.energy.or.kr/notice/notice_list.do" target="_blank" rel="noreferrer">공지사항</a></li>
+</ul>
+<h3>Inferences</h3>
+<ul>
+<li>공식 최신 총계는 ORS 메인 수치(325건)를 인용하고 열람일을 함께 적어야 함. 한국에너지공단 페이지의 255건은 2019-11 기준이라 갱신이 필요함.</li>
+<li>산업 에너지효율 관련 후보 방법론(이름 기준): 스팀트랩·응축수 회수(AM0017), 스팀 최적화(AM0018), 펌핑 효율(AM0020), 히트펌프(농촌지역 히트펌프 3차), LNG 냉열 활용. 압축기·인버터·LED·폐열회수·연료전환은 CDM 소규모 방법론(AMS-II.C 수요측 효율, AMS-II.D 산업 효율, AMS-III.B 연료전환, AMS-II.E 건물 효율 등)이나 국내 일반 방법론으로 승인됐을 가능성이 높음(전체 목록에서 확인 필요).</li>
+</ul>
+<h3>Gaps</h3>
+<ul>
+<li>방법론 325건의 분야별(에너지산업·에너지수요·제조업·수송·폐기물·농림 등)·관장기관별(기후에너지환경부·산업통상부·국토교통부·농림축산식품부·해양수산부·산림청) 건수를 1차 자료로 확인하지 못했음(ORS &#39;방법론 현황&#39; 상세 메뉴 미열람).</li>
+<li>압축기·보일러·전동기/인버터·LED·폐열회수·연료전환 방법론의 국내 번호와 명칭 전체를 확인하지 못했음.</li>
+<li>국토교통부(건물·수송), 농림부 등 부처별 방법론 공개 페이지는 확인하지 못했음.</li>
+</ul>
+<h2>7. 한국에너지공단·에너지 통계 (에너지통계연보, 에너지사용량 신고, 진단)</h2>
+<h3>Takeaway</h3>
+<p>산업 기준선 기본값에 쓸 수 있는 공식 데이터는 ① 한국에너지공단 「에너지사용량 신고 통계」(연 2,000toe 이상 에너지다소비사업자, 에너지이용합리화법 제31조, 공공데이터포털 제공), ② 한국에너지공단 에너지진단통계·수전전력 현황(공공데이터포털), ③ 에너지경제연구원 「에너지통계연보」(KESIS, 전력배출계수 산정의 발전량 출처)임. 최신 판차는 이번 조사에서 확인하지 못했음.</p>
+<h3>Cited Findings</h3>
+<ul>
+<li>공공데이터포털 &#39;에너지사용량 신고 통계&#39;(한국에너지공단): 「에너지이용합리화법」 제31조에 따라 연간 2,000toe 이상 사용하는 에너지다소비사업자가 매년 신고한 사용현황. 일반사항·종합분석·통계로 구성됨 — <a href="https://www.data.go.kr/dcat/metadata/15004793" target="_blank" rel="noreferrer">data.go.kr 메타데이터 15004793</a></li>
+<li>한국에너지공단은 수전 전력 현황(2026-06 갱신)과 에너지진단통계 데이터도 공공데이터로 공개함 (2차 자료, 검색요약) — <a href="https://www.data.go.kr/biz/dcat/metadata/15086730.do" target="_blank" rel="noreferrer">data.go.kr 15086730</a>, <a href="https://www.data.go.kr/biz/dcat/metadata/15128937.do" target="_blank" rel="noreferrer">data.go.kr 15128937</a></li>
+<li>예시(2018년도 통계): 신고업체 에너지사용량 1억899만1천toe(전년 대비 +5.0%) (보도 기준) — <a href="https://pressian.com/pages/articles/272317" target="_blank" rel="noreferrer">프레시안</a></li>
+<li>전력배출계수 산정 때 발전량은 &#39;에너지통계연보&#39;의 해당 발전량을 씀(GIR 원문 주석) — <a href="https://www.gir.go.kr/home/file/readDownloadFile.do?encFileId=37a912dfd5e16e144d2b2a967d9cc717f013bbe36cef9ca8&amp;fileSeq=2" target="_blank" rel="noreferrer">GIR 2025 승인 PDF</a></li>
+<li>한국에너지공단 EG-TIPS(에너지온실가스 종합정보 플랫폼): 발열량·배출계수 표, toe 환산 계산기 제공 — <a href="https://tips.energy.or.kr/carbon/Ggas_tatistics03.do" target="_blank" rel="noreferrer">EG-TIPS</a>, <a href="https://tips.energy.or.kr/popup/toe.do" target="_blank" rel="noreferrer">toe 계산기</a></li>
+</ul>
+<h3>Inferences</h3>
+<ul>
+<li>업종별 원단위 기준선(예: 업종 평균 에너지원 구성, 설비별 소비 비중)은 에너지사용량 신고 통계(업종×에너지원)와 에너지진단통계(설비별 개선 잠재량)를 조합해 기본값을 만드는 것이 현실적임.</li>
+</ul>
+<h3>Gaps</h3>
+<ul>
+<li>「에너지통계연보」 최신판(2025년판 여부)의 발간일과 KESIS 다운로드 URL을 확인하지 못했음.</li>
+<li>에너지사용량 신고 통계의 최신 연도(2024 또는 2025 실적) 발간본을 확인하지 못했음.</li>
+<li>에너지진단 데이터셋에 설비별(압축기·보일러·전동기) 개선율이 들어 있는지 확인하지 못했음.</li>
+</ul>
+<h2>8. 요금 기준 (한전 산업용 전기요금, 가스공사·도시가스 산업용 요금)</h2>
+<h3>Takeaway</h3>
+<p>가스는 한국가스공사 공식 도매요금표에서 **2026-10-01 기준 산업용 25.9123 원/MJ(부가세 별도; 원료비 24.6763 + 공급비용 1.236)**를 직접 확인했음. 전기는 2026-04-16부터 산업용(을) 계절·시간대별 요금 개편이 시행됐고(기후부·한전 보도자료), 유예 사업장 514곳은 2026-10-01부터 적용됨. 현행 원/kWh 요금표 원값은 한전 공식 페이지에서 추출하지 못했음.</p>
+<h3>Cited Findings</h3>
+<p><strong>도시가스(한국가스공사 도매요금, 2026-10-01 기준, 원/MJ, 부가세 별도)</strong> — <a href="https://www.kogas.or.kr/site/koGas/1040401000000" target="_blank" rel="noreferrer">KOGAS 도시가스용 천연가스 도매요금</a></p>
+<div class="doc-table"><table>
+<thead>
+<tr>
+<th>용도</th>
+<th>원료비</th>
+<th>공급비용</th>
+<th>도매요금</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>주택용</td>
+<td>17.712</td>
+<td>3.1375</td>
+<td>20.8495</td>
+</tr>
+<tr>
+<td>일반용</td>
+<td>17.712</td>
+<td>1.3784</td>
+<td>19.0904</td>
+</tr>
+<tr>
+<td>업무난방용</td>
+<td>24.6763</td>
+<td>3.2798</td>
+<td>27.9561</td>
+</tr>
+<tr>
+<td>냉난방공조용(동절기/하절기/기타월)</td>
+<td>24.6763 / 18.3827 / 24.6763</td>
+<td>2.2924 / - / 1.3902</td>
+<td>26.9687 / 18.3827 / 26.0665</td>
+</tr>
+<tr>
+<td><strong>산업용</strong></td>
+<td><strong>24.6763</strong></td>
+<td><strong>1.236</strong></td>
+<td><strong>25.9123</strong></td>
+</tr>
+<tr>
+<td>수송용</td>
+<td>24.6763</td>
+<td>0.6981</td>
+<td>25.3744</td>
+</tr>
+<tr>
+<td>열병합용</td>
+<td>23.7889</td>
+<td>2.1145</td>
+<td>25.9034</td>
+</tr>
+<tr>
+<td>연료전지용</td>
+<td>23.7889</td>
+<td>0.6804</td>
+<td>24.4693</td>
+</tr>
+<tr>
+<td>열전용설비용</td>
+<td>24.7707</td>
+<td>3.9438</td>
+<td>28.7145</td>
+</tr>
+<tr>
+<td>평균</td>
+<td>21.0253</td>
+<td>2.0137</td>
+<td>23.039</td>
+</tr>
+</tbody></table></div>
+<ul>
+<li>주석: 일반용·산업용 공급비용은 계절별 차등요금제 폐지로 단일요금 적용. 원료비는 국제유가·환율에 연동됨. 가스공사는 전국 동일 도매요금을 적용하고, 소매요금(도시가스사)은 시·도지사 승인으로 지역마다 다름 — <a href="https://www.kogas.or.kr/site/koGas/1040401000000" target="_blank" rel="noreferrer">KOGAS</a></li>
+<li>산업용 도매요금 추이: 2026-08 23.5305 → 2026-09 25.0896 → 2026-10 25.9123 원/MJ (8~9월 값은 2차 자료) — <a href="https://www.todayenergy.kr/news/articleView.html?idxno=302265" target="_blank" rel="noreferrer">투데이에너지</a></li>
+</ul>
+<p><strong>전기(한전)</strong></p>
+<ul>
+<li>기후에너지환경부·한전 보도자료 「낮엔 낮추고 저녁은 높인다… 계절·시간대별 전기요금 개편안 시행」(2026-04-14): 산업용(을)은 2026-04-16부터 시행. 평일 11<del>15시는 최대부하에서 중간부하로, 평일 18</del>21시는 중간부하에서 최대부하로 바뀜. 봄·가을(3<del>5월, 9</del>10월) 주말·공휴일 11~14시 전력량요금 50% 할인. 유예 신청 산업용(을) 514개 사업장은 10-01부터 적용하고, 산업용(갑)Ⅱ·일반용(갑)Ⅱ·일반용(을)·교육용(을)은 2026-06-01부터 적용 — <a href="https://www.mcee.go.kr/m/mob/board/read.do?menuId=156&amp;boardMasterId=939&amp;boardId=1857140" target="_blank" rel="noreferrer">기후에너지환경부 보도자료</a></li>
+<li>개편 효과: 낮 시간 평균 -15.4 원/kWh, 밤 시간 +5.1 원/kWh, 전체 평균 약 -1.7 원/kWh (보도 기준). 겨울철(11~2월)은 기존 시간대 유지 (2차 자료) — <a href="https://www.mt.co.kr/economy/2026/04/14/2026041415281687111" target="_blank" rel="noreferrer">머니투데이</a>, <a href="https://v.daum.net/v/20260414180605385" target="_blank" rel="noreferrer">다음/뉴스</a></li>
+<li>직전 인상: 2024-10-24 산업용만 평균 9.7%(평균 +16.1 원/kWh) 인상. 산업용(을) +16.9원(10.2%), 산업용(갑) +8.5원(5.2%) (보도 기준) — <a href="https://newsis.com/view/NISX20241023_0002930870" target="_blank" rel="noreferrer">뉴시스</a>, <a href="https://www.kukinews.com/article/view/kuk202410240136" target="_blank" rel="noreferrer">쿠키뉴스</a></li>
+<li>2026년 1분기 연료비조정요금 +5 원/kWh 유지 (보도 기준) — <a href="https://www.electimes.com/news/articleView.html?idxno=363247" target="_blank" rel="noreferrer">전기신문</a></li>
+<li>산업용 단가는 105.5 → 185.5 원/kWh로 약 80% 누적 상승 (2차 자료) — <a href="https://blog.haezoom.com/notice_30/" target="_blank" rel="noreferrer">해줌 블로그</a></li>
+<li>주의: 한전 home.kepco.co.kr의 정적 요금표 페이지(CYEEHP00103)는 &quot;2013년 01월 14일&quot; 적용표로 현행값이 아님 — <a href="https://home.kepco.co.kr/kepco/front/html/CY/E/E/CYEEHP00103.html" target="_blank" rel="noreferrer">KEPCO 구 요금표</a>. 현행 요금표는 한전ON(online.kepco.co.kr) 동적 페이지에 있어 추출하지 못했음 — <a href="https://online.kepco.co.kr/PRM033D00" target="_blank" rel="noreferrer">한전ON</a></li>
+</ul>
+<h3>Inferences</h3>
+<ul>
+<li>가스 비용 절감액은 공식 도매요금(원/MJ)에 소매 공급비용(지역 도시가스사)을 더해 계산해야 함. 계산기에 &#39;지역 소매요금 직접 입력&#39; 옵션이 필요함. 요금은 사실상 매월 바뀌므로 적용월을 함께 저장해야 함.</li>
+<li>전력 비용 절감 계산은 2026-04-16 이후 시간대 구분이 바뀌었으므로, 설비 운전 프로필(시간대별 kWh)을 받아 신·구 시간대표로 계산하는 로직이 필요함. 단일 평균단가는 오차가 큼.</li>
+<li>요금 단위 환산: MJ 요금 × 38.5 MJ/Nm3(도시가스 LNG 순발열량) 또는 × 42.7(총발열량)을 쓰면 원/Nm3 근사가 됨. 도시가스 요금은 총발열량 기준 MJ 계량이 일반적이라고 알려져 있으나 원문 확인이 필요함.</li>
+</ul>
+<h3>Gaps</h3>
+<ul>
+<li>2026-10-20 현재 산업용(갑)Ⅰ·Ⅱ, 산업용(을) 고압A·B·C 선택Ⅰ·Ⅱ·Ⅲ의 기본요금(원/kW)과 계절·시간대별 전력량요금(원/kWh) 공식값을 확인하지 못했음(한전ON 동적 페이지, 기본공급약관 별표 미열람).</li>
+<li>기후환경요금 현행 단가와 2026년 3·4분기 연료비조정단가를 1차 자료로 확인하지 못했음.</li>
+<li>2026-08 공개된 &#39;산업용 지역별 전기요금제&#39;는 확정 요금이 아닌 설계안이라는 보도만 확인했음 (보도 기준) — <a href="https://enersentry.com/%EC%82%B0%EC%97%85%EC%9A%A9-%EC%A0%84%EA%B8%B0%EC%9A%94%EA%B8%88-%EA%B0%9C%ED%8E%B8/" target="_blank" rel="noreferrer">에너센트</a></li>
+</ul>
+10:["$","div",null,{"className":"pt-6","children":[["$","nav",null,{"aria-label":"현재 위치","className":"text-sm text-ink-soft","children":[["$","$L5",null,{"href":"/","className":"hover:text-ink","children":"홈"}]," ",["$","span",null,{"aria-hidden":true,"children":"›"}]," ",["$","$L5",null,{"href":"/library/","className":"hover:text-ink","children":"자료실"}]," ",["$","span",null,{"aria-hidden":true,"children":"›"}]," ","공식 근거 정리 노트"]}],["$","p",null,{"className":"mt-4 rounded-md bg-panel px-4 py-2.5 text-sm text-ink-soft","children":"작업 중 정리한 문서를 그대로 옮긴 것입니다. 내부 보관 경로는 〔원문 보관함〕으로, 고객사명은 일반 표현으로 바꿨습니다."}],["$","article",null,{"className":"doc mt-6","dangerouslySetInnerHTML":{"__html":"$1a"}}],"$L1b"]}]
+1b:["$","nav",null,{"aria-label":"같은 분류 문서","className":"mt-12 flex flex-wrap justify-between gap-3 border-t border-line pt-6 text-sm","children":[["$","$L5",null,{"href":"/library/note-01/","className":"flex min-h-11 max-w-full items-center gap-1 rounded-md border border-line px-3 hover:border-ink sm:max-w-[40%]","children":["← ",["$","span",null,{"className":"truncate","children":"국내 온실가스 산정·보고·검증·감축인정 법령·고시·지침 카탈로그 (기준일 2026-10-20)"}]]}],["$","$L5",null,{"href":"/library/","className":"flex min-h-11 items-center gap-1 rounded-md border border-line px-3 font-semibold hover:border-ink","children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.75,"strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"className":"shrink-0 ","children":[["$","rect",null,{"x":"4","y":"3.5","width":"16","height":"17","rx":"2"}],["$","path",null,{"d":"M8 8.5h8M8 12h8M8 15.5h5"}]]}]," 자료실 목록"]}],["$","$L5",null,{"href":"/library/note-03/","className":"flex min-h-11 max-w-full items-center gap-1 rounded-md border border-line px-3 hover:border-ink sm:max-w-[40%]","children":[["$","span",null,{"className":"truncate","children":"국제 온실가스 산정·감축량 정량화·검증 표준 (기준일: 2026-10-20)"}]," →"]}]]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:null
+14:{"metadata":[["$","title","0",{"children":"국내 공식 배출계수·에너지환산계수·공식 데이터셋 (감축량 계산기·MRV 참조 데이터) — 기준일 2026-10-20 | CarbonSquare 카본스퀘어"}],["$","meta","1",{"name":"description","content":"현재 최신 공식값은 2023년도 단년 전력배출계수(소비단) 0.4173 tCO2eq/MWh로, 기후에너지환경부가 2025-12-17 국가 온실가스 통계 관리위원회 심의를 거쳐 2025-12-18 공표했고(온실가스종합정보센터 「2025년 승인 국가 온실…"}]],"error":null,"digest":"$undefined"}
+19:"$14:metadata"

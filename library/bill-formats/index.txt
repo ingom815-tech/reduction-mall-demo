@@ -1,0 +1,867 @@
+1:"$Sreact.fragment"
+2:I[7815,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-51e7b4d4f0566c75.js"],"SiteHeader"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","294","static/chunks/app/library/%5Bslug%5D/page-07eb37a893ed7853.js"],""]
+f:I[7150,[],""]
+:HL["/reduction-mall-demo/_next/static/css/e31d07d8a84d9e15.css","style"]
+0:{"P":null,"b":"48EIrGD4Lcm0YN5TbnQJs","p":"/reduction-mall-demo","c":["","library","bill-formats",""],"i":false,"f":[[["",{"children":["library",{"children":[["slug","bill-formats","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/reduction-mall-demo/_next/static/css/e31d07d8a84d9e15.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"}]}],["$","body",null,{"className":"flex min-h-screen flex-col bg-white","children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-lg focus:bg-ink focus:px-4 focus:py-2 focus:text-white","children":"본문 바로가기"}],["$","p",null,{"className":"no-print bg-warn-soft px-4 py-1.5 text-center text-xs text-warn","children":"기능 시연용 샘플 사이트입니다 · 제품·사례 정보에는 사용 허락 확인 전 자료와 가상 제품이 함께 들어 있습니다"}],["$","$L2",null,{"logo":["$","span",null,{"className":"text-[22px] font-extrabold tracking-tight text-white","children":["Carbon",["$","span",null,{"className":"text-accent-soft","children":"Square"}]]}],"cats":[{"id":"energy-saving","name":"에너지 절감형"},{"id":"process-optimization","name":"공정 최적화형"},{"id":"emission-diagnosis","name":"배출 진단형"},{"id":"renewable","name":"신재생 에너지형"}]}],["$","main",null,{"id":"main","className":"mx-auto w-full max-w-6xl flex-1 px-4 pb-16","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"no-print border-t border-line bg-panel pb-16","children":[["$","div",null,{"className":"mx-auto grid max-w-6xl gap-8 px-4 py-12 text-sm sm:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1fr]","children":[["$","div",null,{"className":"space-y-3","children":[["$","span",null,{"className":"text-[22px] font-extrabold tracking-tight ","children":["Carbon",["$","span",null,{"className":"text-accent","children":"Square"}]]}],["$","p",null,{"className":"max-w-xs text-ink-soft","children":"인포스퀘어가 운영하는 탄소감축 설비 장터. 사업장 설비 정보를 넣으면 맞는 감축 설비와 예상 감축 효과를 공식 산정 기준과 함께 보여드립니다."}]]}],["$","div",null,{"children":[["$","p",null,{"className":"mb-3 font-semibold","children":"제품"}],["$","ul",null,{"className":"space-y-2 text-ink-soft","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/products/","className":"hover:text-ink","children":"전체 제품"}]}],[["$","li","energy-saving",{"children":["$","$L5",null,{"href":"/products/?cat=energy-saving","className":"hover:text-ink","children":"에너지 절감형"}]}],["$","li","process-optimization",{"children":["$","$L5",null,{"href":"/products/?cat=process-optimization","className":"hover:text-ink","children":"공정 최적화형"}]}],["$","li","emission-diagnosis",{"children":["$","$L5",null,{"href":"/products/?cat=emission-diagnosis","className":"hover:text-ink","children":"배출 진단형"}]}],["$","li","renewable",{"children":["$","$L5",null,{"href":"/products/?cat=renewable","className":"hover:text-ink","children":"신재생 에너지형"}]}]]]}]]}],["$","div",null,{"children":["$L6","$L7"]}],"$L8"]}],"$L9"]}],"$La"]}]]}]]}],{"children":["library","$Lb",{"children":[["slug","bill-formats","d"],"$Lc",{"children":["__PAGE__","$Ld",{},null,false]},null,false]},null,false]},null,false],"$Le",false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[3497,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-51e7b4d4f0566c75.js"],"CompareBar"]
+12:I[4431,[],"OutletBoundary"]
+14:I[5278,[],"AsyncMetadataOutlet"]
+16:I[4431,[],"ViewportBoundary"]
+18:I[4431,[],"MetadataBoundary"]
+19:"$Sreact.suspense"
+6:["$","p",null,{"className":"mb-3 font-semibold","children":"감축 효과 산정"}]
+7:["$","ul",null,{"className":"space-y-2 text-ink-soft","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/simulate/","className":"hover:text-ink","children":"감축 효과 산정하기"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/demo/","className":"hover:text-ink","children":"결과 데모"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/library/","className":"hover:text-ink","children":"자료실"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/basis/","className":"hover:text-ink","children":"산정 기준"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/compare/","className":"hover:text-ink","children":"제품 비교"}]}]]}]
+8:["$","div",null,{"children":[["$","p",null,{"className":"mb-3 font-semibold","children":"고객 안내"}],["$","ul",null,{"className":"space-y-2 text-ink-soft","children":[["$","li",null,{"children":["견적·상담 문의 ",["$","span",null,{"className":"ml-1 rounded bg-white px-1.5 py-0.5 text-[11px]","children":"준비 중"}]]}],["$","li",null,{"children":"입력하신 사업장 정보는 이 브라우저 안에서만 산정에 쓰이며 저장·전송되지 않습니다."}]]}]]}]
+9:["$","div",null,{"className":"border-t border-line","children":["$","div",null,{"className":"mx-auto max-w-6xl space-y-1 px-4 py-6 text-xs text-ink-soft","children":[["$","p",null,{"children":"모든 결과는 입력값과 공개된 기준값으로 산정한 예상치이며, 실제 절감량·감축량은 설치 조건과 운전 상태에 따라 달라질 수 있습니다. 공식 감축실적 인정 여부는 정부와 검증기관이 판단합니다."}],["$","p",null,{"children":["© ","CarbonSquare"," ","카본스퀘어"," · Platform by ","INFOSQUARE"]}]]}]}]
+a:["$","$L10",null,{}]
+b:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+d:["$","$1","c",{"children":["$L11",null,["$","$L12",null,{"children":["$L13",["$","$L14",null,{"promise":"$@15"}]]}]]}]
+e:["$","$1","h",{"children":[null,[["$","$L16",null,{"children":"$L17"}],null],["$","$L18",null,{"children":["$","div",null,{"hidden":true,"children":["$","$19",null,{"fallback":null,"children":"$L1a"}]}]}]]}]
+1b:T9ed8,<h1>고지서 자동 입력 근거 — 한전 전기요금 청구서 · 도시가스 요금 고지서</h1>
+<ul>
+<li>조사일: 2026-10-21 (기준일). 출처는 공식 사이트(한전ON, 한전 사이버지점, 법제처, 기후에너지환경부·정책브리핑, 한국가스공사, 서울도시가스, 삼천리)만 사용함.</li>
+<li>로컬 보관함 <code>〔원문 보관함〕</code>의 가스공사 도매요금표(2026-10-01 기준)와 <code>01_.../07_에너지법시행규칙</code> 별표(에너지열량 환산기준)를 먼저 확인함. 보관함 파일은 읽기만 함.</li>
+<li>표기: <strong>[확인]</strong> 공식 원문에서 직접 확인 / <strong>[추정]</strong> 공식 자료로부터 추론, 원문 문장 미확인 / <strong>[미확인]</strong> 공식 자료에서 찾지 못함(흔한 표기라 대비용으로만 넣음).</li>
+<li>함께 쓰는 기계용 파일: <code>bill-formats.json</code> (같은 폴더).</li>
+</ul>
+<hr>
+<h2>결론 먼저</h2>
+<div class="doc-table"><table>
+<thead>
+<tr>
+<th>항목</th>
+<th>전기 (한전)</th>
+<th>도시가스</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>절감액 계산용 단가</td>
+<td><strong>(전력량요금 + 기후환경요금 + 연료비조정요금) ÷ 사용전력량</strong> (원/kWh). 기본요금·부가세·기금 제외</td>
+<td><strong>사용요금(공급가액에서 기본료·교체비 제외) ÷ 사용열량</strong> (원/MJ). 고지서에 단가가 찍혀 있으면 그 값 우선</td>
+</tr>
+<tr>
+<td>왜 그 식인가</td>
+<td>약관 제67조: 전력량·기후환경·연료비조정요금만 &quot;사용전력량에 대하여 부과&quot;. 기본요금은 요금적용전력(최대수요 12개월 래칫)에 붙음</td>
+<td>서울도시가스 요금산정방법: (사용량×보정계수)×평균열량×요금단가가 사용요금. 기본료·교체비는 정액</td>
+</tr>
+<tr>
+<td>기금·부가세</td>
+<td>부가세 10%(사업자는 매입세액 공제 가능 → 제외). 전력산업기반기금 2.7%는 실제 비용이므로 &quot;현금 기준&quot;을 원하면 ×1.027</td>
+<td>부가세 10% (제외)</td>
+</tr>
+<tr>
+<td>현재 단가 상수</td>
+<td>기후환경요금 9.0원/kWh(&#39;23.1~), 연료비조정단가 +5.0원/kWh(&#39;26 4분기, 상한)</td>
+<td>서울 산업용 27.1545원/MJ, 경기(서울도시가스 구역) 27.3815원/MJ (&#39;26.10.1). 도매 산업용 25.9123원/MJ</td>
+</tr>
+<tr>
+<td>상식 범위(sanity)</td>
+<td>전력량요금 단가 기준 약 57.6<del>242.9원/kWh → 위 식의 결과는 **60</del>260원/kWh** 밖이면 의심</td>
+<td>현재 도매가 25.91원/MJ가 하한 기준. 고지서 기간이 넓으니 <strong>20~35원/MJ</strong> 밖이면 의심 [추정]</td>
+</tr>
+<tr>
+<td>열량 기준</td>
+<td>—</td>
+<td><strong>총발열량(gross)</strong> [추정, 근거 강함 — 아래 B-2]</td>
+</tr>
+</tbody></table></div>
+<hr>
+<h2>A. 한전 전기요금 청구서 (산업용·일반용, 고압 포함)</h2>
+<h3>A-1. 청구서·약관에 나오는 항목 이름 (표기 변형)</h3>
+<p>한전이 공개한 청구서 견본(사이버지점 &quot;청구서보는법&quot;, 주택용 2017년 견본)과 기본공급약관·요금표의 용어를 모은 것. <strong>산업용·고압 청구서의 공식 견본 이미지는 찾지 못했음</strong>. 그래서 산업용 전용 항목(요금적용전력, 시간대별 사용량, 역률 등)은 약관·요금표의 공식 용어로 채움.</p>
+<div class="doc-table"><table>
+<thead>
+<tr>
+<th>의미</th>
+<th>표기 변형</th>
+<th>단위·부호</th>
+<th>근거</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>계약종별</td>
+<td>계약종별 (값 예: 주택용전력, 일반용전력(갑)Ⅱ, 산업용전력(을)) / &quot;산업용(을)&quot;, &quot;산업용(갑)Ⅰ&quot;</td>
+<td>텍스트. 고압A/B/C, 선택Ⅰ/Ⅱ/Ⅲ(/Ⅳ)가 붙음</td>
+<td>[확인] 청구서 견본, 약관 제67조, 요금표</td>
+</tr>
+<tr>
+<td>계약전력</td>
+<td>계약전력</td>
+<td>kW</td>
+<td>[확인] 견본, 약관 제6조</td>
+</tr>
+<tr>
+<td>요금적용전력</td>
+<td>요금적용전력</td>
+<td>kW. 기본요금 계산 기준</td>
+<td>[확인] 약관 제6조·제68조 (청구서 인쇄 위치는 [미확인])</td>
+</tr>
+<tr>
+<td>최대수요전력</td>
+<td>최대수요전력</td>
+<td>kW (15분 단위 누적)</td>
+<td>[확인] 약관 제6조</td>
+</tr>
+<tr>
+<td>사용기간</td>
+<td>사용기간 / 검침기간</td>
+<td>&quot;YYYY년 MM월 DD일부터 … 까지&quot;, &quot;YYYY.MM.DD~YYYY.MM.DD&quot;</td>
+<td>[확인] 견본, 약관 제70조</td>
+</tr>
+<tr>
+<td>검침일</td>
+<td>정기검침일 (값 예: &quot;22&quot;, &quot;매월 16일&quot;)</td>
+<td>일</td>
+<td>[확인] 견본</td>
+</tr>
+<tr>
+<td>지침</td>
+<td>당월지침 / 전월지침 (견본 오타 &quot;당월지지침&quot;도 있음)</td>
+<td>소수점 둘째자리까지 찍히기도 함 (07928.00)</td>
+<td>[확인] 견본</td>
+</tr>
+<tr>
+<td>배율</td>
+<td>계량기배수 / 계기배수 / (배율 [미확인])</td>
+<td>정수. 고압 고객은 지침차 × 배수 = 사용량</td>
+<td>[확인] 견본 설명</td>
+</tr>
+<tr>
+<td>사용전력량</td>
+<td>사용량 / 당월사용량 / 사용전력량 (견본 그래프: &quot;당월 302kWh&quot;)</td>
+<td>kWh</td>
+<td>[확인] 견본·약관 제67·71조</td>
+</tr>
+<tr>
+<td>시간대별 사용량</td>
+<td>경부하 / 중간부하 / 최대부하 (각 시간대 사용전력량)</td>
+<td>kWh</td>
+<td>[확인] 약관 제67조⑨, 별표3, 요금표</td>
+</tr>
+<tr>
+<td>무효전력량</td>
+<td>무효전력량</td>
+<td>kVarh</td>
+<td>[확인] 약관 제7·71조</td>
+</tr>
+<tr>
+<td>역률</td>
+<td>역률 / 지상역률 / 진상역률 / 평균역률</td>
+<td>% (정수)</td>
+<td>[확인] 약관 제6·43조, 견본</td>
+</tr>
+<tr>
+<td>기본요금</td>
+<td>기본요금</td>
+<td>원</td>
+<td>[확인]</td>
+</tr>
+<tr>
+<td>전력량요금</td>
+<td>전력량요금</td>
+<td>원</td>
+<td>[확인]</td>
+</tr>
+<tr>
+<td>기후환경요금</td>
+<td>기후환경요금</td>
+<td>원</td>
+<td>[확인] 약관 제67조, 청구서보는법 설명</td>
+</tr>
+<tr>
+<td>연료비조정요금</td>
+<td>연료비조정요금 / 연료비조정액</td>
+<td>원. <strong>음수 가능</strong>(단가가 −일 때)</td>
+<td>[확인] 약관(요금), 청구서보는법(액)</td>
+</tr>
+<tr>
+<td>역률요금</td>
+<td>역률요금</td>
+<td>원. <strong>음수 가능</strong>(감액)</td>
+<td>[확인] 견본, 약관 제43조</td>
+</tr>
+<tr>
+<td>할인</td>
+<td>복지할인, 자동납부할인, 인터넷할인, 모바일할인 등</td>
+<td>원, <strong>음수로 찍힘</strong>(예: −8000)</td>
+<td>[확인] 견본</td>
+</tr>
+<tr>
+<td>전기요금계</td>
+<td>전기요금계</td>
+<td>원 (= 위 요금 + 할인 합계)</td>
+<td>[확인] 견본</td>
+</tr>
+<tr>
+<td>부가가치세</td>
+<td>부가가치세 / 부가세</td>
+<td>원</td>
+<td>[확인]</td>
+</tr>
+<tr>
+<td>전력산업기반기금</td>
+<td>전력기금 / 전력산업기반기금 / 전력기반기금</td>
+<td>원</td>
+<td>[확인] 견본(전력기금), 약관 제82조, 요금표 페이지</td>
+</tr>
+<tr>
+<td>끝수</td>
+<td>원단위절사 / 원단위절사세</td>
+<td>원, 음수 가능</td>
+<td>[확인] 견본</td>
+</tr>
+<tr>
+<td>당월요금계</td>
+<td>당월요금계</td>
+<td>원 (미납·TV수신료 제외한 당월분)</td>
+<td>[확인] 견본</td>
+</tr>
+<tr>
+<td>청구금액</td>
+<td>청구금액 / 청구액</td>
+<td>원 (= 당월요금계 + 미납요금 + TV수신료 등)</td>
+<td>[확인] 견본</td>
+</tr>
+<tr>
+<td>기타</td>
+<td>계기변상금, 연체료, 가산금, 미납요금, TV수신료</td>
+<td>원</td>
+<td>[확인] 견본</td>
+</tr>
+</tbody></table></div>
+<p>파싱 주의:</p>
+<ul>
+<li><strong>청구금액 ≠ 당월요금계</strong>. 미납요금·TV수신료가 더해질 수 있으므로 단가 계산에는 쓰지 말 것.</li>
+<li>할인·역률요금·연료비조정요금·원단위절사는 음수가 정상. <code>-8000</code>, <code>△8,000</code> 둘 다 대비 [△ 표기는 미확인].</li>
+<li>숫자에 천 단위 쉼표 있음/없음 모두 나옴(견본 2012판은 쉼표, 2017판은 없음).</li>
+</ul>
+<h3>A-2. 청구금액의 공식 구성</h3>
+<ol>
+<li><strong>전기요금 = 기본요금 + 전력량요금 + 기후환경요금 + 연료비조정요금</strong> — 기본공급약관 제67조①. [확인]<ul>
+<li>기본요금: &quot;사용전력량 유무에 관계없이 요금적용전력에 대하여&quot; 부과.</li>
+<li>전력량요금·기후환경요금·연료비조정요금: &quot;사용전력량이 있는 경우 사용전력량에 대하여&quot; 부과.</li>
+<li>기후환경요금 = 사용전력량 × 기후환경요금 단가(별표7), 연료비조정요금 = 사용전력량 × 연료비조정단가(별표8) — 제67조②.</li>
+</ul>
+</li>
+<li><strong>청구금액 = 전기요금 + 부가가치세 + 전력산업기반기금</strong> — 한전ON 전기요금표 &quot;전기요금 구조&quot;. [확인]<ul>
+<li>부가가치세(원 미만 4사5입) = 전기요금 × 10%</li>
+<li>전력산업기반기금(10원 미만 절사) = 전기요금 × 2.7%</li>
+<li>청구금액(부가세 포함)의 10원 미만 끝수는 계산하지 않음 — 약관 제7조. [확인]</li>
+<li>견본 청구서에서는 할인·역률요금까지 더한 값이 &quot;전기요금계&quot;이고, 부가세·기금은 이 전기요금계에 붙음 (2017 견본: 전기요금계 31,425 → 부가가치세 3,143 = 10%). [확인]</li>
+</ul>
+</li>
+<li><strong>기금 요율 2.7%</strong> — 전기사업법 시행령 제36조 &quot;전기요금의 1천분의 27&quot; (2024.6.4 개정, 대통령령 제34543호). 부칙 제2조: 2024.7.1~2025.6.30은 1천분의 32(3.2%). 따라서 <strong>2.7%는 2025-07-01부터</strong> 적용. 시행령 현행본은 대통령령 제36587호(2026.8.18 공포, 2026.9.18 시행)이며 제36조 문구는 그대로. [확인]<ul>
+<li>전기요금으로부터 분리청구 근거: 약관 제82조(전기사업법 제51조). [확인]</li>
+<li>2024.6.30 이전 청구서는 3.7%, 2024.7~2025.6 청구서는 3.2%이므로 <strong>청구서 날짜에 맞춰 검증할 것</strong>.</li>
+</ul>
+</li>
+</ol>
+<h3>A-3. kWh에 따라 변하는 것 / 변하지 않는 것, 그리고 절감 단가</h3>
+<div class="doc-table"><table>
+<thead>
+<tr>
+<th>구성</th>
+<th>kWh에 비례?</th>
+<th>근거</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>기본요금</td>
+<td>아니오. 요금적용전력(kW) × 기본요금 단가</td>
+<td>약관 제67조①, 제68조: 최대수요전력계 설치 고객은 <strong>직전 12개월 중 12·1·2·7·8·9월분과 당월분 최대수요전력 중 최댓값</strong>(계약전력 30% 하한)</td>
+</tr>
+<tr>
+<td>전력량요금</td>
+<td>예 (시간대·계절별 단가 × kWh)</td>
+<td>약관 제67조①②, 별표1</td>
+</tr>
+<tr>
+<td>기후환경요금</td>
+<td>예 (9.0원/kWh × kWh)</td>
+<td>약관 제67조②, 한전ON &quot;원가연계형 요금제(기후환경요금)&quot;</td>
+</tr>
+<tr>
+<td>연료비조정요금</td>
+<td>예 (연료비조정단가 × kWh)</td>
+<td>약관 제67조②, 한전ON &quot;원가연계형 요금제(연료비조정요금)&quot;</td>
+</tr>
+<tr>
+<td>역률요금</td>
+<td>아니오. 기본요금의 % 가감</td>
+<td>약관 제43조 (08<del>22시 지상역률 92% 기준 매 1%당 기본요금 0.2% 가감, 97%까지 감액 / 22</del>08시 진상역률 95% 미달 1%당 0.2% 추가)</td>
+</tr>
+<tr>
+<td>부가가치세</td>
+<td>전기요금 × 10% (사업자 공제 가능)</td>
+<td>요금표</td>
+</tr>
+<tr>
+<td>전력산업기반기금</td>
+<td>전기요금 × 2.7% (공제 불가, 실비용)</td>
+<td>시행령 제36조</td>
+</tr>
+</tbody></table></div>
+<p><strong>추천 단가 (원/kWh)</strong></p>
+<pre><code>p_energy = (전력량요금 + 기후환경요금 + 연료비조정요금) / 사용전력량
+</code></pre>
+<ul>
+<li>이유: 약관이 이 세 항목만 &quot;사용전력량에 대하여&quot; 부과한다고 정함. kWh를 줄이면 이 세 항목이 정확히 비례해서 줄어듦(시간대 구성이 같다는 전제).</li>
+<li>기본요금은 빼야 함: kWh 절감이 최대수요전력(15분 피크)을 낮춘다는 보장이 없고, 낮추더라도 12개월 래칫 때문에 효과가 늦게, 일부만 나타남. 피크 저감을 따로 계산하고 싶으면 <code>Δ요금적용전력(kW) × 기본요금 단가(원/kW)</code>를 별도 항목으로.</li>
+<li>부가세는 빼는 것을 기본값으로: 사업자는 매입세액 공제를 받음. 비사업자(드묾)는 ×1.1.</li>
+<li>기금 포함 &quot;현금 기준&quot;이 필요하면 <code>p_cash = p_energy × 1.027</code> (기금은 전기요금 전체에 비례하므로 kWh 관련 부분도 2.7%씩 함께 줄어듦).</li>
+<li>할인(복지·자동납부 등)과 역률요금은 kWh와 무관하므로 분자에 넣지 않음.</li>
+<li><strong>시간대가 다른 절감</strong>(예: 낮에만 켜는 조명): 청구서 평균 단가 대신 요금표의 해당 시간대 단가 + 9.0 + 연료비조정단가를 쓰는 것이 더 정확함. 청구서에는 시간대별 kWh만 있고 시간대별 금액은 보통 합쳐져 있으므로, 계약종별·선택·계절로 요금표를 찾아 씀.</li>
+<li>계절이 바뀌는 달(5→6월 등), 요율 변경일이 낀 달은 일수 계산(약관 제80조)으로 단가가 섞임 → 여러 달 평균 권장.</li>
+</ul>
+<p><strong>현재 단가 상수 (2026-10-21 기준)</strong></p>
+<div class="doc-table"><table>
+<thead>
+<tr>
+<th>항목</th>
+<th>값</th>
+<th>적용일</th>
+<th>근거</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>기후환경요금 단가</td>
+<td><strong>9.0원/kWh</strong> (RPS 7.7 + ETS 1.1 + 석탄발전 감축 0.2)</td>
+<td>2023-01 적용분부터 (이후 변경 공지 없음)</td>
+<td>한전ON 원가연계형 요금제(기후환경요금) [확인]</td>
+</tr>
+<tr>
+<td>연료비조정단가</td>
+<td><strong>+5.0원/kWh</strong> (상하한 ±5원/kWh)</td>
+<td>2026년 4분기(10~12월)</td>
+<td>한전ON 공지 &quot;&#39;26년 4분기 연료비조정단가 및 산정내역 관련 자료 게시&quot;(2026-09-21) — 첨부 PDF는 열지 않음. 값 +5원은 같은 날 보도(필요 단가 +7.3원, 상한 적용)로 확인 [값은 언론 확인, 공지 첨부 미열람]</td>
+</tr>
+<tr>
+<td>부가가치세</td>
+<td>10%</td>
+<td>—</td>
+<td>한전ON 요금표</td>
+</tr>
+<tr>
+<td>전력산업기반기금</td>
+<td>2.7%</td>
+<td>2025-07-01</td>
+<td>전기사업법 시행령 제36조·부칙(제34543호)</td>
+</tr>
+</tbody></table></div>
+<h3>A-4. 전력량요금 단가 범위 (sanity 체크용)</h3>
+<p>한전ON &quot;한글 전기요금표&quot;(2026-10-21 열람). 산업용(을) 표 머리말은 &quot;2024년 10월 24일부터 적용&quot;으로 남아 있으나, 숫자는 2026-04-16 개편분이 반영된 값임(약관 부칙 [2026.03.16]: 별표1·별표3 개정 2026-04-16 시행, 산업용(을) 경부하 +5.1, 최대부하 여름·겨울 −16.9 / 봄가을 −13.2. 유예 신청 고객은 2026-09-30까지 유예). 단위: 원/kWh, 부가세·기금 별도.</p>
+<div class="doc-table"><table>
+<thead>
+<tr>
+<th>종별</th>
+<th>최저 단가 (어디)</th>
+<th>최고 단가 (어디)</th>
+<th>적용일</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>산업용(갑)Ⅰ (300kW 미만, 단일)</td>
+<td>94.4 (저압 봄·가을)</td>
+<td>124.8 (고압A 선택Ⅰ 여름)</td>
+<td>2024-10-24</td>
+</tr>
+<tr>
+<td>산업용(갑)Ⅱ (시간대별)</td>
+<td>88.0 (고압B 선택Ⅱ 경부하)</td>
+<td>155.0 (고압A 선택Ⅰ 여름 최대)</td>
+<td>2024-10-24 (시간대 구분은 2026-06-01 개편)</td>
+</tr>
+<tr>
+<td>산업용(을) (300kW 이상)</td>
+<td>115.1 (고압A 선택Ⅲ 경부하 여름·봄가을)</td>
+<td>242.9 (고압B 선택Ⅰ 여름 최대)</td>
+<td>2026-04-16</td>
+</tr>
+<tr>
+<td>일반용(갑)Ⅰ</td>
+<td>91.9 (저압 봄·가을)</td>
+<td>142.6 (고압A 선택Ⅰ 여름)</td>
+<td>2024-01-01</td>
+</tr>
+<tr>
+<td>일반용(갑)Ⅱ</td>
+<td>83.5 (고압B 선택Ⅱ 경부하)</td>
+<td>163.1 (고압A 선택Ⅰ 여름 최대)</td>
+<td>2024-01-01 (시간대 2026-06-01)</td>
+</tr>
+<tr>
+<td>일반용(을)</td>
+<td>86.4 (고압A 선택Ⅲ 경부하)</td>
+<td>229.4 (고압B 선택Ⅰ 여름 최대)</td>
+<td>2024-01-01 (시간대 2026-06-01)</td>
+</tr>
+</tbody></table></div>
+<ul>
+<li>산업용(을) 주말 할인(약관 제67조의7, 2026-04-16<del>2030-12-31): 봄·가을 주말·공휴일 11</del>14시 전력량요금 50% 할인 → 순간 최저 약 57.6원/kWh(115.1×0.5). [확인: 정책브리핑 2026-03-13, 약관 부칙]</li>
+<li>현행 시간대(2026 개편): 경부하 22:00<del>08:00 / 중간부하 (봄·여름·가을) 08</del>15, 21<del>22시, (겨울) 08</del>09, 12<del>16, 19</del>22시 / 최대부하 (봄·여름·가을) 15<del>21시, (겨울) 09</del>12, 16~19시. 공휴일은 경부하, 공휴일 아닌 토요일 최대부하는 중간부하로 계량. [확인]</li>
+<li>기본요금 범위: 5,550(산업용(갑) 저압) ~ 9,810원/kW(산업용(을) 고압A 선택Ⅲ). [확인]</li>
+</ul>
+<p><strong>sanity 범위 (JSON <code>priceBounds</code>)</strong>: <code>p_energy</code>는 전력량요금 단가에 기후환경 9.0 + 연료비조정 −5~+5를 더한 값이므로</p>
+<ul>
+<li>하한 ≈ 57.6 + 9.0 − 5.0 = 61.6 → 여유를 두어 <strong>60원/kWh</strong></li>
+<li>상한 ≈ 242.9 + 9.0 + 5.0 = 256.9 → <strong>260원/kWh</strong></li>
+<li>이 범위 밖이면 OCR 오류(자릿수·단위)일 가능성이 큼. 월 평균값은 보통 이보다 훨씬 좁음(최대부하만 쓰는 달은 없음). 과거 청구서(2023년 이전)는 단가가 더 낮았으므로 하한을 너무 올리지 말 것.</li>
+</ul>
+<hr>
+<h2>B. 도시가스 요금 고지서 (산업용·일반용)</h2>
+<h3>B-1. 항목 이름 (표기 변형)</h3>
+<div class="doc-table"><table>
+<thead>
+<tr>
+<th>의미</th>
+<th>표기 변형</th>
+<th>단위</th>
+<th>근거</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>지침</td>
+<td>지침 (전월내역/당월내역)</td>
+<td>m³</td>
+<td>[확인] 서울도시가스 요금계산 화면</td>
+</tr>
+<tr>
+<td>사용량</td>
+<td>사용량</td>
+<td>m³ (보정 전 부피)</td>
+<td>[확인] 서울도시가스 요금계산·사용요금 화면</td>
+</tr>
+<tr>
+<td>보정계수</td>
+<td>보정계수 / 온압보정계수</td>
+<td>무차원 (보통 1 안팎)</td>
+<td>[확인] 서울도시가스. &quot;온압보정계수&quot;는 같은 사 요금안내</td>
+</tr>
+<tr>
+<td>보정량</td>
+<td>보정량 / 보정사용량</td>
+<td>Nm³</td>
+<td>[미확인] 공식 화면에서 못 봄</td>
+</tr>
+<tr>
+<td>평균열량</td>
+<td>평균열량 / 월간가중평균열량 / 열량 / (단위열량 [미확인])</td>
+<td>MJ/Nm³</td>
+<td>[확인] 서울도시가스 (&quot;평균열량이란 해당 기간의 월간가중평균열량(MJ/Nm³)&quot;)</td>
+</tr>
+<tr>
+<td>사용열량</td>
+<td>사용열량</td>
+<td>MJ</td>
+<td>[확인] 서울도시가스</td>
+</tr>
+<tr>
+<td>단가</td>
+<td>요금단가 / 단가 / &quot;적용 용도 및 단가 : 난방용 (14.4749원)&quot; 같은 형태</td>
+<td>원/MJ</td>
+<td>[확인] 서울도시가스 산정식(요금단가), 삼천리 고지서 견본(적용 용도 및 단가)</td>
+</tr>
+<tr>
+<td>기본요금</td>
+<td>기본료 / 기본요금</td>
+<td>원. 서울: 주택용만 월 1,250원, <strong>기타용도(산업용 포함)는 산정식에 기본료 없음</strong></td>
+<td>[확인] 서울도시가스</td>
+</tr>
+<tr>
+<td>사용요금</td>
+<td>사용금액 / 사용요금</td>
+<td>원</td>
+<td>[확인] 사용금액(요금계산 화면). 사용요금은 메뉴명</td>
+</tr>
+<tr>
+<td>계량기교체비</td>
+<td>교체비 / 계량기교체비</td>
+<td>원</td>
+<td>[확인] &quot;교체비&quot;(서울도시가스 산정식). &quot;계량기교체비&quot;는 [미확인]</td>
+</tr>
+<tr>
+<td>공급가액</td>
+<td>공급가액</td>
+<td>원 (부가세 전 합계)</td>
+<td>[확인] 서울도시가스 사용요금 화면</td>
+</tr>
+<tr>
+<td>부가가치세</td>
+<td>부가세 / 부가가치세</td>
+<td>원 (10%)</td>
+<td>[확인]</td>
+</tr>
+<tr>
+<td>청구금액</td>
+<td>결제금액 / 금액(지로통지서) / 청구금액 [미확인]</td>
+<td>원</td>
+<td>[확인] 결제금액(서울도시가스), 금액(삼천리 지로통지서)</td>
+</tr>
+<tr>
+<td>기타</td>
+<td>연체료, 미납금액, 전자납부번호, 납부마감일</td>
+<td>—</td>
+<td>[확인]</td>
+</tr>
+<tr>
+<td>용도</td>
+<td>용도(적용 용도): 주택용(취사·난방), 업무난방용, 영업용(1)(2), 산업용, 냉방용(냉난방공조용), 열병합용, 연료전지용, 수송용 등</td>
+<td>—</td>
+<td>[확인] 서울도시가스 요금표(2026-10-01)</td>
+</tr>
+</tbody></table></div>
+<h3>B-2. 공식 계산식과 열량 기준</h3>
+<p><strong>계산식 [확인]</strong> — 서울도시가스 &quot;가스요금안내 › 요금산정방법&quot; 및 &quot;요금계산&quot; 화면:</p>
+<pre><code>주택용   : {(사용량 × 보정계수) × 평균열량 × 요금단가 + 기본료 + 교체비} + 부가세(10%)
+기타용도 : {(사용량 × 보정계수) × 평균열량 × 요금단가 + 교체비} + 부가세(10%)
+</code></pre>
+<ul>
+<li>즉 <strong>사용열량(MJ) = 사용량(m³) × 보정계수 × 평균열량(MJ/Nm³)</strong>. 사용요금 = 사용열량 × 요금단가.</li>
+<li>온압보정계수: 도시가스사업법 제21조·시행령 제11조 &quot;가스공급량 측정의 적정성 확보&quot;에 따라 시·도지사가 고시, <strong>사용압력 250mmAq 이하</strong> 고객에 요금고지 시 자동 적용 [확인 서울도시가스]. 중압 이상 산업용 고객은 계량기에 체적보정기가 달려 이미 보정된 부피(Nm³)가 찍히는 경우가 있음 → 보정계수가 1이거나 항목이 없을 수 있음 [추정].</li>
+<li>평균열량은 한국가스공사 공급지점 열량측정기 측정값(월 가중평균). 2026-09 서울도시가스 평균열량 42.756 MJ/Nm³, 가스공사 2026-10 예상열량(육지) 42.653 MJ/Nm³(±2%). 열량 범위 41.0~44.4 MJ/Nm³(2012-07 열량범위제). [확인]</li>
+</ul>
+<p><strong>열량 기준: 총발열량(gross)</strong> [추정 — 근거 강함]</p>
+<ul>
+<li>에너지법 시행규칙 별표 &quot;에너지열량 환산기준&quot;(2022-11-21 개정): 도시가스(LNG) <strong>총발열량 42.7 MJ/Nm³</strong>, 순발열량 38.5 MJ/Nm³. 0℃·1기압 Nm³. [확인, 로컬 보관함]</li>
+<li>고지서·가스공사의 열량(41.0<del>44.4, 2026년 실적 42.6</del>42.8 MJ/Nm³)은 총발열량 값과 맞고 순발열량(≈38.5)과는 맞지 않음. 또 2012년 이전 표준열량 10,400 kcal/Nm³ 역시 총발열량 기준 수치임.</li>
+<li>「도시가스의 품질기준 등에 관한 고시」(산업통상부, 2020-02-03): 열량은 MJ/㎥ (0 ℃, 101.3 kPa), 값은 &quot;공급규정에서 정하는 열량&quot;, 측정은 KS I ISO 6976. 이 고시 본문에 &quot;총발열량&quot; 단어는 없음. [확인]</li>
+<li>공급규정(서울시·경기도) 원문은 서울도시가스 사이트에서 다운로드로만 제공되어 열지 않았음 → &quot;총발열량&quot; 명시 문장은 미확인. 필요하면 서울시 공급규정 파일을 받아 정의 조항을 확인할 것.</li>
+<li>앱 처리: 사용열량(MJ)을 온실가스·에너지 환산에 쓸 때는 <strong>총발열량 기준</strong>임을 명시. 배출량 산정(배출량보고인증지침)은 순발열량 기준 계수를 쓰는 경우가 있으니 변환 시 주의(42.7 → 38.5 비율 ≈ 0.902). 요금 단가(원/MJ)는 이미 총발열량 MJ 기준임.</li>
+</ul>
+<h3>B-3. 산업용 원/MJ 범위와 도매요금 관계</h3>
+<div class="doc-table"><table>
+<thead>
+<tr>
+<th>구분</th>
+<th>값 (원/MJ, 부가세 별도)</th>
+<th>적용일</th>
+<th>근거</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>가스공사 도매 산업용</td>
+<td><strong>25.9123</strong> (원료비 24.6763 + 공급비 1.236)</td>
+<td>2026-10-01</td>
+<td>가스공사 도매요금표 (로컬 보관함)</td>
+</tr>
+<tr>
+<td>서울도시가스 서울 산업용</td>
+<td><strong>27.1545</strong> (전월 26.3318, +0.8227)</td>
+<td>2026-10-01</td>
+<td>서울도시가스 가스요금표</td>
+</tr>
+<tr>
+<td>서울도시가스 경기 산업용</td>
+<td><strong>27.3815</strong> (전월 26.5588)</td>
+<td>2026-10-01</td>
+<td>같은 페이지, 지역 &quot;경기&quot;</td>
+</tr>
+<tr>
+<td>서울 업무난방용</td>
+<td>29.8989</td>
+<td>2026-10-01</td>
+<td>같은 페이지</td>
+</tr>
+<tr>
+<td>서울 영업용(1)/(2)</td>
+<td>22.0349 / 21.0332</td>
+<td>2026-10-01</td>
+<td>같은 페이지</td>
+</tr>
+</tbody></table></div>
+<ul>
+<li>관계: <strong>소매요금 = 도매요금(가스공사, 정부 승인) + 도시가스사 공급비용(시·도 물가대책심의위원회 심의 후 시·도지사 승인)</strong>. 서울 산업용 소매 − 도매 = 27.1545 − 25.9123 = <strong>1.2422원/MJ</strong>가 서울도시가스 공급비용 몫. 도매요금은 전국 동일, 소매는 지역별로 다름. [확인 가스공사·서울도시가스]</li>
+<li>산업용 도매요금의 95.2%가 원료비이고 원료비는 유가·환율에 매월 연동(원료비 연동제) → 산업용 단가는 <strong>매달 바뀜</strong>. 10월 인상분 0.8227원/MJ가 도매·소매에 같이 붙은 것도 원료비 변동 때문. 그래서 표 값보다 <strong>고지서에서 역산한 단가</strong>가 그 달 실제 단가임.</li>
+<li>산업용·일반용 공급비용은 계절별 차등이 폐지되어 단일요금(가스공사 표 주석). 서울도시가스 표도 산업용 동절기·하절기·기타 동일 값. [확인]</li>
+<li>sanity 범위 [추정]: 현재 도매 25.91이 사실상 하한, 현재 소매 27.15<del>27.38. 과거 고지서까지 받으려면 넓게 **20</del>35원/MJ**(2024-06 산업용 소매가 약 20.9원/MJ 수준이었다는 보도가 있으나 공식 원문 미확인). 지역별 공급비용 차이는 서울·경기 외 미확인.</li>
+</ul>
+<p><strong>추천 단가 (원/MJ)</strong></p>
+<pre><code>p_gas = 사용요금(원) / 사용열량(MJ)
+      = 공급가액 − 기본료 − 교체비 (부가세 제외) 를 사용열량으로 나눈 값
+</code></pre>
+<ul>
+<li>고지서에 &quot;요금단가&quot;가 찍혀 있으면 그 값을 그대로 쓰고, 위 계산값과 0.5% 이내로 맞는지만 확인.</li>
+<li>기본료(주택용 정액)·교체비(일시)·부가세는 열량 절감과 무관하므로 제외.</li>
+<li>m³ 기준 절감을 원/㎥로 바꿀 때는 <code>원/㎥ = p_gas × 보정계수 × 평균열량</code>.</li>
+</ul>
+<hr>
+<h2>C. 공개된 견본 고지서 (URL만, 내려받지 않음)</h2>
+<div class="doc-table"><table>
+<thead>
+<tr>
+<th>무엇</th>
+<th>URL</th>
+<th>메모</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>한전 청구서보는법(은행납부청구서)</td>
+<td><a href="https://cyber.kepco.co.kr/ckepco/front/jsp/CY/E/D/CYEDHP00101.jsp" target="_blank" rel="noreferrer">https://cyber.kepco.co.kr/ckepco/front/jsp/CY/E/D/CYEDHP00101.jsp</a></td>
+<td>주택용 2017-05 견본. 항목별 설명(기후환경요금·연료비조정액·계량기배수·당월지침 등) 포함</td>
+</tr>
+<tr>
+<td>한전 청구서보는법(자동납부청구서)</td>
+<td><a href="https://cyber.kepco.co.kr/ckepco/front/jsp/CY/E/D/CYEDHP00102.jsp" target="_blank" rel="noreferrer">https://cyber.kepco.co.kr/ckepco/front/jsp/CY/E/D/CYEDHP00102.jsp</a></td>
+<td>같은 형식</td>
+</tr>
+<tr>
+<td>한전 청구서보는법(이메일청구서)</td>
+<td><a href="https://cyber.kepco.co.kr/ckepco/front/jsp/CY/E/D/CYEDHP00103.jsp" target="_blank" rel="noreferrer">https://cyber.kepco.co.kr/ckepco/front/jsp/CY/E/D/CYEDHP00103.jsp</a></td>
+<td>2016-09 견본</td>
+</tr>
+<tr>
+<td>한전 청구서보는법(점자청구서)</td>
+<td><a href="https://cyber.kepco.co.kr/ckepco/front/jsp/CY/E/D/CYEDHP00104.jsp" target="_blank" rel="noreferrer">https://cyber.kepco.co.kr/ckepco/front/jsp/CY/E/D/CYEDHP00104.jsp</a></td>
+<td></td>
+</tr>
+<tr>
+<td>한전 청구서보는법(모바일청구서)</td>
+<td><a href="https://cyber.kepco.co.kr/ckepco/front/jsp/CY/E/D/CYEDHP00105.jsp" target="_blank" rel="noreferrer">https://cyber.kepco.co.kr/ckepco/front/jsp/CY/E/D/CYEDHP00105.jsp</a></td>
+<td></td>
+</tr>
+<tr>
+<td>한전 청구서보는법(구판, 2012 견본)</td>
+<td><a href="https://home.kepco.co.kr/kepco/front/html/CY/E/D/CYEDHP00101.html" target="_blank" rel="noreferrer">https://home.kepco.co.kr/kepco/front/html/CY/E/D/CYEDHP00101.html</a></td>
+<td>역률요금 설명이 옛 기준(90%·0.5%)이라 참고만</td>
+</tr>
+<tr>
+<td>삼천리 사보 &quot;도시가스 요금고지서, 아는 만큼 보여요&quot;(2025-05)</td>
+<td><a href="https://sabo.samchully.co.kr/202505/special01.php" target="_blank" rel="noreferrer">https://sabo.samchully.co.kr/202505/special01.php</a></td>
+<td>견본 이미지: <a href="http://sabo.samchully.co.kr/202505/img/sub/imgSpecial01_01.jpg" target="_blank" rel="noreferrer">http://sabo.samchully.co.kr/202505/img/sub/imgSpecial01_01.jpg</a> ~ _09.jpg (지로통지서 앞면, &quot;적용 용도 및 단가&quot;)</td>
+</tr>
+<tr>
+<td>서울도시가스 요금계산 화면(항목 구성)</td>
+<td><a href="https://www.seoulgas.co.kr/front/payment/costCount" target="_blank" rel="noreferrer">https://www.seoulgas.co.kr/front/payment/costCount</a></td>
+<td>지침·사용량·보정계수·사용열량·사용금액</td>
+</tr>
+<tr>
+<td>서울도시가스 사용요금 화면(항목 구성)</td>
+<td><a href="https://www.seoulgas.co.kr/mobile/payment/useCost" target="_blank" rel="noreferrer">https://www.seoulgas.co.kr/mobile/payment/useCost</a></td>
+<td>사용열량·사용량·공급가액·부가세·연체료·결제금액</td>
+</tr>
+</tbody></table></div>
+<ul>
+<li><strong>산업용·고압 전기 청구서, 산업용 도시가스 고지서의 공식 견본은 찾지 못함.</strong> 위 견본은 모두 주택용임. 산업용 고객 청구서(한전ON 로그인 후 PDF)는 실제 샘플을 받아 항목 위치를 맞춰 보는 것을 권함.</li>
+<li>한전 견본 숫자 중 기금 1,160원 등은 당시 요율(3.7%) 기준이라 현재 검증식에 쓰면 안 됨.</li>
+</ul>
+<hr>
+<h2>출처 표</h2>
+<div class="doc-table"><table>
+<thead>
+<tr>
+<th>키</th>
+<th>종류</th>
+<th>문서</th>
+<th>발행</th>
+<th>번호/판</th>
+<th>적용·시행일</th>
+<th>URL</th>
+<th>뒷받침하는 내용</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>E1</td>
+<td>고시(약관)</td>
+<td>기본공급약관 제8장 요금의 계산 및 납부 (제67·68·70·71·82조)</td>
+<td>한국전력공사 (기후에너지환경부 인가)</td>
+<td>부칙 [2026.03.16] 최신</td>
+<td>2026-04-01 (별표1·3은 2026-04-16)</td>
+<td><a href="https://online.kepco.co.kr/TEM029D00" target="_blank" rel="noreferrer">https://online.kepco.co.kr/TEM029D00</a></td>
+<td>전기요금 구성, kWh 비례 항목, 요금적용전력, 사용기간, 기금 병기청구</td>
+</tr>
+<tr>
+<td>E2</td>
+<td>고시(약관)</td>
+<td>기본공급약관 제1장 제6·7조, 제5장 제43조, 부칙</td>
+<td>한국전력공사</td>
+<td>부칙 [2026.03.16]</td>
+<td>2026-04-01 / 2026-04-16</td>
+<td><a href="https://online.kepco.co.kr/TEM022D00" target="_blank" rel="noreferrer">https://online.kepco.co.kr/TEM022D00</a> , <a href="https://online.kepco.co.kr/TEM031D00" target="_blank" rel="noreferrer">https://online.kepco.co.kr/TEM031D00</a></td>
+<td>용어 정의, 끝수, 역률요금(92%·0.2%), 2026 개편 경과조치</td>
+</tr>
+<tr>
+<td>E3</td>
+<td>공식데이터</td>
+<td>한글 전기요금표 (전기요금 구조·일반용·산업용·일반사항)</td>
+<td>한국전력공사 한전ON</td>
+<td>—</td>
+<td>산업용(을) 2026-04-16, 그 외 시간대 2026-06-01</td>
+<td><a href="https://online.kepco.co.kr/PRM004D00" target="_blank" rel="noreferrer">https://online.kepco.co.kr/PRM004D00</a></td>
+<td>청구금액 = 전기요금+VAT 10%+기금 2.7%, 단가표, 시간대 구분</td>
+</tr>
+<tr>
+<td>E4</td>
+<td>공식데이터</td>
+<td>원가연계형 요금제(기후환경요금)</td>
+<td>한국전력공사 한전ON</td>
+<td>—</td>
+<td>2023-01</td>
+<td><a href="https://online.kepco.co.kr/PRM097D00" target="_blank" rel="noreferrer">https://online.kepco.co.kr/PRM097D00</a></td>
+<td>기후환경요금 단가 9.0원/kWh, 산정식</td>
+</tr>
+<tr>
+<td>E5</td>
+<td>공식데이터</td>
+<td>원가연계형 요금제(연료비조정요금)</td>
+<td>한국전력공사 한전ON</td>
+<td>—</td>
+<td>—</td>
+<td><a href="https://online.kepco.co.kr/PRM097D00" target="_blank" rel="noreferrer">https://online.kepco.co.kr/PRM097D00</a></td>
+<td>연료비조정요금 = kWh × 단가, ±5원/kWh 상하한</td>
+</tr>
+<tr>
+<td>E6</td>
+<td>공고</td>
+<td>&#39;26년 4분기 연료비조정단가 및 산정내역 관련 자료 게시</td>
+<td>한국전력공사 한전ON 공지</td>
+<td>—</td>
+<td>2026-10-01 (게시 2026-09-21)</td>
+<td><a href="https://online.kepco.co.kr/CUM041D00" target="_blank" rel="noreferrer">https://online.kepco.co.kr/CUM041D00</a> (공지 상세, 첨부 PDF 미열람)</td>
+<td>4분기 단가 공시 사실. 값 +5.0원은 보도로 확인</td>
+</tr>
+<tr>
+<td>E7</td>
+<td>법령</td>
+<td>전기사업법 시행령 제36조(부담금의 부과기준) 및 부칙(제34543호)</td>
+<td>법제처</td>
+<td>대통령령 제36587호(현행), 제34543호(요율 개정)</td>
+<td>2.7%: 2025-07-01 (현행본 시행 2026-09-18)</td>
+<td><a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A0%84%EA%B8%B0%EC%82%AC%EC%97%85%EB%B2%95%EC%8B%9C%ED%96%89%EB%A0%B9" target="_blank" rel="noreferrer">https://www.law.go.kr/법령/전기사업법시행령</a></td>
+<td>기금 1천분의 27, 2024.7~2025.6 한시 1천분의 32</td>
+</tr>
+<tr>
+<td>E8</td>
+<td>공고</td>
+<td>산업용 전기료, 낮 시간 최대 16.9원↓…봄·가을 주말 낮 50% 할인</td>
+<td>기후에너지환경부 (정책브리핑)</td>
+<td>—</td>
+<td>2026-04-16 (발표 2026-03-13)</td>
+<td><a href="https://www.korea.kr/news/policyNewsView.do?newsId=148960823" target="_blank" rel="noreferrer">https://www.korea.kr/news/policyNewsView.do?newsId=148960823</a></td>
+<td>2026 계절·시간대별 개편 내용</td>
+</tr>
+<tr>
+<td>E9</td>
+<td>가이드라인</td>
+<td>청구서보는법 (은행납부·자동납부·이메일·점자·모바일)</td>
+<td>한국전력공사 사이버지점</td>
+<td>견본 2017-05</td>
+<td>—</td>
+<td><a href="https://cyber.kepco.co.kr/ckepco/front/jsp/CY/E/D/CYEDHP00101.jsp" target="_blank" rel="noreferrer">https://cyber.kepco.co.kr/ckepco/front/jsp/CY/E/D/CYEDHP00101.jsp</a></td>
+<td>청구서 항목명·설명</td>
+</tr>
+<tr>
+<td>G1</td>
+<td>공식데이터</td>
+<td>도시가스용 천연가스 도매요금</td>
+<td>한국가스공사</td>
+<td>—</td>
+<td>2026-10-01</td>
+<td><a href="https://www.kogas.or.kr/site/koGas/1040401000000" target="_blank" rel="noreferrer">https://www.kogas.or.kr/site/koGas/1040401000000</a> (로컬: 〔원문 보관함〕)</td>
+<td>산업용 도매 25.9123원/MJ, 도매·소매 구조</td>
+</tr>
+<tr>
+<td>G2</td>
+<td>공식데이터</td>
+<td>도시가스 열량제도 / 공급예상열량 조회</td>
+<td>한국가스공사</td>
+<td>—</td>
+<td>2012-07 열량제도, 2026-10 예상열량</td>
+<td><a href="https://www.kogas.or.kr/site/koGas/1040501000000" target="_blank" rel="noreferrer">https://www.kogas.or.kr/site/koGas/1040501000000</a> , <a href="https://www.kogas.or.kr/site/koGas/userExpSplCal.do?Key=1040502000000" target="_blank" rel="noreferrer">https://www.kogas.or.kr/site/koGas/userExpSplCal.do?Key=1040502000000</a></td>
+<td>41.0~44.4 MJ/Nm³, 2026-10 예상 42.653</td>
+</tr>
+<tr>
+<td>G3</td>
+<td>가이드라인</td>
+<td>가스요금안내 (요금산정방법, 온압보정계수 안내)</td>
+<td>서울도시가스</td>
+<td>—</td>
+<td>2026-10-21 열람</td>
+<td><a href="https://www.seoulgas.co.kr/front/customer/infoGasPay" target="_blank" rel="noreferrer">https://www.seoulgas.co.kr/front/customer/infoGasPay</a></td>
+<td>사용량×보정계수×평균열량×단가, 온압보정 대상</td>
+</tr>
+<tr>
+<td>G4</td>
+<td>공식데이터</td>
+<td>가스요금표 (서울/경기)</td>
+<td>서울도시가스</td>
+<td>—</td>
+<td>2026-10-01</td>
+<td><a href="https://www.seoulgas.co.kr/front/payment/gasPayTable" target="_blank" rel="noreferrer">https://www.seoulgas.co.kr/front/payment/gasPayTable</a></td>
+<td>산업용 27.1545 / 27.3815원/MJ</td>
+</tr>
+<tr>
+<td>G5</td>
+<td>공식데이터</td>
+<td>평균열량조회</td>
+<td>서울도시가스</td>
+<td>—</td>
+<td>2026-09</td>
+<td><a href="https://www.seoulgas.co.kr/front/payment/selectHeat" target="_blank" rel="noreferrer">https://www.seoulgas.co.kr/front/payment/selectHeat</a></td>
+<td>2026-09 평균열량 42.756 MJ/Nm³</td>
+</tr>
+<tr>
+<td>G6</td>
+<td>가이드라인</td>
+<td>요금계산 / 사용요금 화면</td>
+<td>서울도시가스</td>
+<td>—</td>
+<td>2026-10-21 열람</td>
+<td><a href="https://www.seoulgas.co.kr/front/payment/costCount" target="_blank" rel="noreferrer">https://www.seoulgas.co.kr/front/payment/costCount</a> , <a href="https://www.seoulgas.co.kr/mobile/payment/useCost" target="_blank" rel="noreferrer">https://www.seoulgas.co.kr/mobile/payment/useCost</a></td>
+<td>고지 항목명</td>
+</tr>
+<tr>
+<td>G7</td>
+<td>법령</td>
+<td>에너지법 시행규칙 [별표] 에너지열량 환산기준</td>
+<td>기후에너지환경부·산업통상부</td>
+<td>기후에너지환경부령 제1호 (별표는 2022-11-21 개정)</td>
+<td>2025-10-01</td>
+<td><a href="https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=278961" target="_blank" rel="noreferrer">https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=278961</a> (로컬: 〔원문 보관함〕)</td>
+<td>도시가스(LNG) 총 42.7 / 순 38.5 MJ/Nm³, 총·순발열량 정의</td>
+</tr>
+<tr>
+<td>G8</td>
+<td>고시</td>
+<td>도시가스의 품질기준 등에 관한 고시</td>
+<td>산업통상부</td>
+<td>—</td>
+<td>2020-02-03</td>
+<td><a href="https://www.law.go.kr/%ED%96%89%EC%A0%95%EA%B7%9C%EC%B9%99/%EB%8F%84%EC%8B%9C%EA%B0%80%EC%8A%A4%EC%9D%98%ED%92%88%EC%A7%88%EA%B8%B0%EC%A4%80%EB%93%B1%EC%97%90%EA%B4%80%ED%95%9C%EA%B3%A0%EC%8B%9C" target="_blank" rel="noreferrer">https://www.law.go.kr/행정규칙/도시가스의품질기준등에관한고시</a></td>
+<td>열량 MJ/㎥(0℃,101.3kPa), 공급규정 열량, KS I ISO 6976</td>
+</tr>
+<tr>
+<td>G9</td>
+<td>가이드라인</td>
+<td>삼천리 사보 &quot;도시가스 요금고지서, 아는 만큼 보여요&quot;</td>
+<td>삼천리</td>
+<td>Vol.158</td>
+<td>2025-05</td>
+<td><a href="https://sabo.samchully.co.kr/202505/special01.php" target="_blank" rel="noreferrer">https://sabo.samchully.co.kr/202505/special01.php</a></td>
+<td>고지서 견본, &quot;적용 용도 및 단가&quot;</td>
+</tr>
+</tbody></table></div>
+<h2>남은 확인 거리</h2>
+<ol>
+<li>한전ON 4분기 연료비조정단가 첨부 PDF(공식 값 문서) — 다운로드 허락 필요.</li>
+<li>서울시·경기도 도시가스 공급규정 원문의 &quot;열량&quot; 정의(총발열량 명시 여부), 산업용 기본요금 유무 — 다운로드 허락 필요.</li>
+<li>산업용(을) 고압 청구서 실물 PDF 1장 — 항목 배치·표기(배율, 요금적용전력, 시간대별 kWh) 검증용.</li>
+<li>서울·경기 외 지역(부산·대구·인천 등) 산업용 소매 단가 — 지역별 상한·하한 보정용.</li>
+</ol>
+<h2>추가 확인 (2026-10-21, 원문 내려받아 확인)</h2>
+<ul>
+<li>한전 「&#39;26년 4분기 연료비조정단가 산정내역」 PDF: 실적연료비 549.64원/kg − 적용 기준연료비 494.63원/kg = 변동연료비 55.01원/kg × 변환계수 0.1335 kg/kWh = 필요조정단가 7.3원/kWh → 상하한 ±5원 적용 <strong>5.0원/kWh</strong>. 앞의 &quot;언론 확인&quot; 표시는 원문 확인으로 바뀜.</li>
+<li>서울특별시 도시가스 공급규정 제4조 1호: &quot;열량&quot;이라 함은 0℃, 101.325 kPa에서 건조한 가스 1N㎥의 <strong>총발열량</strong>. 제18조 ②: 사용량(N㎥) × 한국가스공사 공지 월간가중평균열량(MJ/N㎥) = 사용열량(MJ). (PDF는 스캔본이라 HWP 본문으로 확인)</li>
+<li>경기도 도시가스 공급규정 제4조 1호: 1N㎥의 <strong>총열량</strong>. 제19조 ②: 온압보정 사용량 × 월간 가중평균열량 = 사용열량. 제23조 ①: 사용열량(MJ)에 요금표 적용.</li>
+<li>→ 가스 산정용 단가의 MJ는 <strong>총발열량 기준</strong>이 원문으로 확인됨. 사이트 산정 화면의 &quot;원/MJ(총발열량)&quot; 단위와 일치.</li>
+<li>보관 위치: <code>〔원문 보관함〕</code> (목록: 같은 폴더 <code>_목록.md</code>)</li>
+</ul>
+11:["$","div",null,{"className":"pt-6","children":[["$","nav",null,{"aria-label":"현재 위치","className":"text-sm text-ink-soft","children":[["$","$L5",null,{"href":"/","className":"hover:text-ink","children":"홈"}]," ",["$","span",null,{"aria-hidden":true,"children":"›"}]," ",["$","$L5",null,{"href":"/library/","className":"hover:text-ink","children":"자료실"}]," ",["$","span",null,{"aria-hidden":true,"children":"›"}]," ","고지서 자동 입력 근거"]}],["$","p",null,{"className":"mt-4 rounded-md bg-panel px-4 py-2.5 text-sm text-ink-soft","children":"작업 중 정리한 문서를 그대로 옮긴 것입니다. 내부 보관 경로는 〔원문 보관함〕으로, 고객사명은 일반 표현으로 바꿨습니다."}],["$","article",null,{"className":"doc mt-6","dangerouslySetInnerHTML":{"__html":"$1b"}}],"$L1c"]}]
+1c:["$","nav",null,{"aria-label":"같은 분류 문서","className":"mt-12 flex flex-wrap justify-between gap-3 border-t border-line pt-6 text-sm","children":[["$","span",null,{}],["$","$L5",null,{"href":"/library/","className":"flex min-h-11 items-center gap-1 rounded-md border border-line px-3 font-semibold hover:border-ink","children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.75,"strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"className":"shrink-0 ","children":[["$","rect",null,{"x":"4","y":"3.5","width":"16","height":"17","rx":"2"}],["$","path",null,{"d":"M8 8.5h8M8 12h8M8 15.5h5"}]]}]," 자료실 목록"]}],["$","span",null,{}]]}]
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+13:null
+15:{"metadata":[["$","title","0",{"children":"고지서 자동 입력 근거 — 한전 전기요금 청구서 · 도시가스 요금 고지서 | CarbonSquare 카본스퀘어"}],["$","meta","1",{"name":"description","content":"조사일: 2026-10-21 (기준일). 출처는 공식 사이트(한전ON, 한전 사이버지점, 법제처, 기후에너지환경부·정책브리핑, 한국가스공사, 서울도시가스, 삼천리)만 사용함."}]],"error":null,"digest":"$undefined"}
+1a:"$15:metadata"

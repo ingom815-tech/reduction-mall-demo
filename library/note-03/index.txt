@@ -1,0 +1,203 @@
+1:"$Sreact.fragment"
+2:I[7815,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-51e7b4d4f0566c75.js"],"SiteHeader"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","294","static/chunks/app/library/%5Bslug%5D/page-07eb37a893ed7853.js"],""]
+e:I[7150,[],""]
+:HL["/reduction-mall-demo/_next/static/css/e31d07d8a84d9e15.css","style"]
+0:{"P":null,"b":"48EIrGD4Lcm0YN5TbnQJs","p":"/reduction-mall-demo","c":["","library","note-03",""],"i":false,"f":[[["",{"children":["library",{"children":[["slug","note-03","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/reduction-mall-demo/_next/static/css/e31d07d8a84d9e15.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"}]}],["$","body",null,{"className":"flex min-h-screen flex-col bg-white","children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-lg focus:bg-ink focus:px-4 focus:py-2 focus:text-white","children":"본문 바로가기"}],["$","p",null,{"className":"no-print bg-warn-soft px-4 py-1.5 text-center text-xs text-warn","children":"기능 시연용 샘플 사이트입니다 · 제품·사례 정보에는 사용 허락 확인 전 자료와 가상 제품이 함께 들어 있습니다"}],["$","$L2",null,{"logo":["$","span",null,{"className":"text-[22px] font-extrabold tracking-tight text-white","children":["Carbon",["$","span",null,{"className":"text-accent-soft","children":"Square"}]]}],"cats":[{"id":"energy-saving","name":"에너지 절감형"},{"id":"process-optimization","name":"공정 최적화형"},{"id":"emission-diagnosis","name":"배출 진단형"},{"id":"renewable","name":"신재생 에너지형"}]}],["$","main",null,{"id":"main","className":"mx-auto w-full max-w-6xl flex-1 px-4 pb-16","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"no-print border-t border-line bg-panel pb-16","children":[["$","div",null,{"className":"mx-auto grid max-w-6xl gap-8 px-4 py-12 text-sm sm:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1fr]","children":[["$","div",null,{"className":"space-y-3","children":[["$","span",null,{"className":"text-[22px] font-extrabold tracking-tight ","children":["Carbon",["$","span",null,{"className":"text-accent","children":"Square"}]]}],["$","p",null,{"className":"max-w-xs text-ink-soft","children":"인포스퀘어가 운영하는 탄소감축 설비 장터. 사업장 설비 정보를 넣으면 맞는 감축 설비와 예상 감축 효과를 공식 산정 기준과 함께 보여드립니다."}]]}],["$","div",null,{"children":[["$","p",null,{"className":"mb-3 font-semibold","children":"제품"}],["$","ul",null,{"className":"space-y-2 text-ink-soft","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/products/","className":"hover:text-ink","children":"전체 제품"}]}],[["$","li","energy-saving",{"children":["$","$L5",null,{"href":"/products/?cat=energy-saving","className":"hover:text-ink","children":"에너지 절감형"}]}],["$","li","process-optimization",{"children":["$","$L5",null,{"href":"/products/?cat=process-optimization","className":"hover:text-ink","children":"공정 최적화형"}]}],["$","li","emission-diagnosis",{"children":["$","$L5",null,{"href":"/products/?cat=emission-diagnosis","className":"hover:text-ink","children":"배출 진단형"}]}],["$","li","renewable",{"children":["$","$L5",null,{"href":"/products/?cat=renewable","className":"hover:text-ink","children":"신재생 에너지형"}]}]]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"mb-3 font-semibold","children":"감축 효과 산정"}],"$L6"]}],"$L7"]}],"$L8"]}],"$L9"]}]]}]]}],{"children":["library","$La",{"children":[["slug","note-03","d"],"$Lb",{"children":["__PAGE__","$Lc",{},null,false]},null,false]},null,false]},null,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[3497,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-51e7b4d4f0566c75.js"],"CompareBar"]
+11:I[4431,[],"OutletBoundary"]
+13:I[5278,[],"AsyncMetadataOutlet"]
+15:I[4431,[],"ViewportBoundary"]
+17:I[4431,[],"MetadataBoundary"]
+18:"$Sreact.suspense"
+6:["$","ul",null,{"className":"space-y-2 text-ink-soft","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/simulate/","className":"hover:text-ink","children":"감축 효과 산정하기"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/demo/","className":"hover:text-ink","children":"결과 데모"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/library/","className":"hover:text-ink","children":"자료실"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/basis/","className":"hover:text-ink","children":"산정 기준"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/compare/","className":"hover:text-ink","children":"제품 비교"}]}]]}]
+7:["$","div",null,{"children":[["$","p",null,{"className":"mb-3 font-semibold","children":"고객 안내"}],["$","ul",null,{"className":"space-y-2 text-ink-soft","children":[["$","li",null,{"children":["견적·상담 문의 ",["$","span",null,{"className":"ml-1 rounded bg-white px-1.5 py-0.5 text-[11px]","children":"준비 중"}]]}],["$","li",null,{"children":"입력하신 사업장 정보는 이 브라우저 안에서만 산정에 쓰이며 저장·전송되지 않습니다."}]]}]]}]
+8:["$","div",null,{"className":"border-t border-line","children":["$","div",null,{"className":"mx-auto max-w-6xl space-y-1 px-4 py-6 text-xs text-ink-soft","children":[["$","p",null,{"children":"모든 결과는 입력값과 공개된 기준값으로 산정한 예상치이며, 실제 절감량·감축량은 설치 조건과 운전 상태에 따라 달라질 수 있습니다. 공식 감축실적 인정 여부는 정부와 검증기관이 판단합니다."}],["$","p",null,{"children":["© ","CarbonSquare"," ","카본스퀘어"," · Platform by ","INFOSQUARE"]}]]}]}]
+9:["$","$Lf",null,{}]
+a:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L10",null,["$","$L11",null,{"children":["$L12",["$","$L13",null,{"promise":"$@14"}]]}]]}]
+d:["$","$1","h",{"children":[null,[["$","$L15",null,{"children":"$L16"}],null],["$","$L17",null,{"children":["$","div",null,{"hidden":true,"children":["$","$18",null,{"fallback":null,"children":"$L19"}]}]}]]}]
+1a:T9133,<h1>국제 온실가스 산정·감축량 정량화·검증 표준 (기준일: 2026-10-20)</h1>
+<blockquote>
+<p>작성 메모: 공식 영문 제목은 원문 그대로 두었다. ISO 웹페이지(iso.org/standard/*)는 이번 세션에서 직접 열람이 403으로 차단되어, ISO 관련 상태 정보는 iso.org 도메인 검색 결과 요약에 의존했다. 직접 확인하지 못한 항목은 &quot;Gaps&quot;에 따로 적었다. 가장 신뢰도가 높은 1차 자료는 GHG Protocol의 「Consolidated Standard Development Plan (SDP), 2026-07-29」 PDF 원문(직접 텍스트 추출)이다.</p>
+</blockquote>
+<h2>Q1. IPCC 2006 Guidelines, 2019 Refinement, EFDB — 고정연소와 기본 배출계수 관련 핵심 권·장</h2>
+<h3>Takeaway</h3>
+<p>국가 인벤토리 방법론의 기준은 여전히 「2006 IPCC Guidelines for National Greenhouse Gas Inventories」이고, 「2019 Refinement to the 2006 IPCC Guidelines」가 일부 장을 보완한다. 에너지 권(Vol.2)에서는 Ch.1 Introduction(기본 발열량·CO2 배출계수), Ch.2 Stationary Combustion, Ch.4 Fugitive Emissions가 개정되었다. 차기 산출물은 「2027 IPCC Methodology Report on CDR / CCUS」(2027년 말 목표)이며, EFDB는 관리그룹이 검토하고 있다. 모두 무료로 공개된다.</p>
+<h3>Cited Findings</h3>
+<ul>
+<li>2019 Refinement Vol.2(Energy)의 장별 상태: Ch.1 Introduction 개정(Refined), Ch.2 Stationary Combustion 개정, Ch.3·5·6 개정 없음, Ch.4 Fugitive Emissions 개정(2023년 2월 정오 반영). Annex 1(Worksheets)과 Annex 2(Mapping Tables)도 함께 제공된다. 무료 PDF — <a href="https://www.ipcc-nggip.iges.or.jp/public/2019rf/vol2.html" target="_blank" rel="noreferrer">IPCC NGGIP, 2019 Refinement Vol.2</a></li>
+<li>2006 Guidelines 원본 Vol.2(Energy) 페이지: <a href="https://www.ipcc-nggip.iges.or.jp/public/2006gl/vol2.html" target="_blank" rel="noreferrer">IPCC NGGIP 2006GL Vol.2</a>. 일반 지침(데이터 수집, 불확도, QA/QC)은 Vol.1에 있다: <a href="https://www.ipcc-nggip.iges.or.jp/public/2006gl/vol1.html" target="_blank" rel="noreferrer">IPCC NGGIP 2006GL Vol.1</a></li>
+<li>EFDB(Emission Factor Database)는 &quot;IPCC 기본 계수와 추가로 공개된 데이터를 근거·기술참고와 함께 모은&quot; 데이터베이스다. 현재 공동의장, EFDB 의장·사용자, TSU 2인으로 구성된 EFDB Management Group이 검토 중이다 — <a href="https://apps.ipcc.ch/eventmanager/documents/88/280120250144-INF.%204%20-%20Progress%20Report%20TFI.pdf" target="_blank" rel="noreferrer">IPCC TFI Progress Report (INF.4, 2025-01)</a>. EFDB 접속 주소: <a href="https://www.ipcc-nggip.iges.or.jp/EFDB/main.php" target="_blank" rel="noreferrer">https://www.ipcc-nggip.iges.or.jp/EFDB/main.php</a></li>
+<li>신규 방법론 보고서: IPCC-60(2024년 1월)에서 TFI에 CDR·CCUS 방법론 보고서를 2027년 말까지 작성하도록 결정했다. 가제는 &quot;2027 IPCC Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization, and Storage for National Greenhouse Gas Inventories (Additional guidance)&quot;이다. 2006 GL 형식을 따라 개요 장과 6개 권으로 구성되며, 대상은 DAC, 탄산화(시멘트·슬래그·해양 알칼리화·풍화 촉진), 수체 CO2 직접 제거, EOR 등이다 — <a href="https://www.ipcc-nggip.iges.or.jp/public/mtdocs/pdfiles/2410_CDR_CCUS_Scoping_Report.pdf" target="_blank" rel="noreferrer">IPCC Scoping Report (2024-10)</a>; <a href="https://www.ipcc.ch/site/assets/uploads/2025/11/Decision-6-MR-CDR.pdf" target="_blank" rel="noreferrer">IPCC-63 Decision 6</a>; <a href="https://www.ipcc.ch/site/assets/uploads/2025/11/Doc.-8-Rev.1-Outline-Method_Report_CDR_IPCC-63_CLEAN_COPYEDIT.pdf" target="_blank" rel="noreferrer">IPCC-63 Doc.8 Rev.1 개요</a></li>
+<li>TFI 페이지에는 CDR 보고서 제1차 주저자회의(LAM1)가 2026-04-14로 게시되어 있다 — <a href="https://www.ipcc.ch/working-group/tfi/" target="_blank" rel="noreferrer">IPCC TFI</a></li>
+</ul>
+<h3>Inferences</h3>
+<ul>
+<li>MRV 시스템의 고정연소 Tier 1 기본값(순발열량 NCV, CO2·CH4·N2O 배출계수)은 2006 GL Vol.2 Ch.1·Ch.2를 1차 출처로 삼는다. 2019 Refinement에서 개정된 Ch.1·Ch.2·Ch.4 표가 있으면 그 값을 우선 확인해야 한다. 또 EFDB ID를 계수 메타데이터(출처 추적)로 저장하는 것이 바람직하다.</li>
+<li>불확도(Vol.1 Ch.3)와 QA/QC·검증(Vol.1 Ch.6)은 국가 인벤토리용이지만, 기업·사업 단위 불확도 산정(오차 전파, Monte Carlo)의 방법론 근거로 널리 인용된다.</li>
+<li>CDR 기반 감축·흡수 크레딧을 다루려면 2027 방법론 보고서가 나오기 전까지 2006 GL/2019 RF에 CDR 방법이 없다는 공백을 고려해야 한다.</li>
+</ul>
+<h3>Gaps</h3>
+<ul>
+<li>2006 GL Vol.2 Ch.2의 기본 배출계수 표 번호(학습지식 기준: Ch.1 Table 1.2 기본 NCV, Table 1.4 기본 CO2 EF, Ch.2 Table 2.2~2.5 부문별 CH4·N2O EF)는 이번 세션에서 PDF 원문으로 확인하지 못했다.</li>
+<li>2019 Refinement Vol.2 Ch.2에서 구체적으로 무엇이 바뀌었는지는 페이지에 설명이 없어 확인하지 못했다.</li>
+<li>EFDB 검토 결과와 2026-08 TFI 진행보고서(<a href="https://apps.ipcc.ch/eventmanager/documents/99/210820261008-INF.%202%20-%20Progress%20Report%20TFI.pdf" target="_blank" rel="noreferrer">INF.2</a>)의 세부 내용은 열람하지 못했다.</li>
+</ul>
+<h2>Q2. GHG Protocol 표준군 — 현행본, 개정(Scope 2·Corporate·Scope 3·AMI) 상태와 일정</h2>
+<h3>Takeaway</h3>
+<p>2026-10-20 현재 효력이 있는 현행본은 Corporate Standard(Revised Edition 2004, 2013 개정 포함), Scope 2 Guidance(2015), Scope 3 Standard(2011)이다. 2026-07-29 SDP v2.0에 따라 이 셋과 AMI(Actions and Market Instruments) 워크스트림 결과물을 ISO와 공동 브랜드로 묶는 단일 「Corporate Standard Version 3.0」으로 통합할 예정이다. 구조는 Part 1 일반요건·물리적 인벤토리, Part 2 AMI이다. 통합 초안 공개협의는 2027년 2분기, 최종 발간은 2028년 4분기로 예상된다. 프로젝트 회계(Project Protocol)와 제품(Product Standard)은 별도의 ISO 공동 작업반이 담당한다.</p>
+<h3>Cited Findings</h3>
+<p><strong>현행 문서 및 이력 (1차 출처: SDP 원문)</strong></p>
+<ul>
+<li>Corporate Standard 초판은 2001년, 제2판(Revised Edition)은 2004년에 나왔다. Revised Edition이 &quot;가장 최근 발간본&quot;이며, 2013년 개정(amendment)으로 인벤토리 대상 GHG 요건을 갱신했다. 후속 문서는 Scope 3 Standard(2011), Scope 3 Calculation Guidance(2013), Scope 2 Guidance(2015), Land Sector and Removals Standard and Guidance(2026)이다 — <a href="https://ghgprotocol.org/sites/default/files/2026-07/Consolidated-StandardDevelopmentPlan(SDP)-2026.07.29.pdf" target="_blank" rel="noreferrer">GHG Protocol, Consolidated SDP v2.0 (2026-07-29)</a></li>
+<li>기존 AMI 관련 문서는 Project Protocol(전력·LULUCF 부문 보충서 포함)과 Policy and Action Standard(프로젝트보다 큰 행동의 GHG 영향 정량화)이다. 기존 Corporate·Scope 3 Standard도 시장도구 거래, 프로젝트 기반 감축량, 판매제품 회피배출 등을 인벤토리와 &quot;별도로&quot; 보고하는 것은 허용했다. 다만 체계적인 별도보고 방식이 없어 활용도가 낮았다 — <a href="https://ghgprotocol.org/sites/default/files/2026-07/Consolidated-StandardDevelopmentPlan(SDP)-2026.07.29.pdf" target="_blank" rel="noreferrer">SDP 2026-07-29</a></li>
+</ul>
+<p><strong>통합 Version 3.0 계획</strong></p>
+<ul>
+<li>산출물은 &quot;GHG Protocol Corporate Standard: Corporate Accounting and Reporting Standard (Version 3.0)&quot;이다. ISO와 공동 발간·공동 브랜드가 예정되어 있고, 제목은 ISO와 협의해 확정한다. Part 1은 General Requirements and Physical GHG Inventory, Part 2는 Actions and Market Instruments이며, 각 Part는 더 나뉠 수 있다. 함께 나올 지침서는 Corporate Standard Guidance v1.0, Scope 2 Guidance v2.0, Scope 3 Guidance v2.0 등이다 — <a href="https://ghgprotocol.org/sites/default/files/2026-07/Consolidated-StandardDevelopmentPlan(SDP)-2026.07.29.pdf" target="_blank" rel="noreferrer">SDP</a></li>
+<li>마일스톤: Scope 2 공개협의(2025-10), Corporate Standard Phase 1 진행보고(2025-12), Scope 3 Phase 1 진행보고(2026-03), AMI Phase 1 White Paper RFI(2026-03)는 완료되었다. 통합 초안 공개협의는 2027년 2분기(추정), 개정 표준 발간은 2028년 4분기(추정)이며, &quot;일정은 변경될 수 있음&quot;이 명시되어 있다. 이전 SDP 대비 일정 변경은 주로 ISO 파트너십과 ISO 절차 통합 때문이다. 발간 후 5년마다 개정을 검토한다 — <a href="https://ghgprotocol.org/sites/default/files/2026-07/Consolidated-StandardDevelopmentPlan(SDP)-2026.07.29.pdf" target="_blank" rel="noreferrer">SDP</a></li>
+<li>2025-10-20부터 2026-01-31까지 공개협의 2건이 진행되었다. 하나는 Scope 2 Guidance(2015) 인벤토리 회계 개정이고, 다른 하나는 전력부문 행동의 회피배출을 추정하는 consequential 회계 방법이다. AMI는 2026-03-31부터 05-31까지 RFI·의견수렴을 진행했다 — <a href="https://ghgprotocol.org/sites/default/files/2026-07/Consolidated-StandardDevelopmentPlan(SDP)-2026.07.29.pdf" target="_blank" rel="noreferrer">SDP</a>; <a href="https://ghgprotocol.org/blog/release-ghg-protocol-opens-public-consultations-scope-2-and-electricity-sector-consequential" target="_blank" rel="noreferrer">GHG Protocol 보도자료</a></li>
+<li>Scope 2 별도 일정: 2026년 3~4분기에 Scope 2 TWG가 협의 의견과 ISO WG4 의견을 검토하고 ISB가 수정 여부를 결정한다. 2027년 2분기에는 통합 초안에 포함되며, ISB가 일부 Scope 2 주제를 2차 협의에 부칠지 정한다. 2027년 2분기부터 2028년 4분기까지는 다른 워크스트림과 같은 절차를 밟는다 — <a href="https://ghgprotocol.org/sites/default/files/2026-07/Consolidated-StandardDevelopmentPlan(SDP)-2026.07.29.pdf" target="_blank" rel="noreferrer">SDP</a><ul>
+<li>상충 정보: 2025년 GHG Protocol 블로그는 &quot;핵심 Scope 2 요건 개정 문안 2026년 중반 확정, 전체 2027년 말 발간&quot;을 제시했다. 이 일정은 2026-07 SDP로 대체되었다(최신 1차 자료 기준 2028년 4분기) — <a href="https://ghgprotocol.org/blog/scope-2-standard-advances-isb-approves-consultation-market-and-location-based-revisions" target="_blank" rel="noreferrer">GHG Protocol 블로그(2025)</a></li>
+</ul>
+</li>
+<li>ISO 통합 방식: 2026년 1분기부터 ISO/TC 207/SC 7/WG4 위원이 Corporate·Scope 2·Scope 3·AMI TWG에 참여하고, ISO는 ISB에 Observing Entity로 합류했다. 공개협의 때 ISO는 CD(위원회 초안) 단계로 검토한다. ISB 승인 후에는 GHG Protocol Steering Committee 비준과 ISO enquiry 단계 투표를 동시에 진행한다(SC 7 P-member 2/3 찬성, 반대 1/4 이하). 최종본은 dual logo로 발간된다 — <a href="https://ghgprotocol.org/sites/default/files/2026-07/Consolidated-StandardDevelopmentPlan(SDP)-2026.07.29.pdf" target="_blank" rel="noreferrer">SDP</a></li>
+<li>파트너십 범위는 기업(entity) 회계, 제품 회계, 프로젝트 회계 세 가지다. 기업 회계 범위에는 ISO 14064-1과 GHG Protocol Corporate·Scope 2·Scope 3·AMI가 포함된다. 2025-11 COP30 의장단은 두 기관에 글로벌 GHG 회계 표준 조화를 공동 주도하도록 위임했다 — <a href="https://ghgprotocol.org/sites/default/files/2026-07/Consolidated-StandardDevelopmentPlan(SDP)-2026.07.29.pdf" target="_blank" rel="noreferrer">SDP</a></li>
+<li>통합 범위 밖 항목: Product Life Cycle Standard 개정은 &quot;ISO/GHG Protocol Joint Working Group on 14067/Product Standard&quot;가, Project Accounting 개정은 &quot;GHG Protocol/ISO Working Group on 14064-2/Project Protocol&quot;이 맡는다. 생물기원 CO2·토지·흡수는 LSR Standard가 다룬다. 배출계수 개발, 부문별 지침, 목표 적격성 정책도 범위 밖이다 — <a href="https://ghgprotocol.org/sites/default/files/2026-07/Consolidated-StandardDevelopmentPlan(SDP)-2026.07.29.pdf" target="_blank" rel="noreferrer">SDP Appendix F</a></li>
+<li>제품 표준 JWG: ISO TC 207/SC 7 WG8을 JWG로 확대해 새 제품 수준 GHG 회계 표준을 공동 개발한다 — <a href="https://ghgprotocol.org/blog/announcement-iso-ghg-protocol-jointly-develop-new-product-level-ghg-accounting-standard-call" target="_blank" rel="noreferrer">GHG Protocol 발표</a>; <a href="https://ghgprotocol.org/sites/default/files/2026-04/JointWorkingGroup_ToR_20251215.pdf" target="_blank" rel="noreferrer">JWG ToR</a></li>
+<li>과도기: 언론 보도는 공동 표준이 발간될 때까지 기존 표준이 유효하며 전환기간은 미정이라고 전한다(2차 출처) — <a href="https://www.esgdive.com/news/ghg-protocol-iso-combine-carbon-accounting-standards/826600/" target="_blank" rel="noreferrer">ESG Dive</a>; <a href="https://www.esgtoday.com/iso-ghg-protocol-to-launch-a-single-unified-carbon-accounting-standard/" target="_blank" rel="noreferrer">ESG Today</a></li>
+</ul>
+<p><strong>AMI (Actions and Market Instruments)</strong></p>
+<ul>
+<li>AMI Phase 1 White Paper(초안 v1.0은 2025-10, ISB 검토본 v2.1은 2025-12, RFI판은 2026-03)는 &quot;multi-statement&quot; 보고구조를 제안한다. 물리적 인벤토리는 유지하고, 시장기반 접근, 기준선 대비 행동 영향, 일부 비GHG 지표를 별도 statement로 보고하는 구조다. 백서는 최종 표준 문안이 아니라고 명시한다 — <a href="https://ghgprotocol.org/sites/default/files/2025-10/Draft-AMI-Phase1-WhitePaper-v1.0.pdf" target="_blank" rel="noreferrer">Draft AMI White Paper v1.0</a>; <a href="https://ghgprotocol.org/sites/default/files/2025-12/AMI-Phase1-WhitePaperDraft-ISB%20Review-v2.1.pdf" target="_blank" rel="noreferrer">ISB Review v2.1</a>; <a href="https://ghgprotocol.org/sites/default/files/2026-03/AMI-Phase1-WhitePaper-RFI.pdf" target="_blank" rel="noreferrer">RFI</a></li>
+<li>AMI TWG의 Phase 2 과제에는 multi-statement 하위구조, 신규 보고요소의 품질기준·적격성 기준·산정·보고 요건이 포함된다 — <a href="https://ghgprotocol.org/sites/default/files/2026-07/Consolidated-StandardDevelopmentPlan(SDP)-2026.07.29.pdf" target="_blank" rel="noreferrer">SDP</a></li>
+</ul>
+<p><strong>검증·데이터품질 관련 개정 범위 (SDP 원문)</strong></p>
+<ul>
+<li>Corporate Standard 개정 범위에는 Corporate Standard에 검증·보증 요건이나 권고를 도입하는 방안(scope 범위, 보증 수준 기준)과 verification/assurance 구분 및 보증 수준 명확화가 들어 있다. AMI 범위에는 행동·시장도구의 검증·보증, 그리고 검증·감독·집행에서 프로그램의 역할이 들어 있다 — <a href="https://ghgprotocol.org/sites/default/files/2026-07/Consolidated-StandardDevelopmentPlan(SDP)-2026.07.29.pdf" target="_blank" rel="noreferrer">SDP</a></li>
+<li>데이터품질 개정 범위: Scope 1 데이터품질 요건(대용치·추정치), Scope 1 데이터품질 위계(hierarchy), 데이터품질·불확도 추가 공시요건, 불확도 추정 권고가 있다. Scope 3에는 데이터품질 위계·스코어링 매트릭스와 시간에 따른 데이터품질 개선 요구 검토가 있다. Scope 2에는 시간별(hourly) 데이터 또는 소비기반 계통평균 배출계수 검토가 포함된다 — <a href="https://ghgprotocol.org/sites/default/files/2026-07/Consolidated-StandardDevelopmentPlan(SDP)-2026.07.29.pdf" target="_blank" rel="noreferrer">SDP</a></li>
+</ul>
+<p><strong>Land Sector and Removals (LSR)</strong></p>
+<ul>
+<li>LSR Standard v1.0은 2026-01-30에 발간되었고, Guidance는 2026-06-30에 발간되면서 Standard가 v1.1로 갱신되었다. 시행일은 2027-01-01이며 산림은 제외되고, 2030년까지 재검토해야 한다. 자연·기술 기반 흡수를 safeguard 충족 시 Scope 1·3 인벤토리에 계상할 수 있다 — <a href="https://ghgprotocol.org/land-sector-and-removals-standard" target="_blank" rel="noreferrer">LSR Standard 페이지</a>; <a href="https://ghgprotocol.org/sites/default/files/2026-06/Land-Sector-and-Removals-Standard-v1.1.pdf" target="_blank" rel="noreferrer">LSR Standard v1.1 PDF</a>; <a href="https://ghgprotocol.org/blog/frequently-asked-questions-land-sector-and-removals-lsr-standard" target="_blank" rel="noreferrer">FAQ</a></li>
+</ul>
+<h3>Inferences</h3>
+<ul>
+<li><strong>현행본(2026-10 기준, 모두 무료)</strong>:<ul>
+<li>Corporate Standard Revised Edition(2004)과 2013 개정 — 조직 인벤토리(a). 공식 URL: <a href="https://ghgprotocol.org/corporate-standard" target="_blank" rel="noreferrer">https://ghgprotocol.org/corporate-standard</a></li>
+<li>Scope 2 Guidance(2015) — 이중보고(location/market)와 Scope 2 Quality Criteria. <a href="https://ghgprotocol.org/scope-2-guidance" target="_blank" rel="noreferrer">https://ghgprotocol.org/scope-2-guidance</a></li>
+<li>Corporate Value Chain (Scope 3) Standard(2011)와 Calculation Guidance(2013) — 데이터품질 지표(e). <a href="https://ghgprotocol.org/corporate-value-chain-scope-3-standard" target="_blank" rel="noreferrer">https://ghgprotocol.org/corporate-value-chain-scope-3-standard</a></li>
+<li>The GHG Protocol for Project Accounting(2005) — 프로젝트 감축량·기준선(b). <a href="https://ghgprotocol.org/project-protocol" target="_blank" rel="noreferrer">https://ghgprotocol.org/project-protocol</a></li>
+<li>Policy and Action Standard(2014), Mitigation Goal Standard(2014) — 정책·목표 단위(b의 상위 차원). <a href="https://ghgprotocol.org/policy-and-action-standard" target="_blank" rel="noreferrer">https://ghgprotocol.org/policy-and-action-standard</a> , <a href="https://ghgprotocol.org/mitigation-goal-standard" target="_blank" rel="noreferrer">https://ghgprotocol.org/mitigation-goal-standard</a></li>
+<li>Product Life Cycle Standard(2011) — 제품(c). <a href="https://ghgprotocol.org/product-standard" target="_blank" rel="noreferrer">https://ghgprotocol.org/product-standard</a></li>
+<li>LSR Standard v1.1(2026)</li>
+</ul>
+</li>
+<li>Policy and Action Standard·Mitigation Goal Standard의 발행연도(2014)와 위 URL 일부는 학습지식에 기반하며, 이번 세션에서 페이지를 직접 확인하지 않았다(아래 Gaps).</li>
+<li>마켓플레이스에 주는 함의: 2028년 4분기까지는 현행 Scope 2(2015) 이중보고 체계에 따라 설계해야 한다. 다만 AMI Part 2의 &quot;인벤토리와 분리된 statement에 감축 크레딧·시장도구 보고&quot;라는 방향이 매우 유력하므로, 크레딧 사용을 Scope 1·2·3 인벤토리 차감이 아닌 별도 statement로 표시할 수 있는 데이터 모델을 미리 준비하는 것이 안전하다. 시간별(hourly) 매칭 데이터를 수용할 수 있는 스키마도 권장된다.</li>
+</ul>
+<h3>Gaps</h3>
+<ul>
+<li>GHG Protocol 공식 &quot;ISO partnership FAQ&quot; 원문과 기존 표준의 전환기간 공식 문안은 확인하지 못했다(2차 출처만 있음).</li>
+<li>Scope 2 협의안의 세부 제안(hourly matching, deliverability, legacy 계약 grandfathering 등)은 1차 문서로 확인하지 못했다(2차 출처 언급만 있음).</li>
+<li>Project Protocol/ISO 14064-2 공동 작업반의 일정은 SDP에 명시되지 않았다.</li>
+</ul>
+<h2>Q3. ISO 14060 계열(14064-1/-2/-3, 14065, 14066, 14067, 14068) 및 LCA(14040/14044) — 판·상태·개정 동향</h2>
+<h3>Takeaway</h3>
+<p>ISO 14064-1:2018, 14064-2:2019, 14064-3:2019, 14065:2020, 14066:2023, 14067:2018은 2026-10 현재 유효한 현행본이다. 다만 14064-1, 14064-2, 14067은 개정 작업(WD 단계)이 진행 중이고, 14064-1은 GHG Protocol과 통합 Version 3.0(2028년 4분기 목표)으로 흡수될 예정이다. 가장 큰 변화는 ISO 14068-1:2023이 폐지되고 「ISO 14068:2026 Climate change management — Carbon neutrality」(2026-09 발행)로 대체되었다는 점이다. ISO 문서는 모두 유료(CHF 단위 판매)다.</p>
+<h3>Cited Findings</h3>
+<ul>
+<li><strong>ISO 14064-1:2018</strong> &quot;Greenhouse gases — Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals&quot; (조직 인벤토리, a). 체계적 검토 결과 2024-10에 &quot;to be revised&quot;로 결정되었다. 개정안 ISO 14064-1:2018/DAmd 1은 취소되었고, ISO/WD 14064-1이 개발 중이다. 관련하여 ISO/CD TS 14064-4(14064-1 적용 지침)도 개발 중이다 — <a href="https://www.iso.org/standard/66453.html" target="_blank" rel="noreferrer">ISO 14064-1:2018</a>; <a href="https://www.iso.org/standard/88065.html" target="_blank" rel="noreferrer">ISO 14064-1/DAmd 1 (취소)</a>; <a href="https://committee.iso.org/sites/tc207sc7/home/projects.html" target="_blank" rel="noreferrer">ISO/TC 207/SC 7 Projects</a></li>
+<li><strong>ISO 14064-2:2019</strong> &quot;Greenhouse gases — Part 2: Specification with guidance at the project level for quantification, monitoring and reporting of greenhouse gas emission reductions or removal enhancements&quot; (프로젝트 감축량·기준선, b). 개정안 ISO/WD 14064-2(Edition 3, TC 207/SC 7)가 개발 중이며 2019판을 대체할 예정이다. 2025-06에 의견수렴이 마감되었고 다음 단계는 CD, 그다음 DIS다 — <a href="https://www.iso.org/standard/66454.html" target="_blank" rel="noreferrer">ISO 14064-2:2019</a>; <a href="https://www.iso.org/standard/90577.html" target="_blank" rel="noreferrer">ISO/WD 14064-2</a>. GHG Protocol SDP는 이를 &quot;GHG Protocol/ISO Working Group on 14064-2/Project Protocol&quot;이 처리한다고 명시한다 — <a href="https://ghgprotocol.org/sites/default/files/2026-07/Consolidated-StandardDevelopmentPlan(SDP)-2026.07.29.pdf" target="_blank" rel="noreferrer">SDP Appendix F</a></li>
+<li><strong>ISO 14064-3:2019</strong> &quot;Greenhouse gases — Part 3: Specification with guidance for the verification and validation of greenhouse gas statements&quot; (검증·타당성평가, d). 제2판으로 2019-04에 발행되었고, 2024년 검토에서 유지(confirmed)된 것으로 표시된다. 조직·프로젝트·제품 GHG statement에 모두 적용되며 program-neutral이어서, GHG 프로그램이 있으면 그 프로그램 요건이 추가로 적용된다 — <a href="https://www.iso.org/standard/66455.html" target="_blank" rel="noreferrer">ISO 14064-3:2019</a> (검색 결과 요약 기준)</li>
+<li><strong>ISO 14065:2020</strong> &quot;General principles and requirements for bodies validating and verifying environmental information&quot; (검증기관 요건, d). 현행본이다. 단 ISO 페이지에는 &quot;2026년 검토 후 확인&quot;이라는 문구와 &quot;2025-10-15 체계적 검토 개시&quot; 이력이 함께 있어 서로 상충한다 — <a href="https://www.iso.org/standard/74257.html" target="_blank" rel="noreferrer">ISO 14065:2020</a></li>
+<li><strong>ISO 14066:2023</strong> &quot;Environmental information — Competence requirements for teams validating and verifying environmental information&quot; (검증팀 역량, d). 2023-08-07에 발행된 제2판으로, ISO 14066:2011을 대체했다 — <a href="https://www.iso.org/standard/82544.html" target="_blank" rel="noreferrer">ISO 14066:2023</a>; <a href="https://webstore.ansi.org/standards/iso/iso140662023" target="_blank" rel="noreferrer">ANSI Webstore</a></li>
+<li><strong>ISO 14067:2018</strong> &quot;Greenhouse gases — Carbon footprint of products — Requirements and guidelines for quantification&quot; (제품 탄소발자국, c). 현행본이다. 개정안 ISO/WD 14067.2(Edition 2)가 개발 중이며 부분 CFP(partial CFP) 요건을 포함하고 2018판을 대체할 예정이다. 2018판에서 커뮤니케이션은 ISO 14026, 검증은 ISO 14064-3, PCR은 ISO/TS 14027로 이관되었다 — <a href="https://www.iso.org/standard/71206.html" target="_blank" rel="noreferrer">ISO 14067:2018</a>; <a href="https://www.iso.org/standard/90578.html" target="_blank" rel="noreferrer">ISO/WD 14067.2</a>. ISO-GHG Protocol JWG(14067/Product Standard)가 공동 개발한다 — <a href="https://ghgprotocol.org/blog/announcement-iso-ghg-protocol-jointly-develop-new-product-level-ghg-accounting-standard-call" target="_blank" rel="noreferrer">GHG Protocol 발표</a>; <a href="https://ercst.org/wp-content/uploads/2025/11/202510_15_GHG-Protocol_ISO_ERCST.pdf" target="_blank" rel="noreferrer">ERCST 발표자료(2025-10)</a></li>
+<li><strong>ISO 14068-1:2023 → ISO 14068:2026</strong>: ISO 14068-1:2023 &quot;Climate change management — Transition to net zero — Part 1: Carbon neutrality&quot;는 Withdrawn 처리되었다. 대체 표준 「ISO 14068:2026 Climate change management — Carbon neutrality」는 Edition 1, stage 60.60(발행)이며 ISO 기록상 발행일은 2026-09-11이다. 조직·제품 대상으로 탄소발자국 정량화, 감축, 상쇄를 통한 탄소중립 입증의 원칙·요건·지침을 정한다. 감축·흡수 증진을 상쇄보다 우선하는 위계를 두며, net zero 요건은 다루지 않는다 — <a href="https://www.iso.org/standard/14068" target="_blank" rel="noreferrer">ISO 14068:2026</a>; <a href="https://www.iso.org/standard/94470.html" target="_blank" rel="noreferrer">ISO/FDIS 14068</a>; <a href="https://www.iso.org/standard/43279.html" target="_blank" rel="noreferrer">ISO 14068-1:2023 (withdrawn)</a>; <a href="https://www.dinmedia.de/en/standard/iso-14068/406485138" target="_blank" rel="noreferrer">DIN Media (2026-09)</a><ul>
+<li>상충 정보: 발행일은 ISO 2026-09-11, iTeh 2026-09-10, BS ISO 14068:2026 2026-09-30으로 서로 다르다. ISO Update 2026-07에는 FDIS 일자 2026-08-06이 있다 — <a href="https://standards.iteh.ai/catalog/standards/iso/5fccd901-2ae3-40d1-945e-14e08b2731c4/iso-14068-2026" target="_blank" rel="noreferrer">iTeh</a>; <a href="https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202607_en.pdf" target="_blank" rel="noreferrer">ISO Update 2026-07</a>. SC 7 위원회 페이지는 아직 14068-1:2023을 표기하고 있어 갱신이 늦은 것으로 보인다 — <a href="https://www.iso.org/committee/546318/x/catalogue/p/1/u/1/w/0/d/0" target="_blank" rel="noreferrer">SC 7 catalogue</a></li>
+</ul>
+</li>
+<li>ISO 14064-1과 ISO 14067의 정합성 문제가 14067 개정과 병행해 다뤄지고 있다 — <a href="https://www.wto.org/library/events/event_resources/envir_0402202509/750_2304.pdf" target="_blank" rel="noreferrer">WTO 발표자료</a></li>
+</ul>
+<h3>Inferences</h3>
+<ul>
+<li><strong>(a) 조직 인벤토리</strong>: ISO 14064-1:2018은 범주 1~6(직접, 수입에너지 간접, 수송, 사용제품, 판매제품 사용, 기타) 분류를 쓴다. GHG Protocol은 Scope 1/2/3를 쓰므로 MRV 시스템에는 두 체계를 대응시키는 매핑 테이블이 필요하다. 2028년 이후 통합 Version 3.0으로 수렴할 가능성이 높다.</li>
+<li><strong>(b) 프로젝트 감축량</strong>: ISO 14064-2:2019의 기준선 시나리오 선정, 관련 SSR(source/sink/reservoir) 식별, 모니터링 계획 요건과 GHG Protocol Project Protocol(2005)의 성능표준·프로젝트별 기준선 절차를 함께 참조한다. 두 문서는 공동 개정되고 있으므로 차기판 반영을 염두에 둔 설계가 필요하다.</li>
+<li><strong>(c) 제품</strong>: ISO 14067:2018과 ISO 14040/14044(LCA 프레임워크·요건)가 기반이다.</li>
+<li><strong>(d) 검증</strong>: ISO 14064-3:2019(절차·보증수준·중요성)에 ISO 14065:2020(기관), ISO 14066:2023(팀 역량), ISO/IEC 17029:2019(적합성평가 일반원칙)를 더한 체계다.</li>
+<li><strong>(e) 데이터품질·불확도</strong>: ISO 14064-1과 14064-2의 불확도 평가 조항, IPCC 2006 Vol.1 Ch.3를 참조한다.</li>
+<li>탄소중립 주장 기능을 제공한다면 이제 ISO 14068-1:2023이 아니라 ISO 14068:2026을 인용해야 한다(14068-1:2023은 superseded).</li>
+</ul>
+<h3>Gaps</h3>
+<ul>
+<li>ISO 원문 페이지가 403으로 차단되어 각 표준의 정확한 가격, 쪽수, 현재 stage 코드(특히 ISO/WD 14064-1, 14064-2, 14067.2의 2026-10 시점 단계)를 직접 확인하지 못했다. ISO OBP나 TC 207/SC 7 work programme에서 재확인이 필요하다.</li>
+<li>ISO 14040:2006과 ISO 14044:2006의 개정 현황(학습지식 기준: 14040/Amd 1:2020, 14044/Amd 1:2017·Amd 2:2020)과 공식 URL은 이번 세션에서 확인하지 못했다.</li>
+<li>ISO 14068:2026과 14068-1:2023 사이의 실질 변경점(예: 상쇄 품질 기준, 제품 적용)은 원문을 확인하지 못했다.</li>
+<li>ISO 14064-3:2019의 개정 착수 여부는 확인하지 못했다(2024 확인 이후 정보 없음).</li>
+</ul>
+<h2>Q4. IAF/ISO 검증기관 인정 체계 — ISO/IEC 17029, ISO 14065, IAF MD 6</h2>
+<h3>Takeaway</h3>
+<p>GHG 검증기관 인정은 계층 구조다. ISO/IEC 17029:2019(적합성평가 — 타당성평가·검증기관 일반원칙·요건) 위에 ISO 14065:2020(환경정보 V/VB 요건)이 섹터 적용 표준으로 놓이고, 여기에 IAF MD 6(ISO 14065:2020 적용 필수문서)이 더해진다. 국가인정기구가 IAF MLA를 근거로 인정을 수행한다.</p>
+<h3>Cited Findings</h3>
+<ul>
+<li>IAF MD 6은 환경정보 V/VB(validation/verification body) 인정에서 ISO 14065:2020을 일관되게 적용하기 위한 필수(mandatory) 문서이며, ISO 14065:2020의 모든 조항은 계속 적용된다. 최신 확인본은 IAF MD 6:2024(Issue 3, Version 2, 2024-09-11)이고, 이전판 Issue 2(2023-06)는 ISO 14065:2013 기반이다. 무료 — <a href="https://iaf.nu/iaf_system/uploads/documents/IAF_MD_6_Issue_3__Version2_11092024.pdf" target="_blank" rel="noreferrer">IAF MD 6:2024</a>; <a href="https://iaf.nu/iaf_system/uploads/documents/IAF_MD_6_Issue_3_01112023.pdf" target="_blank" rel="noreferrer">IAF MD 6 Issue 3 (2023-11)</a>; <a href="https://iaf.nu/en/iaf-documents-/" target="_blank" rel="noreferrer">IAF Documents</a></li>
+<li>IAF MD 6 문서는 일부 경우 ISO/IEC 17029:2019의 용어를 재정의한다고 밝힌다. ISO 14065는 ISO/IEC 17029 위에 GHG·환경정보 특화 요건을 더한 구조다 — <a href="https://iaf.nu/iaf_system/uploads/documents/MD6_2023_Issue_2_Version2_16062023.pdf" target="_blank" rel="noreferrer">IAF MD 6:2023 Issue 2</a>; <a href="https://www.iasonline.org/training/understanding-iso-iec-17029-and-related-validation-verification-body-requirements/" target="_blank" rel="noreferrer">IAS 교육 안내</a></li>
+<li>ANAB는 IAF MLA 범위에 &quot;Validation and Verification: ISO 14065 및 ISO/IEC 17029&quot;를 포함하고 있다 — <a href="https://anab.ansi.org/about-anab/recognition/international/" target="_blank" rel="noreferrer">ANAB 국제인정 현황</a></li>
+<li>ISO 14066:2023은 검증팀 역량요건을 정해 ISO 14065를 보완한다 — <a href="https://www.iso.org/standard/82544.html" target="_blank" rel="noreferrer">ISO 14066:2023</a></li>
+</ul>
+<h3>Inferences</h3>
+<ul>
+<li>마켓플레이스의 검증기관 등록 요건으로는 &quot;ISO 14065:2020 + ISO/IEC 17029:2019 기반으로 IAF MLA 서명 인정기구(한국은 KAB 등)로부터 인정받은 V/VB, 해당 섹터 scope 포함&quot;을 기본값으로 두고, 국내 법정 검증기관 지정을 별도 조건으로 거는 이중 구조가 적합하다.</li>
+<li>IAF MD 6이 짧은 주기로 개정되어 왔으므로(2023-06, 2023-11, 2024-09), 등록 심사 기준에 MD 6 판 번호를 버전으로 관리할 필요가 있다.</li>
+</ul>
+<h3>Gaps</h3>
+<ul>
+<li>2025~2026년에 IAF MD 6이 추가로 개정되었는지, IAF MLA의 Level 3(ISO/IEC 17029)과 Level 4/5(ISO 14065) 구조의 최신 현황은 iaf.nu에서 직접 확인하지 못했다.</li>
+<li>한국인정기구(KAB)의 ISO 14065 인정 프로그램과 IAF MLA 서명 범위는 이번 조사 범위에서 확인하지 못했다.</li>
+<li>ISO/IEC 17029:2019의 개정 착수 여부는 확인하지 못했다.</li>
+</ul>
+<h2>Q5. PCAF 등 기업 감축 주장 관련 보조 표준 (간략)</h2>
+<h3>Takeaway</h3>
+<p>이번 조사에서는 PCAF를 1차 자료로 확인하지 못했다. 금융기관의 Scope 3 Cat.15(투자) 산정에 쓰이는 PCAF Global GHG Accounting and Reporting Standard는, GHG Protocol Scope 3 TWG가 Category 15(Investments)를 개정 대상(Series C)으로 다루고 있다는 점에서만 이번 자료와 연결된다.</p>
+<h3>Cited Findings</h3>
+<ul>
+<li>Scope 3 TWG Phase 1 과제에 Category 15(Investments)(Series C)와 Category 16(기타 가치사슬 활동, 신설 검토)(Series B)이 포함되어 있다 — <a href="https://ghgprotocol.org/sites/default/files/2026-07/Consolidated-StandardDevelopmentPlan(SDP)-2026.07.29.pdf" target="_blank" rel="noreferrer">SDP</a></li>
+</ul>
+<h3>Inferences</h3>
+<ul>
+<li>금융기관 고객이 마켓플레이스 크레딧으로 감축을 주장하는 경우가 아니라면 PCAF는 우선순위가 낮다. 통합 Version 3.0의 Cat.15 개정이 PCAF 개정과 연동될 가능성이 있다.</li>
+</ul>
+<h3>Gaps</h3>
+<ul>
+<li>PCAF 표준의 최신판(판수, 연도)과 URL(carbonaccountingfinancials.com)은 이번 세션에서 확인하지 못했다.</li>
+</ul>
+<h2>Q6. 한국 규정과의 대응 (검증지침의 ISO 준용 등)</h2>
+<h3>Takeaway</h3>
+<p>한국의 「온실가스 배출권거래제 운영을 위한 검증지침」은 지침에서 정하지 않은 검증 사항에 대해 &quot;ISO에서 승인한 국제규격 등 국제적으로 통용되는 기준을 준용&quot;하도록 규정한다(제3조 제2항). 따라서 국제 표준이 보충 규범으로 작동한다. ISO 14064-3을 조문에서 명시적으로 지칭하는지는 확인하지 못했다.</p>
+<h3>Cited Findings</h3>
+<ul>
+<li>최신판은 고시 제2025-165호로, 2025-10-01 일부개정, 2025-10-07 시행이며 소관은 기후에너지환경부(기후경제과)다. 제3조 제2항은 &quot;온실가스 배출량의 검증 등과 관련하여 이 지침에서 정하지 아니한 사항에 대해서는 국제표준화기구(ISO)에서 승인한 국제규격 등 국제적으로 통용되는 기준을 준용&quot;한다고 규정한다 — <a href="https://lbox.kr/statute-admin/%EC%98%A8%EC%8B%A4%EA%B0%80%EC%8A%A4%EB%B0%B0%EC%B6%9C%EA%B6%8C%EA%B1%B0%EB%9E%98%EC%A0%9C%EC%9A%B4%EC%98%81%EC%9D%84%EC%9C%84%ED%95%9C%EA%B2%80%EC%A6%9D%EC%A7%80%EC%B9%A8" target="_blank" rel="noreferrer">lbox 검증지침</a> (검색 결과 요약 기준. 직접 열람은 403)</li>
+<li>직전판은 환경부고시 제2024-169호(2024-08-26 시행, 일부개정)다 — <a href="https://www.law.go.kr/LSW//admRulInfoP.do?admRulSeq=2100000246354&amp;chrClsCd=010201" target="_blank" rel="noreferrer">국가법령정보센터</a>. 원 제정본은 환경부 고시 제2014-153호다 — <a href="https://www.gir.go.kr/home/board/read.do;jsessionid=Isre1mgCFLcriBaL2N5Cl6xQytwmAoutmXkw3cZLJatvI9CgxIZyazntYodTzZP5.og_was2_servlet_engine1?pagerOffset=40&amp;maxPageItems=10&amp;maxIndexPages=10&amp;menuId=19&amp;boardMasterId=8&amp;boardId=52" target="_blank" rel="noreferrer">온실가스종합정보센터</a></li>
+<li>ISO 14064-3은 program-neutral이므로, GHG 프로그램(예: K-ETS)이 적용되면 그 프로그램 요건이 ISO 요건에 추가로 적용된다 — <a href="https://www.iso.org/standard/66455.html" target="_blank" rel="noreferrer">ISO 14064-3:2019</a> (검색 요약)</li>
+</ul>
+<h3>Inferences</h3>
+<ul>
+<li>국내 법정 MRV(배출권거래제, 목표관리)에서는 국내 지침이 우선하고 ISO 14064-3 계열이 보충 기준이 된다. 자발적 시장 크레딧에서는 국제 표준이 1차 기준이 된다. 마켓플레이스는 검증 보고서 메타데이터에 &quot;적용 기준: 국내 고시 번호 / ISO 14064-3:2019 / 프로그램 규칙&quot;을 구분해 기록하는 것이 바람직하다.</li>
+<li>국내 지침은 한국산업표준(KS I ISO 14064 시리즈 등, 부합화 표준)으로 국제표준을 수용하는 경로가 있을 가능성이 높으나 확인하지 못했다(아래 Gaps).</li>
+</ul>
+<h3>Gaps</h3>
+<ul>
+<li>검증지침 본문의 보증 수준(합리적 보증), 중요성 기준(배출규모별 % 기준), 검증기관 지정 요건(국립환경과학원 지정, 인정 연계) 조문은 원문 열람 실패로 확인하지 못했다.</li>
+<li>「온실가스 배출권거래제의 배출량 보고 및 인증에 관한 지침」, 외부사업(상쇄) 타당성 평가·감축량 인증 지침과 ISO 14064-2의 대응 관계는 이번 세션에서 조사하지 못했다(다른 조사자 범위일 수 있음).</li>
+<li>KS I ISO 14064-1/-2/-3, KS I ISO 14067, KS Q ISO/IEC 17029 등 국내 부합화 표준의 존재 여부와 판 정보는 확인하지 못했다.</li>
+</ul>
+10:["$","div",null,{"className":"pt-6","children":[["$","nav",null,{"aria-label":"현재 위치","className":"text-sm text-ink-soft","children":[["$","$L5",null,{"href":"/","className":"hover:text-ink","children":"홈"}]," ",["$","span",null,{"aria-hidden":true,"children":"›"}]," ",["$","$L5",null,{"href":"/library/","className":"hover:text-ink","children":"자료실"}]," ",["$","span",null,{"aria-hidden":true,"children":"›"}]," ","공식 근거 정리 노트"]}],["$","p",null,{"className":"mt-4 rounded-md bg-panel px-4 py-2.5 text-sm text-ink-soft","children":"작업 중 정리한 문서를 그대로 옮긴 것입니다. 내부 보관 경로는 〔원문 보관함〕으로, 고객사명은 일반 표현으로 바꿨습니다."}],["$","article",null,{"className":"doc mt-6","dangerouslySetInnerHTML":{"__html":"$1a"}}],"$L1b"]}]
+1b:["$","nav",null,{"aria-label":"같은 분류 문서","className":"mt-12 flex flex-wrap justify-between gap-3 border-t border-line pt-6 text-sm","children":[["$","$L5",null,{"href":"/library/note-02/","className":"flex min-h-11 max-w-full items-center gap-1 rounded-md border border-line px-3 hover:border-ink sm:max-w-[40%]","children":["← ",["$","span",null,{"className":"truncate","children":"국내 공식 배출계수·에너지환산계수·공식 데이터셋 (감축량 계산기·MRV 참조 데이터) — 기준일 2026-10-20"}]]}],["$","$L5",null,{"href":"/library/","className":"flex min-h-11 items-center gap-1 rounded-md border border-line px-3 font-semibold hover:border-ink","children":[["$","svg",null,{"width":16,"height":16,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.75,"strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"className":"shrink-0 ","children":[["$","rect",null,{"x":"4","y":"3.5","width":"16","height":"17","rx":"2"}],["$","path",null,{"d":"M8 8.5h8M8 12h8M8 15.5h5"}]]}]," 자료실 목록"]}],["$","$L5",null,{"href":"/library/note-04/","className":"flex min-h-11 max-w-full items-center gap-1 rounded-md border border-line px-3 hover:border-ink sm:max-w-[40%]","children":[["$","span",null,{"className":"truncate","children":"산업설비 개체(Retrofit) 에너지절감 M&V 국제표준 및 한국 기자재 효율기준·시험방법 (기준일 2026-10-20)"}]," →"]}]]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:null
+14:{"metadata":[["$","title","0",{"children":"국제 온실가스 산정·감축량 정량화·검증 표준 (기준일: 2026-10-20) | CarbonSquare 카본스퀘어"}],["$","meta","1",{"name":"description","content":"국가 인벤토리 방법론의 기준은 여전히 「2006 IPCC Guidelines for National Greenhouse Gas Inventories」이고, 「2019 Refinement to the 2006 IPCC Guidelines」가 일부 장을 …"}]],"error":null,"digest":"$undefined"}
+19:"$14:metadata"
