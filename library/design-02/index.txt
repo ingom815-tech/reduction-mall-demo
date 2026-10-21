@@ -5,7 +5,7 @@
 5:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","294","static/chunks/app/library/%5Bslug%5D/page-07eb37a893ed7853.js"],""]
 11:I[7150,[],""]
 :HL["/reduction-mall-demo/_next/static/css/8e24fac3eeb83906.css","style"]
-0:{"P":null,"b":"fb311zRqWrYy61VgAfzEl","p":"/reduction-mall-demo","c":["","library","design-02",""],"i":false,"f":[[["",{"children":["library",{"children":[["slug","design-02","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/reduction-mall-demo/_next/static/css/8e24fac3eeb83906.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"}]}],["$","body",null,{"className":"flex min-h-screen flex-col bg-white","children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-lg focus:bg-ink focus:px-4 focus:py-2 focus:text-white","children":"본문 바로가기"}],["$","$L2",null,{"logo":["$","span",null,{"className":"text-[22px] font-extrabold tracking-tight text-white","children":["Carbon",["$","span",null,{"className":"text-accent-soft","children":"Square"}]]}],"cats":[{"id":"energy-saving","name":"에너지 절감형"},{"id":"process-optimization","name":"공정 최적화형"},{"id":"emission-diagnosis","name":"배출 진단형"},{"id":"renewable","name":"신재생 에너지형"}]}],["$","main",null,{"id":"main","className":"mx-auto w-full max-w-6xl flex-1 px-4 pb-16","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"no-print border-t border-line bg-panel pb-16","children":[["$","div",null,{"className":"mx-auto grid max-w-6xl gap-8 px-4 py-12 text-sm sm:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1fr]","children":[["$","div",null,{"className":"space-y-3","children":[["$","span",null,{"className":"text-[22px] font-extrabold tracking-tight ","children":["Carbon",["$","span",null,{"className":"text-accent","children":"Square"}]]}],["$","p",null,{"className":"max-w-xs text-ink-soft","children":"인포스퀘어가 운영하는 탄소감축 설비 장터. 사업장 설비 정보를 넣으면 맞는 감축 설비와 예상 감축 효과를 공식 산정 기준과 함께 보여드립니다."}]]}],["$","div",null,{"children":[["$","p",null,{"className":"mb-3 font-semibold","children":"제품"}],["$","ul",null,{"className":"space-y-2 text-ink-soft","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/products/","className":"hover:text-ink","children":"전체 제품"}]}],[["$","li","energy-saving",{"children":["$","$L5",null,{"href":"/products/?cat=energy-saving","className":"hover:text-ink","children":"에너지 절감형"}]}],["$","li","process-optimization",{"children":["$","$L5",null,{"href":"/products/?cat=process-optimization","className":"hover:text-ink","children":"공정 최적화형"}]}],["$","li","emission-diagnosis",{"children":["$","$L5",null,{"href":"/products/?cat=emission-diagnosis","className":"hover:text-ink","children":"배출 진단형"}]}],["$","li","renewable",{"children":["$","$L5",null,{"href":"/products/?cat=renewable","className":"hover:text-ink","children":"신재생 에너지형"}]}]]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"mb-3 font-semibold","children":"감축 효과 산정"}],["$","ul",null,{"className":"space-y-2 text-ink-soft","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/simulate/","className":"hover:text-ink","children":"감축 효과 산정하기"}]}],"$L6","$L7","$L8","$L9"]}]]}],"$La"]}],"$Lb"]}],"$Lc"]}]]}]]}],{"children":["library","$Ld",{"children":[["slug","design-02","d"],"$Le",{"children":["__PAGE__","$Lf",{},null,false]},null,false]},null,false]},null,false],"$L10",false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+0:{"P":null,"b":"mQAU1r9EuMSpmJimAMBrc","p":"/reduction-mall-demo","c":["","library","design-02",""],"i":false,"f":[[["",{"children":["library",{"children":[["slug","design-02","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/reduction-mall-demo/_next/static/css/8e24fac3eeb83906.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"}]}],["$","body",null,{"className":"flex min-h-screen flex-col bg-white","children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-lg focus:bg-ink focus:px-4 focus:py-2 focus:text-white","children":"본문 바로가기"}],["$","$L2",null,{"logo":["$","span",null,{"className":"text-[22px] font-extrabold tracking-tight text-white","children":["Carbon",["$","span",null,{"className":"text-accent-soft","children":"Square"}]]}],"cats":[{"id":"energy-saving","name":"에너지 절감형"},{"id":"process-optimization","name":"공정 최적화형"},{"id":"emission-diagnosis","name":"배출 진단형"},{"id":"renewable","name":"신재생 에너지형"}]}],["$","main",null,{"id":"main","className":"mx-auto w-full max-w-6xl flex-1 px-4 pb-16","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"no-print border-t border-line bg-panel pb-16","children":[["$","div",null,{"className":"mx-auto grid max-w-6xl gap-8 px-4 py-12 text-sm sm:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1fr]","children":[["$","div",null,{"className":"space-y-3","children":[["$","span",null,{"className":"text-[22px] font-extrabold tracking-tight ","children":["Carbon",["$","span",null,{"className":"text-accent","children":"Square"}]]}],["$","p",null,{"className":"max-w-xs text-ink-soft","children":"인포스퀘어가 운영하는 탄소감축 설비 장터. 사업장 설비 정보를 넣으면 맞는 감축 설비와 예상 감축 효과를 공식 산정 기준과 함께 보여드립니다."}]]}],["$","div",null,{"children":[["$","p",null,{"className":"mb-3 font-semibold","children":"제품"}],["$","ul",null,{"className":"space-y-2 text-ink-soft","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/products/","className":"hover:text-ink","children":"전체 제품"}]}],[["$","li","energy-saving",{"children":["$","$L5",null,{"href":"/products/?cat=energy-saving","className":"hover:text-ink","children":"에너지 절감형"}]}],["$","li","process-optimization",{"children":["$","$L5",null,{"href":"/products/?cat=process-optimization","className":"hover:text-ink","children":"공정 최적화형"}]}],["$","li","emission-diagnosis",{"children":["$","$L5",null,{"href":"/products/?cat=emission-diagnosis","className":"hover:text-ink","children":"배출 진단형"}]}],["$","li","renewable",{"children":["$","$L5",null,{"href":"/products/?cat=renewable","className":"hover:text-ink","children":"신재생 에너지형"}]}]]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"mb-3 font-semibold","children":"감축 효과 산정"}],["$","ul",null,{"className":"space-y-2 text-ink-soft","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/simulate/","className":"hover:text-ink","children":"감축 효과 산정하기"}]}],"$L6","$L7","$L8","$L9"]}]]}],"$La"]}],"$Lb"]}],"$Lc"]}]]}]]}],{"children":["library","$Ld",{"children":[["slug","design-02","d"],"$Le",{"children":["__PAGE__","$Lf",{},null,false]},null,false]},null,false]},null,false],"$L10",false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
 12:I[3497,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-813976b9a24d0c88.js"],"CompareBar"]
 14:I[4431,[],"OutletBoundary"]
 16:I[5278,[],"AsyncMetadataOutlet"]
@@ -23,7 +23,7 @@ d:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children
 e:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 f:["$","$1","c",{"children":["$L13",null,["$","$L14",null,{"children":["$L15",["$","$L16",null,{"promise":"$@17"}]]}]]}]
 10:["$","$1","h",{"children":[null,[["$","$L18",null,{"children":"$L19"}],null],["$","$L1a",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1b",null,{"fallback":null,"children":"$L1c"}]}]}]]}]
-1d:Ta4cb,<h1>기준데이터 명세 v0.4</h1>
+1d:Tc11c,<h1>기준데이터 명세 v0.4</h1>
 <ul>
 <li>작성일: 2026-10-20, 개정 2026-10-21 (v0.4: 샘플 제품군 7종·샘플 제품 12개 추가, 고지서 자동 입력 단가 규칙 추가 / v0.3: AM0017 원문 반영으로 스팀트랩 템플릿 교체 / v0.2: 설계 검토 반영 — 계수 단위, 발열량 기준, 스팀트랩 기본값, 압축기 파라미터, 외부사업 조건 등)</li>
 <li>성격: 01_시스템설계기획.md 7장 기준데이터의 <strong>초기 값</strong>. 1단계 저장소 JSON의 원본</li>
@@ -520,6 +520,151 @@ f:["$","$1","c",{"children":["$L13",null,["$","$L14",null,{"children":["$L15",["
 <ul>
 <li>확인 못 한 것(조사 노트 요약): IE4 최소효율 수치(IEC 유료 표준), 이코노마이저 단독 인증기준, 스팀 생산형 고온 히트펌프 COP 기준, 태양광 공식 발전량·이용률 기준, 진단 장비 성능(정확도) 공식 기준. 이 값들은 넣지 않음.</li>
 <li>중기부 공고상 FEMS는 &quot;배출진단형&quot;, 인버터는 &quot;에너지절감형&quot;으로 분류되는 부분이 있어 샘플 설명에 함께 적음.</li>
+</ul>
+<h3>4-1-2. 제품 설명 문구 출처 (2026-10-21, 스팀트랩 2종 제외 17개 제품)</h3>
+<ul>
+<li>목적: 제품 상세의 &quot;무엇인가요(summary)&quot;·&quot;이렇게 줄입니다(principle)&quot;·&quot;핵심 특징(highlights)&quot;을 &quot;① 업계에서 통하는 문제와 수치 → ② 이 제품이 바꾸는 것 → ③ 무엇이 줄어드는지&quot; 순서로 다시 씀. 수치는 아래 출처 원문(PDF는 <code>pdftotext</code>로 본문 확인, 웹은 원문 열람)에서만 가져왔고 <code>highlights[].sourceId</code>로 연결함. 못 찾은 수치(국내 조명 전력 비중, 국내 공식 설비이용률, IEA 산업 히트펌프 COP, 국내 FEMS 평균 절감률, 실외기 흡입온도 1℃당 전력 증가율, 쿨루프 실내온도 3~4℃)는 넣지 않음.</li>
+<li>미국 자료(DOE·EPA·EIA)는 &quot;미국 기준&quot;임을 문구에 밝힘. 태양광 설비이용률은 공단 공식값이 아니라 보급통계로 재계산한 값이라고 표시함(근거 등급 &quot;자체 재계산&quot;).</li>
+</ul>
+<div class="doc-table"><table>
+<thead>
+<tr>
+<th>출처 ID</th>
+<th>문서</th>
+<th>쓴 수치·문장</th>
+<th>쓴 제품</th>
+<th>신뢰도</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>SRC-DOE-AIR-TIP-1</code></td>
+<td>DOE Compressed Air Tip Sheet #1 (2004-08)</td>
+<td>산업시설 전력의 약 10%가 압축공기, 종합효율 10~15%, 무부하 시 정격 동력 25% 예시</td>
+<td>압축공기 누설 관리 패키지, 인버터 공기압축기</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-DOE-AIR-TIP-3</code></td>
+<td>DOE Compressed Air Tip Sheet #3 (2004-08)</td>
+<td>누설이 압축기 출력의 20<del>30%, 보수 목표 5</del>10%, 누설량은 구멍 지름 제곱 비례, 상시 프로그램 권고</td>
+<td>압축공기 누설 관리 패키지, 압축공기 누설 탐지기</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-DOE-AIR-SOURCEBOOK-3</code></td>
+<td>DOE Improving Compressed Air System Performance Sourcebook 3판</td>
+<td>가장 비싼 에너지 형태(PDF 29쪽), 누설 20<del>30%(33쪽), 2 psi당 약 1%(39쪽), 모듈레이션 출력 0에서 약 70%(45쪽), 가변속 무부하 10</del>15%(47쪽)</td>
+<td>압축공기 누설 관리 패키지, 인버터 공기압축기</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-DOE-PUMP-TIP-11</code></td>
+<td>DOE Pumping Systems Tip Sheet #11 (2007-01)</td>
+<td>펌프는 최대 수요에 맞춰 크게 선정, 동력은 회전수 세제곱, 20% 감속 시 동력 약 50% 감소</td>
+<td>펌프·팬 인버터 패키지</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-DOE-MOTOR-TIP-1</code></td>
+<td>DOE Motor Systems Tip Sheet #1 (2012-11)</td>
+<td>구매가 2%, 에너지·정비비 98%</td>
+<td>고효율 전동기 IE4</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-DOE-MOTOR-MARKET-1998</code></td>
+<td>DOE 미국 산업용 전동기 구동 시스템 시장조사 (1998)</td>
+<td>미국 산업 전력의 70% 이상이 전동기, 그중 59%가 유체 이송·압축</td>
+<td>고효율 전동기 IE4</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-DOE-STEAM-TIP-3</code></td>
+<td>DOE Steam Tip Sheet #3 (2012-01)</td>
+<td>배기가스는 증기보다 100<del>150°F 높음, 40°F당 효율 1%, 연료 5</del>10% 절감·2년 미만 회수, 적합 보일러 조건</td>
+<td>이코노마이저</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-DOE-STEAM-SOURCEBOOK-2</code></td>
+<td>DOE Improving Steam System Performance Sourcebook 2판 (2012-10)</td>
+<td>ISO 50001 기반 SEP 시범사업 4곳 2~3년 6.5%~15% 이상 개선(PDF 31쪽)</td>
+<td>FEMS</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-DOE-SSL-CALIPER-IND-2017</code></td>
+<td>DOE SSL &quot;A New Report on LED Industrial Luminaires&quot; (2017-04-12)</td>
+<td>산업용 등기구는 역사적으로 HID(메탈할라이드), LED 산업용 평균 광효율 93→115 lm/W, 23%가 130 lm/W 초과</td>
+<td>LED 공장등</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-DOE-SSL-LED-BASICS</code></td>
+<td>DOE SSL &quot;LED Basics&quot; 웹</td>
+<td>LED 수명은 L70으로 표시, 광원 중 최고 광효율</td>
+<td>LED 공장등</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-EIA-FAQ-LIGHTING-2018</code></td>
+<td>미국 EIA FAQ (2018년 자료)</td>
+<td>미국 제조시설 전력의 약 6%가 조명</td>
+<td>LED 공장등</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-DOE-COOLROOF-2021</code></td>
+<td>DOE Energy Saver Cool Roofs (2021-08)</td>
+<td>쿨루프는 햇빛 최대 90% 반사, 일사반사율·열방사율 0~1</td>
+<td>하이브리드 차열도료</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-EPA-COOLROOF-COMPENDIUM-2008</code></td>
+<td>EPA Reducing Urban Heat Islands Compendium — Cool Roofs (2008)</td>
+<td>검은 지붕 180°F(82℃), 단층 건물 실측 절감 10<del>약 70%, 문헌 평균 약 20%(2</del>40% 이상)</td>
+<td>하이브리드 차열도료, 쿨루프 도막방수</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-LBNL-COOLROOF</code></td>
+<td>LBNL Heat Island Group &quot;Cool Roofs&quot; 웹</td>
+<td>반사율 35% vs 10% 지붕 약 12℃ 차이, 열방사율 정의</td>
+<td>쿨루프 도막방수</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-DOE-HVAC-RENOV-2013</code></td>
+<td>DOE Energy Renovations: HVAC (2013)</td>
+<td>실외 부품에 직사광 시 효율 최대 10% 저하(창문형 기준, PDF 44쪽)</td>
+<td>슈퍼네트 실외기 차광</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-DOE-LIGHTWEIGHT-VTO</code></td>
+<td>DOE Vehicle Technologies Office &quot;Lightweight Materials&quot; 웹</td>
+<td>무게 10% 감소 → 연비 6~8%, 차체·섀시 최대 50% 경량화</td>
+<td>ECO-Almag 합금</td>
+<td>원문 확인</td>
+</tr>
+<tr>
+<td><code>SRC-KNREC-SUPPLY-STAT-2024</code></td>
+<td>한국에너지공단 재생에너지센터 보급통계 (2023~2024)</td>
+<td>태양광 발전량 33,236,447 / 37,449,731 MWh, 누적용량 28,033,336 / 32,002,587 kW → 설비이용률 약 13~14% 재계산</td>
+<td>지붕 태양광</td>
+<td>원문 확인 (이용률은 자체 재계산)</td>
+</tr>
+<tr>
+<td><code>SRC-EVO-IPMVP-PRINCIPLES</code></td>
+<td>EVO &quot;Principles of M&amp;V&quot; 웹</td>
+<td>절감은 현장의 현재 측정값에 근거, 측정 경계 안 에너지 사용을 측정으로 정량화</td>
+<td>전력 계측·모니터링</td>
+<td>원문 확인</td>
+</tr>
+</tbody></table></div>
+<ul>
+<li>기존 출처를 그대로 쓴 수치: <code>SRC-SMP-PO-3</code>(1/8인치 25 CFM, 초음파 35<del>45 kHz, 업계 표준), <code>SRC-SMP-PO-4</code>(75% 속도 → 42%/49%, VFD 97%), <code>SRC-DOE-STEAM-TIP-1</code>(15</del>30%, 5% 미만, 1/8인치 150 psig 75.8 lb/h), <code>SRC-SMP-ES-1</code>(LED 110 lm/W, 보일러 배기온도·열효율, 히트펌프 COP 3.2/2.7), <code>SRC-SMP-ES-2</code>(COP 0.92→3.5), <code>SRC-EFF-MGMT-2026-137</code>(37 kW 94.5%), <code>SRC-GIR-EF-2025</code>(0.4149 tCO2/MWh), <code>SRC-CDM-AM0017-V2</code>, <code>SRC-SMP-RE-1/2/3</code>, <code>SRC-IPCC-2006-V2C2</code>, <code>SRC-KTAX-GUIDE-2025</code>, <code>SRC-KEA-MV-40</code>, <code>SRC-KEA-MV-2024</code>, <code>SRC-SMP-PO-1/2</code>, <code>SRC-MSS-2026-89</code>, <code>YI-S15/S20/S21/W01</code>.</li>
 </ul>
 <h3>4-2. 템플릿 <code>PC-AIR-COMPRESSOR</code> v0.2 — <strong>산식 미확정 (작업 R2 완료 후 확정)</strong></h3>
 <div class="doc-table"><table>
